@@ -61,7 +61,7 @@
     },
     "ADOC": {
         "DESIGNATION": "Adocia SA",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPADOC/",
         "HREF_RENDEMENTBOURSE": "/adoc-adocia",
         "ISIN": "FR0011184241",
@@ -85,7 +85,7 @@
     },
     "AF": {
         "DESIGNATION": "Air France-KLM SA",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": null,
         "HREF_RENDEMENTBOURSE": "/af-air-france-klm-sa",
         "ISIN": "FR0000031122",
@@ -301,7 +301,7 @@
     },
     "ALLDL": {
         "DESIGNATION": "Groupe LDLC société anonyme",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPALLDL/",
         "HREF_RENDEMENTBOURSE": "/alldl-groupe-ldlc",
         "ISIN": "FR0000075442",
@@ -373,7 +373,7 @@
     },
     "ALMRB": {
         "DESIGNATION": "Mr.Bricolage S.A.",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPALMRB/",
         "HREF_RENDEMENTBOURSE": "/almrb-mr-bricolage",
         "ISIN": "FR0004034320",
@@ -421,7 +421,7 @@
     },
     "ALPAR": {
         "DESIGNATION": "Groupe Parot SA",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPALPAR/",
         "HREF_RENDEMENTBOURSE": "/alpar-gpe-parot-auto",
         "ISIN": "FR0013204070",
@@ -541,7 +541,7 @@
     },
     "ALVGO": {
         "DESIGNATION": "Vogo SA",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPALVGO/",
         "HREF_RENDEMENTBOURSE": "/alvgo-vogo",
         "ISIN": "FR0011532225",
@@ -673,7 +673,7 @@
     },
     "ATO": {
         "DESIGNATION": "Atos SE",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPATO/",
         "HREF_RENDEMENTBOURSE": "/ato-atos",
         "ISIN": "FR0000051732",
@@ -1009,7 +1009,7 @@
     },
     "CGG": {
         "DESIGNATION": "CGG",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPCGG/",
         "HREF_RENDEMENTBOURSE": "/cgg-cgg",
         "ISIN": "FR0013181864",
@@ -1033,7 +1033,7 @@
     },
     "CLARI": {
         "DESIGNATION": "Clariane SE",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPCLARI/",
         "HREF_RENDEMENTBOURSE": "/clari-clariane-se",
         "ISIN": "FR0010386334",
@@ -1177,7 +1177,7 @@
     },
     "DEC": {
         "DESIGNATION": "JCDecaux SE",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPDEC/",
         "HREF_RENDEMENTBOURSE": "/dec-jc-decaux-sa",
         "ISIN": "FR0000077919",
@@ -1237,7 +1237,7 @@
     },
     "DSY": {
         "DESIGNATION": "Dassault Systèmes SE",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": null,
         "HREF_RENDEMENTBOURSE": "/dsy-dassault-systemes-sa",
         "ISIN": "FR0000130650",
@@ -1249,7 +1249,7 @@
     },
     "EAPI": {
         "DESIGNATION": "Euroapi S.A.",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPEAPI/",
         "HREF_RENDEMENTBOURSE": "/eapi-euroapi-sa",
         "ISIN": "FR0014008VX5",
@@ -1309,7 +1309,7 @@
     },
     "ELIOR": {
         "DESIGNATION": "Elior Group SA",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPELIOR/",
         "HREF_RENDEMENTBOURSE": "/elior-elior-group",
         "ISIN": "FR0011950732",
@@ -1525,7 +1525,7 @@
     },
     "FRVIA": {
         "DESIGNATION": "Forvia SE",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPFRVIA/",
         "HREF_RENDEMENTBOURSE": "/frvia-forvia",
         "ISIN": "FR0000121147",
@@ -1681,7 +1681,7 @@
     },
     "IDL": {
         "DESIGNATION": "ID Logistics Group SA",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPIDL/",
         "HREF_RENDEMENTBOURSE": "/idl-id-logistics-group",
         "ISIN": "FR0010929125",
@@ -2029,7 +2029,7 @@
     },
     "NEOEN": {
         "DESIGNATION": "Neoen S.A.",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPNEOEN/",
         "HREF_RENDEMENTBOURSE": "/neoen-neoen-s-a",
         "ISIN": "FR0011675362",
@@ -2149,7 +2149,7 @@
     },
     "ORP": {
         "DESIGNATION": "Orpea SA",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPORP/",
         "HREF_RENDEMENTBOURSE": "/orp-orpea",
         "ISIN": "FR0000184798",
@@ -2161,7 +2161,7 @@
     },
     "OVH": {
         "DESIGNATION": "OVH Groupe S.A.",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPOVH/",
         "HREF_RENDEMENTBOURSE": "/ovh-ovh-group-sas",
         "ISIN": "FR0014005HJ9",
@@ -2233,7 +2233,7 @@
     },
     "PVL": {
         "DESIGNATION": "Plastiques du Val de Loire",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPPVL/",
         "HREF_RENDEMENTBOURSE": "/pvl-plast-val-loire",
         "ISIN": "FR0013252186",
@@ -2377,7 +2377,7 @@
     },
     "S30": {
         "DESIGNATION": "Solutions 30 SE",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPS30/",
         "HREF_RENDEMENTBOURSE": "/s30-solutions-30-se",
         "ISIN": "FR0013379484",
@@ -2533,7 +2533,7 @@
     },
     "SESL": {
         "DESIGNATION": "SES-imagotag Société Anonyme",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPSESL/",
         "HREF_RENDEMENTBOURSE": "/sesl-ses-imagotag",
         "ISIN": "FR0010282822",
@@ -2593,7 +2593,7 @@
     },
     "SOI": {
         "DESIGNATION": "Soitec SA",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPSOI/",
         "HREF_RENDEMENTBOURSE": "/soi-soitec",
         "ISIN": "FR0013227113",
@@ -2605,7 +2605,7 @@
     },
     "SOLB": {
         "DESIGNATION": "Solvay SA",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPSOLB/",
         "HREF_RENDEMENTBOURSE": "/solb-solvay-sa",
         "ISIN": "BE0003470755",
@@ -2641,7 +2641,7 @@
     },
     "SRP": {
         "DESIGNATION": "SRP Groupe S.A.",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPSRP/",
         "HREF_RENDEMENTBOURSE": "/srp-showroomprive",
         "ISIN": "FR0013006558",
@@ -2834,7 +2834,7 @@
     },
     "UBI": {
         "DESIGNATION": "Ubisoft Entertainment SA",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPUBI/",
         "HREF_RENDEMENTBOURSE": "/ubi-ubisoft-entertain",
         "ISIN": "FR0000054470",
@@ -2858,7 +2858,7 @@
     },
     "VAC": {
         "DESIGNATION": "Pierre et Vacances SA",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPVAC/",
         "HREF_RENDEMENTBOURSE": "/vac-pierre-vacances",
         "ISIN": "FR0000073041",
@@ -2918,7 +2918,7 @@
     },
     "VIRP": {
         "DESIGNATION": "Virbac SA",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPVIRP/",
         "HREF_RENDEMENTBOURSE": "/virp-virbac",
         "ISIN": "FR0000031577",
@@ -2942,7 +2942,7 @@
     },
     "VK": {
         "DESIGNATION": "Vallourec S.A.",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPVK/",
         "HREF_RENDEMENTBOURSE": "/vk-vallourec-sa",
         "ISIN": "FR0013506730",
@@ -2954,7 +2954,7 @@
     },
     "VLA": {
         "DESIGNATION": "Valneva SE",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPVLA/",
         "HREF_RENDEMENTBOURSE": "/vla-valneva",
         "ISIN": "FR0004056851",
@@ -2966,7 +2966,7 @@
     },
     "VLTSA": {
         "DESIGNATION": "Voltalia SA",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPVLTSA/",
         "HREF_RENDEMENTBOURSE": "/vltsa-voltalia",
         "ISIN": "FR0011995588",
@@ -3014,7 +3014,7 @@
     },
     "WLN": {
         "DESIGNATION": "Worldline SA",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPWLN/",
         "HREF_RENDEMENTBOURSE": "/wln-worldline-sa",
         "ISIN": "FR0011981968",
@@ -3026,7 +3026,7 @@
     },
     "XFAB": {
         "DESIGNATION": "X-FAB Silicon Foundries SE",
-        "DIVIDENDE": null,
+        "DIVIDENDE": true,
         "HREF_BOURSORAMA": "/cours/1rPXFAB/",
         "HREF_RENDEMENTBOURSE": "/xfab-x-fab",
         "ISIN": "BE0974310428",
