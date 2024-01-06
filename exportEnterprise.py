@@ -62,7 +62,7 @@ class RendementBourseSite:
 		for txt in txts:
 			if re.match(r"\w+(\.[A-Z]+).+", txt):
 				data["ticker"] = txt.split("–")[0].strip().split(".")[0]
-				data["name"] = txt.split("–")[-1].strip()
+				data["designation"] = txt.split("–")[-1].strip()
 			elif txt.startswith("ISIN:"):
 				data["ISIN"] = txt.split()[-1]
 			elif txt == "Éligible PEA-PME":
@@ -70,7 +70,7 @@ class RendementBourseSite:
 			elif txt == "Éligible PEA":
 				data["PEA"] = True
 		# SOCIETE
-		data["societe"] = soup.select_one(
+		data["name"] = soup.select_one(
 			"#quoteHeader > div > div.d-sm-flex.align-items-center > div > div:nth-child(2) > h1").text.strip().splitlines()[-1].strip()
 		# SECTEUR
 		data["secteur"] = txts[-1]
@@ -99,9 +99,9 @@ class RendementBourseSite:
 			"PEA-PME": None,
 			"dividend": None,
 			"href": None,
-			"name": None,
+			"designation": None,
 			"secteur": None,
-			"societe": None,
+			"name": None,
 			"ticker": None
 			}
 
@@ -129,7 +129,7 @@ class RendementBourseSite:
 					self.fileJson.data()[_ticker] = self.getDefaultDict()
 
 				self.fileJson.data()[_ticker]["ticker"] = _ticker
-				self.fileJson.data()[_ticker]["societe"] = BeautifulSoup(line[1], features="html.parser").find("a").text
+				self.fileJson.data()[_ticker]["name"] = BeautifulSoup(line[1], features="html.parser").find("a").text
 				self.fileJson.data()[_ticker]["href"] = BeautifulSoup(line[1], features="html.parser").find("a").get("href")
 				self.fileJson.data()[_ticker]["secteur"] = BeautifulSoup(line[1], features="html.parser").find("small").text
 				self.fileJson.data()[_ticker]["dividend"] = True

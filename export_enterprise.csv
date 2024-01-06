@@ -1,4 +1,4 @@
-ISIN,PEA,PEA-PME,dividend,href,name,secteur,societe,ticker
+ISIN,PEA,PEA-PME,dividend,href,designation,secteur,name,ticker
 FR0004040608,True,True,True,/abca-abc-arbitrage-sa,ABC arbitrage SA,Finance,ABC ARBITRAGE,ABCA
 FR0013185857,True,True,True,/abeo-abeo,Abéo SA,Consommation discrétionnaire,ABEO,ABEO
 FR0000120404,True,,True,/ac-accor,Accor SA,Consommation discrétionnaire,ACCOR,AC
