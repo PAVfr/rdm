@@ -14,6 +14,20 @@ s = requests.Session()
 s.headers["User-Agent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0"
 
 
+class BousoBankSite:
+	@staticmethod
+	def searchHREF(ISIN: str, place="Euronext Paris"):
+		resp = s.get(url=f"https://www.boursorama.com/recherche/ajax?query={ISIN}&searchId=")
+		soup = BeautifulSoup(resp.text, features="html.parser")
+
+		for result in soup.find_all("a"):
+			p = result.find("p")
+			if p is None:
+				continue
+			elif place == str(p.text).strip():
+				return result.get("href")
+
+
 class RendementBourseSite:
 	def __init__(self):
 		self.fileJson = EasyFileJson("bdd_entreprise.json")
@@ -26,9 +40,10 @@ class RendementBourseSite:
 		# Check la liste à partir du site
 		self.updateByTableSite()
 		# Réccupère les données de chaque page
-		hrefs = [d.get("href") for d in self.values()]
+		hrefs = [d.get("HREF_RENDEMENTBOURSE") for d in self.values()]
 		_ = [hrefs.append(h) for h in FILE_ADD_HREF.splitlines() if h not in hrefs]
 		for v in hrefs:
+			print(v)
 			self.updateOneEnterprise(url=f"https://rendementbourse.com{v}")
 			time.sleep(0.1)
 		# Affiche les ISIN manquant
@@ -36,7 +51,7 @@ class RendementBourseSite:
 
 	def updateOneEnterprise(self, url: str):
 		resp = self.getDataSite(url=url)
-		ticker = resp.get("ticker")
+		ticker = resp.get("TICKER")
 		# Vérifie que le ticker existe, sinon commence avec le dict par défaut
 		if self.fileJson.data().get(ticker) is None:
 			self.fileJson.data()[ticker] = self.getDefaultDict()
@@ -47,6 +62,10 @@ class RendementBourseSite:
 		# Remplace les anciennes données par les nouvelles
 		for k, v in resp.items():
 			self.fileJson.data()[ticker][k] = v
+		# Vérifie le HREF de boursorama
+		ISIN = self.fileJson.data()[ticker].get("ISIN")
+		if self.fileJson.data()[ticker].get("HREF_BOURSORAMA") is None and ISIN:
+			self.fileJson.data()[ticker]["HREF_BOURSORAMA"] = BousoBankSite.searchHREF(ISIN)
 		# Sauvegarde le fichier
 		self.fileJson.save(sort_keys=True)
 
@@ -61,8 +80,8 @@ class RendementBourseSite:
 		txts = [v.text.strip() for v in table_main.find_all("span")]
 		for txt in txts:
 			if re.match(r"\w+(\.[A-Z]+).+", txt):
-				data["ticker"] = txt.split("–")[0].strip().split(".")[0]
-				data["designation"] = txt.split("–")[-1].strip()
+				data["TICKER"] = txt.split("–")[0].strip().split(".")[0]
+				data["DESIGNATION"] = txt.split("–")[-1].strip()
 			elif txt.startswith("ISIN:"):
 				data["ISIN"] = txt.split()[-1]
 			elif txt == "Éligible PEA-PME":
@@ -70,12 +89,12 @@ class RendementBourseSite:
 			elif txt == "Éligible PEA":
 				data["PEA"] = True
 		# SOCIETE
-		data["name"] = soup.select_one(
+		data["NAME"] = soup.select_one(
 			"#quoteHeader > div > div.d-sm-flex.align-items-center > div > div:nth-child(2) > h1").text.strip().splitlines()[-1].strip()
 		# SECTEUR
-		data["secteur"] = txts[-1]
+		data["SECTEUR"] = txts[-1]
 		# href
-		data["href"] = "/" + url.rsplit("/", maxsplit=1)[-1]
+		data["HREF_RENDEMENTBOURSE"] = "/" + url.rsplit("/", maxsplit=1)[-1]
 		return data
 
 	def getAllNoneISIN(self, show=True):
@@ -95,14 +114,15 @@ class RendementBourseSite:
 	def getDefaultDict():
 		return {
 			"ISIN": None,
+			"DESIGNATION": None,
+			"DIVIDENDE": None,
+			"HREF_BOURSORAMA": None,
+			"HREF_RENDEMENTBOURSE": None,
+			"NAME": None,
 			"PEA": None,
 			"PEA-PME": None,
-			"dividend": None,
-			"href": None,
-			"designation": None,
-			"secteur": None,
-			"name": None,
-			"ticker": None
+			"SECTEUR": None,
+			"TICKER": None
 			}
 
 	def updateByTableSite(self) -> dict:
@@ -128,11 +148,11 @@ class RendementBourseSite:
 				if self.fileJson.data().get(_ticker) is None:
 					self.fileJson.data()[_ticker] = self.getDefaultDict()
 
-				self.fileJson.data()[_ticker]["ticker"] = _ticker
-				self.fileJson.data()[_ticker]["name"] = BeautifulSoup(line[1], features="html.parser").find("a").text
-				self.fileJson.data()[_ticker]["href"] = BeautifulSoup(line[1], features="html.parser").find("a").get("href")
-				self.fileJson.data()[_ticker]["secteur"] = BeautifulSoup(line[1], features="html.parser").find("small").text
-				self.fileJson.data()[_ticker]["dividend"] = True
+				self.fileJson.data()[_ticker]["TICKER"] = _ticker
+				self.fileJson.data()[_ticker]["NAME"] = BeautifulSoup(line[1], features="html.parser").find("a").text
+				self.fileJson.data()[_ticker]["HREF_RENDEMENTBOURSE"] = BeautifulSoup(line[1], features="html.parser").find("a").get("href")
+				self.fileJson.data()[_ticker]["SECTEUR"] = BeautifulSoup(line[1], features="html.parser").find("small").text
+				self.fileJson.data()[_ticker]["DIVIDENDE"] = True
 
 			a += len(rjson.get('data'))
 		self.fileJson.save(sort_keys=True)
@@ -171,4 +191,5 @@ if __name__ == '__main__':
 	rdm.updateAllEnterprise()
 	rdm.exportCSV()
 
-	# rdm.addEnterpriseCMD()
+	# bourso = BousoBankSite.searchHREF("FR0010340141")
+	# print(bourso)
