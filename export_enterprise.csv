@@ -1,255 +1,255 @@
-DESIGNATION,DIVIDENDE,HREF_BOURSORAMA,HREF_RENDEMENTBOURSE,ISIN,NAME,PEA,PEA-PME,SECTEUR,TICKER
-ABC arbitrage SA,True,/cours/1rPABCA/,/abca-abc-arbitrage-sa,FR0004040608,ABC ARBITRAGE,True,True,Finance,ABCA
-Abéo SA,True,/cours/1rPABEO/,/abeo-abeo,FR0013185857,ABEO,True,True,Consommation discrétionnaire,ABEO
-Accor SA,True,/cours/1rPAC/,/ac-accor,FR0000120404,ACCOR,True,,Consommation discrétionnaire,AC
-Crédit Agricole S.A.,True,/cours/1rPACA/,/aca-credit-agricole,FR0000045072,CREDIT AGRICOLE,True,,Finance,ACA
-Acanthe Développement,True,/cours/1rPACAN/,/acan-acanthe-dev,FR0000064602,ACANTHE DEV.,True,,Immobilier,ACAN
-Adocia SA,True,/cours/1rPADOC/,/adoc-adocia,FR0011184241,ADOCIA,True,True,Santé,ADOC
-Aeroports de Paris SA,True,/cours/1rPADP/,/adp-aeroport-de-paris-adp,FR0010340141,ADP,True,,Industrie,ADP
-Air France-KLM SA,True,,/af-air-france-klm-sa,FR0000031122,AIR FRANCE -KLM,True,,Industrie,AF
-L'Air Liquide S.A.,True,/cours/1rPAI/,/ai-air-liquide,FR0000120073,AIR LIQUIDE,True,,Matériaux,AI
-Airbus SE,True,/cours/1rPAIR/,/air-airbus-se,NL0000235190,AIRBUS SE,True,,Industrie,AIR
-Arkema S.A.,True,/cours/1rPAKE/,/ake-arkema,FR0010313833,ARKEMA,True,,Matériaux,AKE
-Akwel SA,True,/cours/1rPAKW/,/akw-akwel,FR0000053027,AKWEL,True,,Consommation discrétionnaire,AKW
-Aquila SA,True,/cours/1rEPALAQU/,/alaqu-aquila,FR0010340711,AQUILA,True,True,Industrie,ALAQU
-Clasquin SA,True,/cours/1rEPALCLA/,/alcla-clasquin,FR0004152882,CLASQUIN,True,True,Industrie,ALCLA
-Cofidur S.A.,True,/cours/1rPALCOF/,/alcof-cofidur,FR0013257409,COFIDUR S.A.,True,True,Technologies,ALCOF
-ALD S.A.,True,/cours/1rPALD/,/ald-ald,FR0013258662,ALD,True,,Industrie,ALD
-Delfingen Industry S.A.,True,/cours/1rPALDEL/,/aldel-delfingen,FR0000054132,DELFINGEN INDUSTRY,True,True,Consommation discrétionnaire,ALDEL
-DLSI,True,/cours/1rEPALDLS/,/aldls-d-l-s-i,FR0010404368,D.L.S.I.,True,True,Industrie,ALDLS
-Esker SA,True,/cours/1rPALESK/,/alesk-esker,FR0000035818,ESKER,True,True,Technologies,ALESK
-S.A. Fountaine Pajot,True,/cours/1rPALFPC/,/alfpc-fountaine-pajot,FR0010485268,FOUNTAINE PAJOT,True,True,Consommation discrétionnaire,ALFPC
-Gévelot SA,True,/cours/1rPALGEV/,/algev-gevelot,FR0000033888,GEVELOT,True,,Industrie,ALGEV
-Groupe Guillin S.A.,True,/cours/1rPALGIL/,/algil-groupe-guillin,FR0012819381,GROUPE GUILLIN,True,True,Consommation discrétionnaire,ALGIL
-Gold By Gold SA,True,/cours/1rPALGLD/,/algld-gold-by-gold,FR0011208693,GOLD BY GOLD,True,,Matériaux,ALGLD
-HITECHPROS Société anonyme,True,/cours/1rPALHIT/,/alhit-hitechpros,FR0010396309,HITECHPROS,True,,Technologies,ALHIT
-i2S SA,True,/cours/1rEPALI2S/,/ali2s-i2s,FR0005854700,I2S,True,,Industrie,ALI2S
-Groupe LDLC société anonyme,True,/cours/1rPALLDL/,/alldl-groupe-ldlc,FR0000075442,GROUPE LDLC,,,Consommation discrétionnaire,ALLDL
-Les Hôtels Baverez S.A.,True,/cours/1rPALLHB/,/allhb-les-hotels-baverez,FR0007080254,LES HOTELS BAVEREZ,True,True,Consommation discrétionnaire,ALLHB
-Méthanor SCA,True,/cours/1rEPALMET/,/almet-methanor,FR0011217710,METHANOR,True,True,Services aux collectivités,ALMET
-MG International S.A.,True,/cours/1rPALMGI/,/almgi-mg-international,FR0010204453,MG INTERNATIONAL,True,,Industrie,ALMGI
-1000mercis,True,/cours/1rEPALMIL/,/almil-1000mercis,FR0010285965,1000MERCIS,True,True,Communication,ALMIL
-Moulinvest S.A.,True,/cours/1rPALMOU/,/almou-moulinvest,FR0011033083,MOULINVEST,True,True,Matériaux,ALMOU
-Mr.Bricolage S.A.,True,/cours/1rPALMRB/,/almrb-mr-bricolage,FR0004034320,MR BRICOLAGE,,,Consommation discrétionnaire,ALMRB
-NSE S.A.,True,/cours/1rPALNSE/,/alnse-nse,FR0004065639,NSE,True,,Technologies,ALNSE
-Alstom SA,True,/cours/1rPALO/,/alo-alstom,FR0010220475,ALSTOM,True,,Industrie,ALO
-Ober SA,True,/cours/1rEPALOBR/,/alobr-ober,FR0010330613,OBER,True,True,Industrie,ALOBR
-Groupe Parot SA,True,/cours/1rPALPAR/,/alpar-gpe-parot-auto,FR0013204070,GROUPE PAROT,,,Consommation discrétionnaire,ALPAR
-Piscines Desjoyaux SA,True,/cours/1rPALPDX/,/alpdx-piscines-desjoyaux,FR0000061608,PISCINES DESJOYAUX,True,,Consommation discrétionnaire,ALPDX
-Poujoulat SA,True,/cours/1rPALPJT/,/alpjt-poujoulat,FR0000066441,POUJOULAT,True,True,Industrie,ALPJT
-Réalités S.A.,True,/cours/1rPALREA/,/alrea-realites,FR0011858190,REALITES,True,True,Immobilier,ALREA
-Stradim Espace Finances SA,True,/cours/1rEPALSAS/,/alsas-stradim-espac-fin,FR0000074775,STRADIM,True,True,Immobilier,ALSAS
-Altarea SCA,True,/cours/1rPALTA/,/alta-altarea,FR0000033219,ALTAREA,True,,Immobilier,ALTA
-Travel Technology Interactive,True,/cours/1rPMLTTI-OTC/,/altti-tti,FR0010383877,TRAVEL TECHNOLOGY,True,,Technologies,ALTTI
-"Altur Investissement SCA, SCR",True,/cours/1rPALTUR/,/altur-altur-invest,FR0010395681,ALTUR INVESTISSEMENT,True,True,Finance,ALTUR
-TXCOM Société Anonyme,True,/cours/1rPALTXC-OTC/,/altxc-txcom,FR0010654087,TXCOM,True,,Technologies,ALTXC
-Voyageurs du Monde SA,True,/cours/1rEPALVDM/,/alvdm-voyageurs-du-monde,FR0004045847,VOYAGEURS DU MONDE,True,True,Consommation discrétionnaire,ALVDM
-Vogo SA,True,/cours/1rPALVGO/,/alvgo-vogo,FR0011532225,VOGO,,,Technologies,ALVGO
-Visiativ SA,True,/cours/1rPALVIV/,/alviv-visiativ,FR0004029478,VISIATIV,True,True,Technologies,ALVIV
-We.Connect SA,True,/cours/1rPALWEC/,/alwec-we-connect,FR0013079092,WE.CONNECT,True,True,Technologies,ALWEC
-Wedia SA,True,/cours/1rEPALWED/,/alwed-wedia,FR0010688440,WEDIA,True,,Technologies,ALWED
-Dassault Aviation société anonyme,True,,/am-dassault-aviation-sa,FR0000121725,DASSAULT AVIATION,True,,Industrie,AM
-Amundi S.A.,True,/cours/1rPAMUN/,/amun-amundi,FR0004125920,AMUNDI,True,,Finance,AMUN
-Argan SA,True,/cours/1rPARG/,/arg-argan,FR0010481960,ARGAN,True,,Immobilier,ARG
-Artea SA,True,/cours/1rPARTE/,/arte-artea,FR0012185536,ARTEA,True,True,Immobilier,ARTE
-Société Industrielle et Financière de l'Artois Société anonyme,True,/cours/1rPARTO/,/arto-artois-nom,FR0000076952,ARTOIS NOM.,True,,Technologies,ARTO
-Assystem S.A.,True,/cours/1rPASY/,/asy-assystem-sa,FR0000074148,ASSYSTEM,True,,Industrie,ASY
-Alten S.A.,True,/cours/1rPATE/,/ate-alten,FR0000071946,ALTEN,True,,Technologies,ATE
-Atos SE,True,/cours/1rPATO/,/ato-atos,FR0000051732,ATOS,True,,Technologies,ATO
-Aubay Société Anonyme,True,/cours/1rPAUB/,/aub-aubay,FR0000063737,AUBAY,True,,Technologies,AUB
-Axway Software SA,True,/cours/1rPAXW/,/axw-axway-software,FR0011040500,AXWAY SOFTWARE,True,,Technologies,AXW
-Société Anonyme des Bains de Mer et du Cercle des Étrangers à Monaco,True,/cours/1rPBAIN/,/bain-bains-mer-monaco,MC0000031187,BAINS MER MONACO,True,,Consommation discrétionnaire,BAIN
-BASSAC Société anonyme,True,/cours/1rPBASS/,/lnc-les-nouveaux-constructeurs-sa,FR0004023208,BASSAC,True,True,Consommation discrétionnaire,BASS
-Société BIC SA,True,/cours/1rPBB/,/bb-bic,FR0000120966,BIC,True,,Consommation de base,BB
-Bénéteau S.A.,True,/cours/1rPBEN/,/ben-beneteau,FR0000035164,BENETEAU,True,,Consommation discrétionnaire,BEN
-Financiere et Immobiliere de l'Etang de Berre et de la Mediterranee Société anonyme,True,/cours/1rPBERR/,/berr-fin-etang-berre,FR0000062341,FIN.IMMOB.ETANG BERRE MEDIT.,True,,Immobilier,BERR
-bioMérieux S.A.,True,/cours/1rPBIM/,/bim-biomerieux,FR0013280286,BIOMERIEUX,True,,Santé,BIM
-Danone S.A.,True,/cours/1rPBN/,/bn-danone,FR0000120644,DANONE,True,,Consommation de base,BN
-BNP Paribas SA,True,/cours/1rPBNP/,/bnp-bnp-paribas,FR0000131104,BNP PARIBAS ACT.A,True,,Finance,BNP
-Boiron SA,True,/cours/1rPBOI/,/boi-boiron,FR0000061129,BOIRON,True,,Santé,BOI
-Bolloré SE,True,/cours/1rPBOL/,/bol-bollore,FR0000039299,BOLLORE SE,True,,Communication,BOL
-Bonduelle SCA,True,/cours/1rPBON/,/bon-bonduelle,FR0000063935,BONDUELLE,True,,Consommation de base,BON
-Bourse Direct SA,True,/cours/1rPBSD/,/bsd-bourse-direct,FR0000074254,BOURSE DIRECT,True,True,Finance,BSD
-Burelle SA,True,/cours/1rPBUR/,/bur-burelle,FR0000061137,BURELLE,True,,Consommation discrétionnaire,BUR
-Bureau Veritas SA,True,/cours/1rPBVI/,/bvi-bureau-veritas-sa,FR0006174348,BUREAU VERITAS,True,,Industrie,BVI
-Carrefour SA,True,/cours/1rPCA/,/ca-carrefour,FR0000120172,CARREFOUR,True,,Consommation de base,CA
-Capgemini SE,True,/cours/1rPCAP/,/cap-capgemini-se,FR0000125338,CAPGEMINI,True,,Technologies,CAP
-Carmila S.A.,True,/cours/1rPCARM/,/carm-carmila,FR0010828137,CARMILA,True,,Immobilier,CARM
-Caisse Regionale de Credit Agricole Mutuel Toulouse 31,True,/cours/1rPCAT31/,/cat31-ca-toulouse-31-cci,FR0000045544,CA TOULOUSE 31 CCI,True,,Finance,CAT31
-SA Catana Group,True,/cours/1rPCATG/,/catg-catana-group,FR0010193052,CATANA GROUP,True,,Consommation discrétionnaire,CATG
-Compagnie du Cambodge,True,/cours/1rPCBDG/,/cbdg-cambodge-nom,FR0000079659,CAMBODGE NOM.,True,,Industrie,CBDG
-CBo Territoria SA,True,/cours/1rEPCBOT/,/cbot-cbo-territoria-sa,FR0010193979,CBO TERRITORIA,True,True,Immobilier,CBOT
-Société Centrale des Bois et des Scieries de la Manche S.A.,True,/cours/1rPCBSM/,/cbsm-scbsm,FR0006239109,SCBSM,True,,Immobilier,CBSM
-Caisse Régionale de Crédit Agricole Mutuel de Normandie-Seine Société coopérative,True,/cours/1rPCCN/,/ccn-crcam-norm-seine,FR0000044364,CRCAM NORM.SEINE,True,,Finance,CCN
-Compagnie des Alpes SA,True,/cours/1rPCDA/,/cda-alpes-compagnie,FR0000053324,ALPES (COMPAGNIE),True,,Consommation discrétionnaire,CDA
-Christian Dior SE,True,/cours/1rPCDI/,/cdi-christian-dior,FR0000130403,CHRISTIAN DIOR,True,,Consommation discrétionnaire,CDI
-Groupe CRIT SA,True,/cours/1rPCEN/,/cen-groupe-crit,FR0000036675,GROUPE CRIT,True,,Industrie,CEN
-CGG,True,/cours/1rPCGG/,/cgg-cgg,FR0013181864,CGG,True,,Energie,CGG
-Caisse régionale de Crédit Agricole Mutuel d'Ille-et-Vilaine Société coopérative,True,/cours/1rPCIV/,/civ-crcam-ille-vil-cci,FR0000045213,CRCAM ILLE-VIL.CCI,True,,Finance,CIV
-Clariane SE,True,/cours/1rPCLARI/,/clari-clariane-se,FR0010386334,CLARIANE SE,,,Santé,CLARI
-Caisse Régionale de Crédit Agricole du Morbihan,True,/cours/1rPCMO/,/cmo-crcam-morbihan-cci,FR0000045551,CRCAM MORBIHAN CCI,True,,Finance,CMO
-COFACE SA,True,/cours/1rPCOFA/,/cofa-coface,FR0010667147,COFACE,True,,Finance,COFA
-Courtois S.A.,True,/cours/1rPCOUR/,/cour-courtois,FR0000065393,COURTOIS,True,True,Immobilier,COUR
-Caisse Régionale de Crédit Agricole Mutuel Alpes Provence Société coopérative,True,/cours/1rPCRAP/,/crap-crcam-alp-prov-cci,FR0000044323,CRCAM ALP.PROV.CCI,True,,Finance,CRAP
-Caisse régionale de Crédit Agricole Mutuel Atlantique Vendée,True,/cours/1rPCRAV/,/crav-crcam-atl-vend-cci,FR0000185506,CRCAM ATL.VEND.CCI,True,,Finance,CRAV
-Caisse Régionale de Crédit Agricole Mutuel Brie Picardie Société coopérative,True,/cours/1rPCRBP2/,/crbp2-caisse-regionale-de-credit-agricole-mutuel-brie-picardie-cert-coop-d-invest,FR0010483768,CRCAM BRIE PIC2CCI,True,,Finance,CRBP2
-Chargeurs SA,True,/cours/1rPCRI/,/cri-chargeurs-sa,FR0000130692,CHARGEURS,True,True,Consommation discrétionnaire,CRI
-Caisse Régionale de Crédit Agricole Mutuel du Languedoc Société coopérative,True,/cours/1rPCRLA/,/crla-crcam-langued-cci,FR0010461053,CRCAM LANGUED CCI,True,,Finance,CRLA
-Crosswood SA,True,/cours/1rPCROS/,/cros-crosswood,FR0000050395,CROSSWOOD,True,True,Immobilier,CROS
-AXA SA,True,/cours/1rPCS/,/cs-axa,FR0000120628,AXA,True,,Finance,CS
-Derichebourg SA,True,/cours/1rPDBG/,/dbg-derichebourg-sa,FR0000053381,DERICHEBOURG,True,,Industrie,DBG
-JCDecaux SE,True,/cours/1rPDEC/,/dec-jc-decaux-sa,FR0000077919,JCDECAUX SE,True,,Communication,DEC
-Vinci SA,True,/cours/1rPDG/,/dg-vinci,FR0000125486,VINCI,True,,Industrie,DG
-Sartorius Stedim Biotech S.A.,True,/cours/1rPDIM/,/dim-sartorius-sted-bio,FR0013154002,SARTORIUS STED BIO,True,,Santé,DIM
-ADLPartner SA,True,/cours/1rPDKUPL/,/alp-adl-partner,FR0000062978,DEKUPLE,True,True,Communication,DKUPL
-Les Docks des Pétroles d'Ambès -SA,True,/cours/1rPDPAM/,/dpam-dock-petr-ambes-am,FR0000065260,DOCK.PETR.AMBES AM,True,,Energie,DPAM
-Dassault Systèmes SE,True,,/dsy-dassault-systemes-sa,FR0000130650,DASSAULT SYSTEMES,True,,Technologies,DSY
-Euroapi S.A.,True,/cours/1rPEAPI/,/eapi-euroapi-sa,FR0014008VX5,EUROAPI SA,,,Santé,EAPI
-Edenred SE,True,/cours/1rPEDEN/,/eden-edenred,FR0010908533,EDENRED,True,,Finance,EDEN
-Société de la Tour Eiffel,True,/cours/1rPEIFF/,/eiff-tour-eiffel,FR0000036816,TOUR EIFFEL,True,,Immobilier,EIFF
-EssilorLuxottica Société anonyme,True,/cours/1rPEL/,/el-essilorluxottica-sa,FR0000121667,ESSILORLUXOTTICA,True,,Santé,EL
-Électricite de Strasbourg Société Anonyme,True,/cours/1rPELEC/,/elec-elec-strasbourg,FR0000031023,ELEC.STRASBOURG,True,,Services aux collectivités,ELEC
-Elior Group SA,True,/cours/1rPELIOR/,/elior-elior-group,FR0011950732,ELIOR GROUP,True,,Consommation discrétionnaire,ELIOR
-Elis SA,True,/cours/1rPELIS/,/elis-elis,FR0012435121,ELIS,True,,Industrie,ELIS
-Bouygues SA,True,/cours/1rPEN/,/en-bouygues,FR0000120503,BOUYGUES,True,,Industrie,EN
-Engie SA,True,/cours/1rPENGI/,/engi-engie,FR0010208488,ENGIE,True,,Services aux collectivités,ENGI
-Euronext N.V.,True,/cours/1rPENX/,/enx-euronext,NL0006294274,EURONEXT,True,,Finance,ENX
-ERAMET S.A.,True,/cours/1rPERA/,/era-eramet,FR0000131757,ERAMET,True,,Matériaux,ERA
-Eurofins Scientific SE,True,/cours/1rPERF/,/erf-eurofins-scient,FR0014000MR3,EUROFINS SCIENT.,True,,Santé,ERF
-Esso S.A.F.,True,/cours/1rPES/,/es-esso,FR0000120669,ESSO,True,,Energie,ES
-Eutelsat Group,True,/cours/1rPETL/,/etl-eutelsat-communication,FR0010221234,EUTELSAT COMMUNIC.,True,True,Technologies,ETL
-EURO Ressources S.A.,True,/cours/1rPEUR/,/eur-euro-ressources,FR0000054678,EURO RESSOURCES,True,,Matériaux,EUR
-EXEL Industries SA,True,/cours/1rPEXE/,/exe-exel-industries,FR0004527638,EXEL INDUSTRIES,True,True,Industrie,EXE
-Société Fermière du Casino Municipal de Cannes,True,/cours/1rPFCMC/,/fcmc-ferm-cas-mun-canne,FR0000062101,FERM.CASINO MUNICIPAL CANNES,True,,Consommation discrétionnaire,FCMC
-La Française des Jeux Société anonyme,True,/cours/1rPFDJ/,/fdj-francaise-des-jeux-fdj,FR0013451333,FDJ,True,,Consommation discrétionnaire,FDJ
-Eiffage SA,True,/cours/1rPFGR/,/fgr-eiffage,FR0000130452,EIFFAGE,True,,Industrie,FGR
-Lisi S.A.,True,/cours/1rPFII/,/fii-lisi,FR0000050353,LISI,True,,Industrie,FII
-Fnac Darty SA,True,/cours/1rPFNAC/,/fnac-fnac-darty,FR0011476928,FNAC DARTY,True,,Consommation discrétionnaire,FNAC
-Valeo SE,True,/cours/1rPFR/,/fr-valeo,FR0013176526,VALEO,True,,Consommation discrétionnaire,FR
-Frey SA,True,/cours/1rPFREY/,/frey-frey,FR0010588079,FREY,True,,Immobilier,FREY
-Forvia SE,True,/cours/1rPFRVIA/,/frvia-forvia,FR0000121147,FORVIA,,,Consommation discrétionnaire,FRVIA
-Galimmo SCA,True,/cours/1rPGALIM/,/galim-galimmo,FR0000030611,GALIMMO,True,,Immobilier,GALIM
-Guerbet SA,True,/cours/1rPGBT/,/gbt-guerbet,FR0000032526,GUERBET,True,True,Santé,GBT
-Grenobloise d'Electronique et d'Automatismes Société Anonyme,True,/cours/1rPGEA/,/gea-gea-grenobl-elect,FR0000053035,GEA GRENOBL.ELECT.,True,,Industrie,GEA
-Getlink SE,True,/cours/1rPGET/,/get-getlink-se,FR0010533075,GETLINK SE,True,True,Industrie,GET
-Société Générale Société anonyme,True,/cours/1rPGLE/,/gle-societe-generale,FR0000130809,SOCIETE GENERALE,True,,Finance,GLE
-GL Events SA,True,/cours/1rPGLO/,/glo-gl-events-sa,FR0000066672,GL EVENTS,True,True,Industrie,GLO
-Groupe Pizzorno Environnement,True,/cours/1rPGPE/,/gpe-gpe-group-pizzorno,FR0010214064,GPE GROUP PIZZORNO,True,,Industrie,GPE
-Gaztransport & Technigaz SA,True,/cours/1rPGTT/,/gtt-gaztransport-technigaz,FR0011726835,GAZTRANSPORT & TECHNIGAZ,True,,Energie,GTT
-Guillemot Corporation S.A.,True,/cours/1rPGUI/,/gui-guillemot,FR0000066722,GUILLEMOT,True,,Technologies,GUI
-High Co. SA,True,/cours/1rPHCO/,/hco-highco-sa,FR0000054231,HIGH CO,True,True,Communication,HCO
-Thales S.A.,True,/cours/1rPHO/,/ho-thales-sa,FR0000121329,THALES,True,,Industrie,HO
-IDI,True,/cours/1rPIDIP/,/idip-idi,FR0000051393,IDI,True,True,Finance,IDIP
-ID Logistics Group SA,True,/cours/1rPIDL/,/idl-id-logistics-group,FR0010929125,ID LOGISTICS GROUP,True,,Industrie,IDL
-Immobiliere Dassault SA,True,/cours/1rPIMDA/,/imda-immob-dassault,FR0000033243,IMMOB.DASSAULT,True,,Immobilier,IMDA
-Infotel SA,True,/cours/1rPINF/,/inf-infotel,FR0000071797,INFOTEL,True,True,Technologies,INF
-Compagnie Industrielle et Financière d'Entreprises SA,True,/cours/1rPINFE/,/infe-indle-fin-entrepr,FR0000066219,INDLE FIN.ENTREPRISES,True,True,Industrie,INFE
-Ipsen S.A.,True,/cours/1rPIPN/,/ipn-ipsen,FR0010259150,IPSEN,True,,Santé,IPN
-Ipsos SA,True,/cours/1rPIPS/,/ips-ipsos-sa,FR0000073298,IPSOS,True,,Communication,IPS
-Interparfums SA,True,/cours/1rPITP/,/itp-interparfums,FR0004024222,INTERPARFUMS,True,,Consommation de base,ITP
-Jacques Bogart S.A.,True,/cours/1rPJBOG/,/jbog-jacques-bogart,FR0012872141,JACQUES BOGART,True,True,Consommation de base,JBOG
-Jacquet Metals SA,True,/cours/1rPJCQ/,/jcq-jacquet-metal-sce,FR0000033904,JACQUET METALS,True,True,Matériaux,JCQ
-Kering SA,True,/cours/1rPKER/,/ker-kering,FR0000121485,KERING,True,,Consommation discrétionnaire,KER
-Kaufman & Broad S.A.,True,/cours/1rPKOF/,/kof-kaufman-et-broad,FR0004007813,KAUFMAN ET BROAD,True,True,Consommation discrétionnaire,KOF
-LACROIX Group SA,True,/cours/1rPLACR/,/lacr-lacroix-sa,FR0000066607,LACROIX GROUP,True,True,Technologies,LACR
-Linedata Services S.A.,True,/cours/1rPLIN/,/lin-linedata-services,FR0004156297,LINEDATA SERVICES,True,True,Technologies,LIN
-LNA Santé SA,True,/cours/1rPLNA/,/lna-lna-sante,FR0004170017,LNA SANTE,True,True,Santé,LNA
-L.D.C. S.A.,True,/cours/1rPLOUP/,/loup-ldc,FR0013204336,L.D.C.,True,,Consommation de base,LOUP
-Laurent-Perrier S.A.,True,/cours/1rPLPE/,/lpe-laurent-perrier,FR0006864484,LAURENT-PERRIER,True,True,Consommation de base,LPE
-Legrand SA,True,/cours/1rPLR/,/lr-legrand-sa,FR0010307819,LEGRAND,True,,Industrie,LR
-Lectra SA,True,/cours/1rPLSS/,/lss-lectra,FR0000065484,LECTRA,True,True,Technologies,LSS
-Altamir Ord,True,/cours/1rPLTA/,/lta-altamir,FR0000053837,ALTAMIR,True,,Finance,LTA
-Etablissements Maurel & Prom S.A.,True,/cours/1rPMAU/,/mau-maurel-et-prom,FR0000051070,MAUREL ET PROM,True,True,Energie,MAU
-"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",True,/cours/1rPMC/,/mc-lvmh,FR0000121014,LVMH,True,,Consommation discrétionnaire,MC
-Maisons du Monde S.A.,True,/cours/1rPMDM/,/mdm-maison-du-monde,FR0013153541,MAISONS DU MONDE,True,,Consommation discrétionnaire,MDM
-Wendel,True,/cours/1rPMF/,/mf-wendel,FR0000121204,WENDEL,True,,Finance,MF
-Compagnie Générale des Établissements Michelin Société en commandite par actions,True,,/ml-michelin,FR0000121261,MICHELIN,True,,Consommation discrétionnaire,ML
-Lagardere SA,True,/cours/1rPMMB/,/mmb-lagardere,FR0000130213,LAGARDERE SA,True,,Consommation discrétionnaire,MMB
-Métropole Télévision S.A.,True,/cours/1rPMMT/,/mmt-metropole-tv,FR0000053225,METROPOLE TV,True,,Communication,MMT
-MRM,True,,/mrm-m-r-m,FR0000060196,M.R.M,True,,Immobilier,MRM
-Mersen S.A.,True,/cours/1rPMRN/,/mrn-mersen,FR0000039620,MERSEN,True,,Industrie,MRN
-Manitou BF SA,True,,/mtu-manitou-bf,FR0000032302,MANITOU BF,True,,Industrie,MTU
-Neoen S.A.,True,/cours/1rPNEOEN/,/neoen-neoen-s-a,FR0011675362,NEOEN,True,,Services aux collectivités,NEOEN
-Nexans S.A.,True,/cours/1rPNEX/,/nex-nexans,FR0000044448,NEXANS,True,,Industrie,NEX
-Imerys S.A.,True,/cours/1rPNK/,/nk-imerys-sa,FR0000120859,IMERYS,True,,Matériaux,NK
-Nokia Oyj,True,/cours/1rPNOKIA/,/nokia-nokia,FI0009000681,NOKIA,True,,Technologies,NOKIA
-NRJ Group SA,True,/cours/1rPNRG/,/nrg-nrj-group,FR0000121691,NRJ GROUP,True,True,Communication,NRG
-Neurones S.A.,True,/cours/1rPNRO/,/nro-neurones,FR0004050250,NEURONES,True,,Technologies,NRO
-Nexity SA,True,/cours/1rPNXI/,/nxi-nexity,FR0010112524,NEXITY,True,,Immobilier,NXI
-L'Oréal S.A.,True,/cours/1rPOR/,/or-l-oreal,FR0000120321,L'OREAL,True,,Consommation de base,OR
-Orange S.A.,True,/cours/1rPORA/,/ora-orange,FR0000133308,ORANGE,True,,Communication,ORA
-Fiducial Real Estate SA,True,/cours/1rPORIA/,/oria-fiducial-real-est,FR0000060535,FIDUCIAL REAL EST.,True,,Immobilier,ORIA
-Orpea SA,True,/cours/1rPORP/,/orp-orpea,FR0000184798,ORPEA,True,,Santé,ORP
-OVH Groupe S.A.,True,/cours/1rPOVH/,/ovh-ovh-group-sas,FR0014005HJ9,OVH,,,Technologies,OVH
-Paref SA,True,/cours/1rPPAR/,/par-paref,FR0010263202,PAREF,True,,Immobilier,PAR
-Groupe Partouche SA,True,/cours/1rPPAR/,/parp-groupe-partouche,FR0010263202,GROUPE PARTOUCHE,True,True,Consommation discrétionnaire,PARP
-Gérard Perrier Industrie S.A.,True,/cours/1rPPERR/,/perr-perrier-gerard,FR0000061459,PERRIER (GERARD),True,True,Industrie,PERR
-Compagnie Plastic Omnium SE,True,/cours/1rPPOM/,/pom-plastic-omnium,FR0000124570,PLASTIC OMNIUM,True,,Consommation discrétionnaire,POM
-Publicis Groupe S.A.,True,/cours/1rPPUB/,/pub-publicis-groupe-sa,FR0000130577,PUBLICIS GROUPE SA,True,,Communication,PUB
-Plastiques du Val de Loire,True,/cours/1rPPVL/,/pvl-plast-val-loire,FR0013252186,PLAST.VAL LOIRE,True,True,Consommation discrétionnaire,PVL
-Quadient S.A.,True,/cours/1rPQDT/,/qdt-quadient,FR0000120560,QUADIENT S.A.,True,,Technologies,QDT
-Roche Bobois S.A.,True,/cours/1rPRBO/,/rbo-roche-bobois,FR0013344173,ROCHE BOBOIS,True,True,Consommation discrétionnaire,RBO
-Robertet SA,True,/cours/1rPRBT/,/rbt-robertet,FR0000039091,ROBERTET,True,True,Matériaux,RBT
-Rémy Cointreau SA,True,/cours/1rPRCO/,/rco-remy-cointreau,FR0000130395,REMY COINTREAU,True,,Consommation de base,RCO
-Colas SA,True,/cours/1rPRE/,/re-colas,FR0000121634,COLAS,True,,Industrie,RE
-Eurazeo SE,True,/cours/1rPRF/,/rf-eurazeo,FR0000121121,EURAZEO SE,True,,Finance,RF
-Pernod Ricard SA,True,/cours/1rPRI/,/ri-pernod-ricard-sa,FR0000120693,PERNOD RICARD,True,,Consommation de base,RI
-Hermès International Société en commandite par actions,True,/cours/1rPRMS/,/rms-hermes-international,FR0000052292,HERMES INTL,True,,Consommation discrétionnaire,RMS
-Renault SA,True,/cours/1rPRNO/,/rno-renault,FR0000131906,RENAULT,True,,Consommation discrétionnaire,RNO
-Rubis,True,/cours/1rPRUI/,/rui-rubis,FR0013269123,RUBIS,True,,Services aux collectivités,RUI
-Rexel S.A.,True,/cours/1rPRXL/,/rxl-rexel,FR0010451203,REXEL,True,,Industrie,RXL
-Solutions 30 SE,True,/cours/1rPS30/,/s30-solutions-30-se,FR0013379484,SOLUTIONS 30 SE,,,Technologies,S30
-Fiducial Office Solutions,True,/cours/1rPSACI/,/saci-fiducial-off-sol,FR0000061418,FIDUCIAL OFF.SOL.,True,,Industrie,SACI
-Safran SA,True,/cours/1rPSAF/,/saf-safran-s-a,FR0000073272,SAFRAN,True,,Industrie,SAF
-Samse SA,True,/cours/1rPSAMS/,/sams-samse,FR0000060071,SAMSE,True,,Industrie,SAMS
-Sanofi,True,/cours/1rPSAN/,/san-sanofi,FR0000120578,SANOFI,True,,Santé,SAN
-Savencia SA,True,/cours/1rPSAVE/,/save-savencia,FR0000120107,SAVENCIA S.A.,True,,Consommation de base,SAVE
-Oeneo SA,True,/cours/1rPSBT/,/sbt-oeneo,FR0000052680,OENEO,True,,Consommation de base,SBT
-Séché Environnement SA,True,/cours/1rPSCHP/,/schp-seche-environnem,FR0000039109,SECHE ENVIRONNEM.,True,True,Industrie,SCHP
-SCOR SE,True,/cours/1rPSCR/,/scr-scor,FR0010411983,SCOR SE,True,,Finance,SCR
-Synergie SE,True,/cours/1rPSDG/,/sdg-synergie,FR0000032658,SYNERGIE,True,,Industrie,SDG
-SergeFerrari Group SA,True,/cours/1rPSEFER/,/sefer-sergeferrari-group,FR0011950682,SERGEFERRARI GROUP,True,True,Industrie,SEFER
-Selectirente,True,/cours/1rPSELER/,/seler-selectirente,FR0004175842,SELECTIRENTE,True,,Immobilier,SELER
-SES S.A.,True,/cours/1rPSESG/,/sesg-ses-sa-fdr-class-a,LU0088087324,SES,True,,Communication,SESG
-SES-imagotag Société Anonyme,True,/cours/1rPSESL/,/sesl-ses-imagotag,FR0010282822,SES IMAGOTAG,True,True,Technologies,SESL
-GROUPE SFPI SA,True,/cours/1rPSFPI/,/sfpi-groupe-sfpi,FR0004155000,GROUPE SFPI,True,True,Industrie,SFPI
-Compagnie de Saint-Gobain S.A.,True,/cours/1rPSGO/,/sgo-saint-gobain,FR0000125007,SAINT GOBAIN,True,,Industrie,SGO
-SII S.A.,True,/cours/1rPSII/,/sii-sii,FR0000074122,SII,True,True,Technologies,SII
-SEB SA,True,/cours/1rPSK/,/sk-seb,FR0000121709,S.E.B.,True,,Consommation discrétionnaire,SK
-Soitec SA,True,/cours/1rPSOI/,/soi-soitec,FR0013227113,SOITEC,True,True,Technologies,SOI
-Solvay SA,True,/cours/1rPSOLB/,/solb-solvay-sa,BE0003470755,SOLVAY,,,Matériaux,SOLB
-Sopra Steria Group SA,True,/cours/1rPSOP/,/sop-sopra-steria-group,FR0000050809,SOPRA STERIA GROUP,True,,Technologies,SOP
-SPIE SA,True,/cours/1rPSPIE/,/spie-spie,FR0012757854,SPIE,True,,Industrie,SPIE
-SRP Groupe S.A.,True,/cours/1rPSRP/,/srp-showroomprive,FR0013006558,SHOWROOMPRIVE,True,True,Consommation discrétionnaire,SRP
-STEF SA,True,/cours/1rPSTF/,/stf-stef,FR0000064271,STEF,True,,Industrie,STF
-Stellantis N.V.,True,/cours/1rPSTLAP/,/stla-stellantis,NL00150001Q9,STELLANTIS NV,True,,Consommation discrétionnaire,STLAP
-STMicroelectronics N.V.,True,/cours/1rPSTMPA/,/stm-stmicroelectronics,NL0000226223,STMICROELECTRONICS,True,,Technologies,STMPA
-Schneider Electric S.E.,True,/cours/1rPSU/,/su-schneider-electric-se,FR0000121972,SCHNEIDER ELECTRIC SE,True,,Industrie,SU
-Sodexo S.A.,True,/cours/1rPSW/,/sw-sodexo,FR0000121220,SODEXO,True,,Industrie,SW
-Sword Group S.E.,True,/cours/1rPSWP/,/swp-sword-group,FR0004180578,SWORD GROUP,True,True,Technologies,SWP
-Teleperformance SE,True,/cours/1rPTEP/,/tep-teleperformance-se,FR0000051807,TELEPERFORMANCE,True,,Industrie,TEP
-TFF Group,True,/cours/1rPTFF/,/tff-tff-group,FR0013295789,TFF GROUP,True,True,Consommation discrétionnaire,TFF
-TF1 SA,True,/cours/1rPTFI/,/tfi-tf1,FR0000054900,TF1,True,,Communication,TFI
-Thermador Groupe SA,True,/cours/1rPTHEP/,/thep-thermador-holding-sa,FR0013333432,THERMADOR GROUPE,True,True,Industrie,THEP
-Tipiak Société Anonyme,True,/cours/1rPTIPI/,/tipi-tipiak,FR0000066482,TIPIAK,True,True,Consommation de base,TIPI
-Tikehau Capital,True,/cours/1rPTKO/,/tko-tikehau-capital,FR0013230612,TIKEHAU CAPITAL,True,,Finance,TKO
-Touax SCA,True,/cours/1rPTOUP/,/toup-touax,FR0000033003,TOUAX,True,True,Industrie,TOUP
-Trigano S.A.,True,/cours/1rPTRI/,/tri-trigano,FR0005691656,TRIGANO,True,True,Consommation discrétionnaire,TRI
-TotalEnergies SE,True,/cours/1rPTTE/,/fp-total,FR0000120271,TOTALENERGIES,True,,Energie,TTE
-Ubisoft Entertainment SA,True,/cours/1rPUBI/,/ubi-ubisoft-entertain,FR0000054470,UBISOFT ENTERTAIN,True,,Communication,UBI
-Unibel S.A.,True,/cours/1rPUNBL/,/unbl-unibel,FR0000054215,UNIBEL,True,,Consommation de base,UNBL
-Pierre et Vacances SA,True,/cours/1rPVAC/,/vac-pierre-vacances,FR0000073041,PIERRE VACANCES,True,,Consommation discrétionnaire,VAC
-Vicat S.A.,True,/cours/1rPVCT/,/vct-vicat,FR0000031775,VICAT,True,,Matériaux,VCT
-Vetoquinol SA,True,/cours/1rPVETO/,/veto-vetoquinol,FR0004186856,VETOQUINOL,True,True,Santé,VETO
-Veolia Environnement SA,True,/cours/1rPVIE/,/vie-veolia-environnement,FR0000124141,VEOLIA ENVIRON.,True,,Services aux collectivités,VIE
-"VIEL & Cie, société anonyme",True,/cours/1rPVIL/,/vil-viel-et-compagnie,FR0000050049,VIEL ET COMPAGNIE,True,,Finance,VIL
-Virbac SA,True,/cours/1rPVIRP/,/virp-virbac,FR0000031577,VIRBAC,True,True,Santé,VIRP
-Vivendi SE,True,/cours/1rPVIV/,/viv-vivendi,FR0000127771,VIVENDI SE,True,,Communication,VIV
-Vallourec S.A.,True,/cours/1rPVK/,/vk-vallourec-sa,FR0013506730,VALLOUREC,True,,Matériaux,VK
-Valneva SE,True,/cours/1rPVLA/,/vla-valneva,FR0004056851,VALNEVA SE,True,True,Santé,VLA
-Voltalia SA,True,/cours/1rPVLTSA/,/vltsa-voltalia,FR0011995588,VOLTALIA,True,,Services aux collectivités,VLTSA
-Vranken-Pommery Monopole Société Anonyme,True,/cours/1rPVRAP/,/vrap-vranken-pommery,FR0000062796,VRANKEN-POMMERY,True,True,Consommation de base,VRAP
-Verallia Société Anonyme,True,/cours/1rPVRLA/,/vrla-verallia,FR0013447729,VERALLIA,True,,Consommation discrétionnaire,VRLA
-Wavestone SA,True,/cours/1rPWAVE/,/wave-wavestone,FR0013357621,WAVESTONE,True,True,Technologies,WAVE
-Worldline SA,True,/cours/1rPWLN/,/wln-worldline-sa,FR0011981968,WORLDLINE,True,,Technologies,WLN
-X-FAB Silicon Foundries SE,True,/cours/1rPXFAB/,/xfab-x-fab,BE0974310428,X-FAB SILICON FOUNDRIES SE,True,,Technologies,XFAB
+TICKER,DESIGNATION,DIVIDENDE,HREF_BOURSORAMA,HREF_RENDEMENTBOURSE,ISIN,NAME,PEA,PEA-PME,SECTEUR
+ALMIL,1000mercis,True,/cours/1rEPALMIL/,/almil-1000mercis,FR0010285965,1000MERCIS,True,True,Communication
+ABCA,ABC arbitrage SA,True,/cours/1rPABCA/,/abca-abc-arbitrage-sa,FR0004040608,ABC ARBITRAGE,True,True,Finance
+ABEO,Abéo SA,True,/cours/1rPABEO/,/abeo-abeo,FR0013185857,ABEO,True,True,Consommation discrétionnaire
+ACAN,Acanthe Développement,True,/cours/1rPACAN/,/acan-acanthe-dev,FR0000064602,ACANTHE DEV.,True,,Immobilier
+AC,Accor SA,True,/cours/1rPAC/,/ac-accor,FR0000120404,ACCOR,True,,Consommation discrétionnaire
+ADP,Aeroports de Paris SA,True,/cours/1rPADP/,/adp-aeroport-de-paris-adp,FR0010340141,ADP,True,,Industrie
+AI,L'Air Liquide S.A.,True,/cours/1rPAI/,/ai-air-liquide,FR0000120073,AIR LIQUIDE,True,,Matériaux
+AIR,Airbus SE,True,/cours/1rPAIR/,/air-airbus-se,NL0000235190,AIRBUS SE,True,,Industrie
+AKW,Akwel SA,True,/cours/1rPAKW/,/akw-akwel,FR0000053027,AKWEL,True,,Consommation discrétionnaire
+ALD,ALD S.A.,True,/cours/1rPALD/,/ald-ald,FR0013258662,ALD,True,,Industrie
+CDA,Compagnie des Alpes SA,True,/cours/1rPCDA/,/cda-alpes-compagnie,FR0000053324,ALPES (COMPAGNIE),True,,Consommation discrétionnaire
+ALO,Alstom SA,True,/cours/1rPALO/,/alo-alstom,FR0010220475,ALSTOM,True,,Industrie
+LTA,Altamir Ord,True,/cours/1rPLTA/,/lta-altamir,FR0000053837,ALTAMIR,True,,Finance
+ALTA,Altarea SCA,True,/cours/1rPALTA/,/alta-altarea,FR0000033219,ALTAREA,True,,Immobilier
+ATE,Alten S.A.,True,/cours/1rPATE/,/ate-alten,FR0000071946,ALTEN,True,,Technologies
+ALTUR,"Altur Investissement SCA, SCR",True,/cours/1rPALTUR/,/altur-altur-invest,FR0010395681,ALTUR INVESTISSEMENT,True,True,Finance
+AMUN,Amundi S.A.,True,/cours/1rPAMUN/,/amun-amundi,FR0004125920,AMUNDI,True,,Finance
+ALAQU,Aquila SA,True,/cours/1rEPALAQU/,/alaqu-aquila,FR0010340711,AQUILA,True,True,Industrie
+ARG,Argan SA,True,/cours/1rPARG/,/arg-argan,FR0010481960,ARGAN,True,,Immobilier
+AKE,Arkema S.A.,True,/cours/1rPAKE/,/ake-arkema,FR0010313833,ARKEMA,True,,Matériaux
+ARTE,Artea SA,True,/cours/1rPARTE/,/arte-artea,FR0012185536,ARTEA,True,True,Immobilier
+ARTO,Société Industrielle et Financière de l'Artois Société anonyme,True,/cours/1rPARTO/,/arto-artois-nom,FR0000076952,ARTOIS NOM.,True,,Technologies
+ASY,Assystem S.A.,True,/cours/1rPASY/,/asy-assystem-sa,FR0000074148,ASSYSTEM,True,,Industrie
+AUB,Aubay Société Anonyme,True,/cours/1rPAUB/,/aub-aubay,FR0000063737,AUBAY,True,,Technologies
+CS,AXA SA,True,/cours/1rPCS/,/cs-axa,FR0000120628,AXA,True,,Finance
+AXW,Axway Software SA,True,/cours/1rPAXW/,/axw-axway-software,FR0011040500,AXWAY SOFTWARE,True,,Technologies
+BAIN,Société Anonyme des Bains de Mer et du Cercle des Étrangers à Monaco,True,/cours/1rPBAIN/,/bain-bains-mer-monaco,MC0000031187,BAINS MER MONACO,True,,Consommation discrétionnaire
+BASS,BASSAC Société anonyme,True,/cours/1rPBASS/,/lnc-les-nouveaux-constructeurs-sa,FR0004023208,BASSAC,True,True,Consommation discrétionnaire
+BEN,Bénéteau S.A.,True,/cours/1rPBEN/,/ben-beneteau,FR0000035164,BENETEAU,True,,Consommation discrétionnaire
+BB,Société BIC SA,True,/cours/1rPBB/,/bb-bic,FR0000120966,BIC,True,,Consommation de base
+BIM,bioMérieux S.A.,True,/cours/1rPBIM/,/bim-biomerieux,FR0013280286,BIOMERIEUX,True,,Santé
+BNP,BNP Paribas SA,True,/cours/1rPBNP/,/bnp-bnp-paribas,FR0000131104,BNP PARIBAS ACT.A,True,,Finance
+BOI,Boiron SA,True,/cours/1rPBOI/,/boi-boiron,FR0000061129,BOIRON,True,,Santé
+BOL,Bolloré SE,True,/cours/1rPBOL/,/bol-bollore,FR0000039299,BOLLORE SE,True,,Communication
+BON,Bonduelle SCA,True,/cours/1rPBON/,/bon-bonduelle,FR0000063935,BONDUELLE,True,,Consommation de base
+BSD,Bourse Direct SA,True,/cours/1rPBSD/,/bsd-bourse-direct,FR0000074254,BOURSE DIRECT,True,True,Finance
+EN,Bouygues SA,True,/cours/1rPEN/,/en-bouygues,FR0000120503,BOUYGUES,True,,Industrie
+BVI,Bureau Veritas SA,True,/cours/1rPBVI/,/bvi-bureau-veritas-sa,FR0006174348,BUREAU VERITAS,True,,Industrie
+BUR,Burelle SA,True,/cours/1rPBUR/,/bur-burelle,FR0000061137,BURELLE,True,,Consommation discrétionnaire
+CAT31,Caisse Regionale de Credit Agricole Mutuel Toulouse 31,True,/cours/1rPCAT31/,/cat31-ca-toulouse-31-cci,FR0000045544,CA TOULOUSE 31 CCI,True,,Finance
+CBDG,Compagnie du Cambodge,True,/cours/1rPCBDG/,/cbdg-cambodge-nom,FR0000079659,CAMBODGE NOM.,True,,Industrie
+CAP,Capgemini SE,True,/cours/1rPCAP/,/cap-capgemini-se,FR0000125338,CAPGEMINI,True,,Technologies
+CARM,Carmila S.A.,True,/cours/1rPCARM/,/carm-carmila,FR0010828137,CARMILA,True,,Immobilier
+CA,Carrefour SA,True,/cours/1rPCA/,/ca-carrefour,FR0000120172,CARREFOUR,True,,Consommation de base
+CATG,SA Catana Group,True,/cours/1rPCATG/,/catg-catana-group,FR0010193052,CATANA GROUP,True,,Consommation discrétionnaire
+CBOT,CBo Territoria SA,True,/cours/1rEPCBOT/,/cbot-cbo-territoria-sa,FR0010193979,CBO TERRITORIA,True,True,Immobilier
+CRI,Chargeurs SA,True,/cours/1rPCRI/,/cri-chargeurs-sa,FR0000130692,CHARGEURS,True,True,Consommation discrétionnaire
+CDI,Christian Dior SE,True,/cours/1rPCDI/,/cdi-christian-dior,FR0000130403,CHRISTIAN DIOR,True,,Consommation discrétionnaire
+ALCLA,Clasquin SA,True,/cours/1rEPALCLA/,/alcla-clasquin,FR0004152882,CLASQUIN,True,True,Industrie
+COFA,COFACE SA,True,/cours/1rPCOFA/,/cofa-coface,FR0010667147,COFACE,True,,Finance
+ALCOF,Cofidur S.A.,True,/cours/1rPALCOF/,/alcof-cofidur,FR0013257409,COFIDUR S.A.,True,True,Technologies
+RE,Colas SA,True,/cours/1rPRE/,/re-colas,FR0000121634,COLAS,True,,Industrie
+COUR,Courtois S.A.,True,/cours/1rPCOUR/,/cour-courtois,FR0000065393,COURTOIS,True,True,Immobilier
+CRAP,Caisse Régionale de Crédit Agricole Mutuel Alpes Provence Société coopérative,True,/cours/1rPCRAP/,/crap-crcam-alp-prov-cci,FR0000044323,CRCAM ALP.PROV.CCI,True,,Finance
+CRAV,Caisse régionale de Crédit Agricole Mutuel Atlantique Vendée,True,/cours/1rPCRAV/,/crav-crcam-atl-vend-cci,FR0000185506,CRCAM ATL.VEND.CCI,True,,Finance
+CRBP2,Caisse Régionale de Crédit Agricole Mutuel Brie Picardie Société coopérative,True,/cours/1rPCRBP2/,/crbp2-caisse-regionale-de-credit-agricole-mutuel-brie-picardie-cert-coop-d-invest,FR0010483768,CRCAM BRIE PIC2CCI,True,,Finance
+CIV,Caisse régionale de Crédit Agricole Mutuel d'Ille-et-Vilaine Société coopérative,True,/cours/1rPCIV/,/civ-crcam-ille-vil-cci,FR0000045213,CRCAM ILLE-VIL.CCI,True,,Finance
+CRLA,Caisse Régionale de Crédit Agricole Mutuel du Languedoc Société coopérative,True,/cours/1rPCRLA/,/crla-crcam-langued-cci,FR0010461053,CRCAM LANGUED CCI,True,,Finance
+CMO,Caisse Régionale de Crédit Agricole du Morbihan,True,/cours/1rPCMO/,/cmo-crcam-morbihan-cci,FR0000045551,CRCAM MORBIHAN CCI,True,,Finance
+CCN,Caisse Régionale de Crédit Agricole Mutuel de Normandie-Seine Société coopérative,True,/cours/1rPCCN/,/ccn-crcam-norm-seine,FR0000044364,CRCAM NORM.SEINE,True,,Finance
+ACA,Crédit Agricole S.A.,True,/cours/1rPACA/,/aca-credit-agricole,FR0000045072,CREDIT AGRICOLE,True,,Finance
+CROS,Crosswood SA,True,/cours/1rPCROS/,/cros-crosswood,FR0000050395,CROSSWOOD,True,True,Immobilier
+ALDLS,DLSI,True,/cours/1rEPALDLS/,/aldls-d-l-s-i,FR0010404368,D.L.S.I.,True,True,Industrie
+BN,Danone S.A.,True,/cours/1rPBN/,/bn-danone,FR0000120644,DANONE,True,,Consommation de base
+AM,Dassault Aviation société anonyme,True,,/am-dassault-aviation-sa,FR0000121725,DASSAULT AVIATION,True,,Industrie
+DKUPL,ADLPartner SA,True,/cours/1rPDKUPL/,/alp-adl-partner,FR0000062978,DEKUPLE,True,True,Communication
+ALDEL,Delfingen Industry S.A.,True,/cours/1rPALDEL/,/aldel-delfingen,FR0000054132,DELFINGEN INDUSTRY,True,True,Consommation discrétionnaire
+DBG,Derichebourg SA,True,/cours/1rPDBG/,/dbg-derichebourg-sa,FR0000053381,DERICHEBOURG,True,,Industrie
+DPAM,Les Docks des Pétroles d'Ambès -SA,True,/cours/1rPDPAM/,/dpam-dock-petr-ambes-am,FR0000065260,DOCK.PETR.AMBES AM,True,,Energie
+EDEN,Edenred SE,True,/cours/1rPEDEN/,/eden-edenred,FR0010908533,EDENRED,True,,Finance
+FGR,Eiffage SA,True,/cours/1rPFGR/,/fgr-eiffage,FR0000130452,EIFFAGE,True,,Industrie
+ELEC,Électricite de Strasbourg Société Anonyme,True,/cours/1rPELEC/,/elec-elec-strasbourg,FR0000031023,ELEC.STRASBOURG,True,,Services aux collectivités
+ELIS,Elis SA,True,/cours/1rPELIS/,/elis-elis,FR0012435121,ELIS,True,,Industrie
+ENGI,Engie SA,True,/cours/1rPENGI/,/engi-engie,FR0010208488,ENGIE,True,,Services aux collectivités
+ERA,ERAMET S.A.,True,/cours/1rPERA/,/era-eramet,FR0000131757,ERAMET,True,,Matériaux
+ALESK,Esker SA,True,/cours/1rPALESK/,/alesk-esker,FR0000035818,ESKER,True,True,Technologies
+EL,EssilorLuxottica Société anonyme,True,/cours/1rPEL/,/el-essilorluxottica-sa,FR0000121667,ESSILORLUXOTTICA,True,,Santé
+ES,Esso S.A.F.,True,/cours/1rPES/,/es-esso,FR0000120669,ESSO,True,,Energie
+RF,Eurazeo SE,True,/cours/1rPRF/,/rf-eurazeo,FR0000121121,EURAZEO SE,True,,Finance
+EUR,EURO Ressources S.A.,True,/cours/1rPEUR/,/eur-euro-ressources,FR0000054678,EURO RESSOURCES,True,,Matériaux
+ERF,Eurofins Scientific SE,True,/cours/1rPERF/,/erf-eurofins-scient,FR0014000MR3,EUROFINS SCIENT.,True,,Santé
+ENX,Euronext N.V.,True,/cours/1rPENX/,/enx-euronext,NL0006294274,EURONEXT,True,,Finance
+ETL,Eutelsat Group,True,/cours/1rPETL/,/etl-eutelsat-communication,FR0010221234,EUTELSAT COMMUNIC.,True,True,Technologies
+EXE,EXEL Industries SA,True,/cours/1rPEXE/,/exe-exel-industries,FR0004527638,EXEL INDUSTRIES,True,True,Industrie
+FDJ,La Française des Jeux Société anonyme,True,/cours/1rPFDJ/,/fdj-francaise-des-jeux-fdj,FR0013451333,FDJ,True,,Consommation discrétionnaire
+FCMC,Société Fermière du Casino Municipal de Cannes,True,/cours/1rPFCMC/,/fcmc-ferm-cas-mun-canne,FR0000062101,FERM.CASINO MUNICIPAL CANNES,True,,Consommation discrétionnaire
+SACI,Fiducial Office Solutions,True,/cours/1rPSACI/,/saci-fiducial-off-sol,FR0000061418,FIDUCIAL OFF.SOL.,True,,Industrie
+ORIA,Fiducial Real Estate SA,True,/cours/1rPORIA/,/oria-fiducial-real-est,FR0000060535,FIDUCIAL REAL EST.,True,,Immobilier
+BERR,Financiere et Immobiliere de l'Etang de Berre et de la Mediterranee Société anonyme,True,/cours/1rPBERR/,/berr-fin-etang-berre,FR0000062341,FIN.IMMOB.ETANG BERRE MEDIT.,True,,Immobilier
+FNAC,Fnac Darty SA,True,/cours/1rPFNAC/,/fnac-fnac-darty,FR0011476928,FNAC DARTY,True,,Consommation discrétionnaire
+ALFPC,S.A. Fountaine Pajot,True,/cours/1rPALFPC/,/alfpc-fountaine-pajot,FR0010485268,FOUNTAINE PAJOT,True,True,Consommation discrétionnaire
+FREY,Frey SA,True,/cours/1rPFREY/,/frey-frey,FR0010588079,FREY,True,,Immobilier
+GALIM,Galimmo SCA,True,/cours/1rPGALIM/,/galim-galimmo,FR0000030611,GALIMMO,True,,Immobilier
+GTT,Gaztransport & Technigaz SA,True,/cours/1rPGTT/,/gtt-gaztransport-technigaz,FR0011726835,GAZTRANSPORT & TECHNIGAZ,True,,Energie
+GEA,Grenobloise d'Electronique et d'Automatismes Société Anonyme,True,/cours/1rPGEA/,/gea-gea-grenobl-elect,FR0000053035,GEA GRENOBL.ELECT.,True,,Industrie
+GET,Getlink SE,True,/cours/1rPGET/,/get-getlink-se,FR0010533075,GETLINK SE,True,True,Industrie
+ALGEV,Gévelot SA,True,/cours/1rPALGEV/,/algev-gevelot,FR0000033888,GEVELOT,True,,Industrie
+GLO,GL Events SA,True,/cours/1rPGLO/,/glo-gl-events-sa,FR0000066672,GL EVENTS,True,True,Industrie
+ALGLD,Gold By Gold SA,True,/cours/1rPALGLD/,/algld-gold-by-gold,FR0011208693,GOLD BY GOLD,True,,Matériaux
+GPE,Groupe Pizzorno Environnement,True,/cours/1rPGPE/,/gpe-gpe-group-pizzorno,FR0010214064,GPE GROUP PIZZORNO,True,,Industrie
+CEN,Groupe CRIT SA,True,/cours/1rPCEN/,/cen-groupe-crit,FR0000036675,GROUPE CRIT,True,,Industrie
+ALGIL,Groupe Guillin S.A.,True,/cours/1rPALGIL/,/algil-groupe-guillin,FR0012819381,GROUPE GUILLIN,True,True,Consommation discrétionnaire
+PARP,Groupe Partouche SA,True,/cours/1rPPAR/,/parp-groupe-partouche,FR0010263202,GROUPE PARTOUCHE,True,True,Consommation discrétionnaire
+SFPI,GROUPE SFPI SA,True,/cours/1rPSFPI/,/sfpi-groupe-sfpi,FR0004155000,GROUPE SFPI,True,True,Industrie
+GBT,Guerbet SA,True,/cours/1rPGBT/,/gbt-guerbet,FR0000032526,GUERBET,True,True,Santé
+GUI,Guillemot Corporation S.A.,True,/cours/1rPGUI/,/gui-guillemot,FR0000066722,GUILLEMOT,True,,Technologies
+RMS,Hermès International Société en commandite par actions,True,/cours/1rPRMS/,/rms-hermes-international,FR0000052292,HERMES INTL,True,,Consommation discrétionnaire
+HCO,High Co. SA,True,/cours/1rPHCO/,/hco-highco-sa,FR0000054231,HIGH CO,True,True,Communication
+ALHIT,HITECHPROS Société anonyme,True,/cours/1rPALHIT/,/alhit-hitechpros,FR0010396309,HITECHPROS,True,,Technologies
+ALI2S,i2S SA,True,/cours/1rEPALI2S/,/ali2s-i2s,FR0005854700,I2S,True,,Industrie
+IDIP,IDI,True,/cours/1rPIDIP/,/idip-idi,FR0000051393,IDI,True,True,Finance
+NK,Imerys S.A.,True,/cours/1rPNK/,/nk-imerys-sa,FR0000120859,IMERYS,True,,Matériaux
+IMDA,Immobiliere Dassault SA,True,/cours/1rPIMDA/,/imda-immob-dassault,FR0000033243,IMMOB.DASSAULT,True,,Immobilier
+INFE,Compagnie Industrielle et Financière d'Entreprises SA,True,/cours/1rPINFE/,/infe-indle-fin-entrepr,FR0000066219,INDLE FIN.ENTREPRISES,True,True,Industrie
+INF,Infotel SA,True,/cours/1rPINF/,/inf-infotel,FR0000071797,INFOTEL,True,True,Technologies
+ITP,Interparfums SA,True,/cours/1rPITP/,/itp-interparfums,FR0004024222,INTERPARFUMS,True,,Consommation de base
+IPN,Ipsen S.A.,True,/cours/1rPIPN/,/ipn-ipsen,FR0010259150,IPSEN,True,,Santé
+IPS,Ipsos SA,True,/cours/1rPIPS/,/ips-ipsos-sa,FR0000073298,IPSOS,True,,Communication
+JBOG,Jacques Bogart S.A.,True,/cours/1rPJBOG/,/jbog-jacques-bogart,FR0012872141,JACQUES BOGART,True,True,Consommation de base
+JCQ,Jacquet Metals SA,True,/cours/1rPJCQ/,/jcq-jacquet-metal-sce,FR0000033904,JACQUET METALS,True,True,Matériaux
+KOF,Kaufman & Broad S.A.,True,/cours/1rPKOF/,/kof-kaufman-et-broad,FR0004007813,KAUFMAN ET BROAD,True,True,Consommation discrétionnaire
+KER,Kering SA,True,/cours/1rPKER/,/ker-kering,FR0000121485,KERING,True,,Consommation discrétionnaire
+LOUP,L.D.C. S.A.,True,/cours/1rPLOUP/,/loup-ldc,FR0013204336,L.D.C.,True,,Consommation de base
+OR,L'Oréal S.A.,True,/cours/1rPOR/,/or-l-oreal,FR0000120321,L'OREAL,True,,Consommation de base
+LACR,LACROIX Group SA,True,/cours/1rPLACR/,/lacr-lacroix-sa,FR0000066607,LACROIX GROUP,True,True,Technologies
+MMB,Lagardere SA,True,/cours/1rPMMB/,/mmb-lagardere,FR0000130213,LAGARDERE SA,True,,Consommation discrétionnaire
+LPE,Laurent-Perrier S.A.,True,/cours/1rPLPE/,/lpe-laurent-perrier,FR0006864484,LAURENT-PERRIER,True,True,Consommation de base
+LSS,Lectra SA,True,/cours/1rPLSS/,/lss-lectra,FR0000065484,LECTRA,True,True,Technologies
+LR,Legrand SA,True,/cours/1rPLR/,/lr-legrand-sa,FR0010307819,LEGRAND,True,,Industrie
+ALLHB,Les Hôtels Baverez S.A.,True,/cours/1rPALLHB/,/allhb-les-hotels-baverez,FR0007080254,LES HOTELS BAVEREZ,True,True,Consommation discrétionnaire
+LIN,Linedata Services S.A.,True,/cours/1rPLIN/,/lin-linedata-services,FR0004156297,LINEDATA SERVICES,True,True,Technologies
+FII,Lisi S.A.,True,/cours/1rPFII/,/fii-lisi,FR0000050353,LISI,True,,Industrie
+LNA,LNA Santé SA,True,/cours/1rPLNA/,/lna-lna-sante,FR0004170017,LNA SANTE,True,True,Santé
+MC,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",True,/cours/1rPMC/,/mc-lvmh,FR0000121014,LVMH,True,,Consommation discrétionnaire
+MRM,MRM,True,,/mrm-m-r-m,FR0000060196,M.R.M,True,,Immobilier
+MDM,Maisons du Monde S.A.,True,/cours/1rPMDM/,/mdm-maison-du-monde,FR0013153541,MAISONS DU MONDE,True,,Consommation discrétionnaire
+MTU,Manitou BF SA,True,,/mtu-manitou-bf,FR0000032302,MANITOU BF,True,,Industrie
+MAU,Etablissements Maurel & Prom S.A.,True,/cours/1rPMAU/,/mau-maurel-et-prom,FR0000051070,MAUREL ET PROM,True,True,Energie
+MRN,Mersen S.A.,True,/cours/1rPMRN/,/mrn-mersen,FR0000039620,MERSEN,True,,Industrie
+ALMET,Méthanor SCA,True,/cours/1rEPALMET/,/almet-methanor,FR0011217710,METHANOR,True,True,Services aux collectivités
+MMT,Métropole Télévision S.A.,True,/cours/1rPMMT/,/mmt-metropole-tv,FR0000053225,METROPOLE TV,True,,Communication
+ALMGI,MG International S.A.,True,/cours/1rPALMGI/,/almgi-mg-international,FR0010204453,MG INTERNATIONAL,True,,Industrie
+ML,Compagnie Générale des Établissements Michelin Société en commandite par actions,True,,/ml-michelin,FR0000121261,MICHELIN,True,,Consommation discrétionnaire
+ALMOU,Moulinvest S.A.,True,/cours/1rPALMOU/,/almou-moulinvest,FR0011033083,MOULINVEST,True,True,Matériaux
+NRO,Neurones S.A.,True,/cours/1rPNRO/,/nro-neurones,FR0004050250,NEURONES,True,,Technologies
+NEX,Nexans S.A.,True,/cours/1rPNEX/,/nex-nexans,FR0000044448,NEXANS,True,,Industrie
+NXI,Nexity SA,True,/cours/1rPNXI/,/nxi-nexity,FR0010112524,NEXITY,True,,Immobilier
+NOKIA,Nokia Oyj,True,/cours/1rPNOKIA/,/nokia-nokia,FI0009000681,NOKIA,True,,Technologies
+NRG,NRJ Group SA,True,/cours/1rPNRG/,/nrg-nrj-group,FR0000121691,NRJ GROUP,True,True,Communication
+ALNSE,NSE S.A.,True,/cours/1rPALNSE/,/alnse-nse,FR0004065639,NSE,True,,Technologies
+ALOBR,Ober SA,True,/cours/1rEPALOBR/,/alobr-ober,FR0010330613,OBER,True,True,Industrie
+SBT,Oeneo SA,True,/cours/1rPSBT/,/sbt-oeneo,FR0000052680,OENEO,True,,Consommation de base
+ORA,Orange S.A.,True,/cours/1rPORA/,/ora-orange,FR0000133308,ORANGE,True,,Communication
+PAR,Paref SA,True,/cours/1rPPAR/,/par-paref,FR0010263202,PAREF,True,,Immobilier
+RI,Pernod Ricard SA,True,/cours/1rPRI/,/ri-pernod-ricard-sa,FR0000120693,PERNOD RICARD,True,,Consommation de base
+PERR,Gérard Perrier Industrie S.A.,True,/cours/1rPPERR/,/perr-perrier-gerard,FR0000061459,PERRIER (GERARD),True,True,Industrie
+ALPDX,Piscines Desjoyaux SA,True,/cours/1rPALPDX/,/alpdx-piscines-desjoyaux,FR0000061608,PISCINES DESJOYAUX,True,,Consommation discrétionnaire
+POM,Compagnie Plastic Omnium SE,True,/cours/1rPPOM/,/pom-plastic-omnium,FR0000124570,PLASTIC OMNIUM,True,,Consommation discrétionnaire
+ALPJT,Poujoulat SA,True,/cours/1rPALPJT/,/alpjt-poujoulat,FR0000066441,POUJOULAT,True,True,Industrie
+PUB,Publicis Groupe S.A.,True,/cours/1rPPUB/,/pub-publicis-groupe-sa,FR0000130577,PUBLICIS GROUPE SA,True,,Communication
+QDT,Quadient S.A.,True,/cours/1rPQDT/,/qdt-quadient,FR0000120560,QUADIENT S.A.,True,,Technologies
+ALREA,Réalités S.A.,True,/cours/1rPALREA/,/alrea-realites,FR0011858190,REALITES,True,True,Immobilier
+RCO,Rémy Cointreau SA,True,/cours/1rPRCO/,/rco-remy-cointreau,FR0000130395,REMY COINTREAU,True,,Consommation de base
+RNO,Renault SA,True,/cours/1rPRNO/,/rno-renault,FR0000131906,RENAULT,True,,Consommation discrétionnaire
+RXL,Rexel S.A.,True,/cours/1rPRXL/,/rxl-rexel,FR0010451203,REXEL,True,,Industrie
+RBT,Robertet SA,True,/cours/1rPRBT/,/rbt-robertet,FR0000039091,ROBERTET,True,True,Matériaux
+RBO,Roche Bobois S.A.,True,/cours/1rPRBO/,/rbo-roche-bobois,FR0013344173,ROCHE BOBOIS,True,True,Consommation discrétionnaire
+RUI,Rubis,True,/cours/1rPRUI/,/rui-rubis,FR0013269123,RUBIS,True,,Services aux collectivités
+SK,SEB SA,True,/cours/1rPSK/,/sk-seb,FR0000121709,S.E.B.,True,,Consommation discrétionnaire
+SAF,Safran SA,True,/cours/1rPSAF/,/saf-safran-s-a,FR0000073272,SAFRAN,True,,Industrie
+SGO,Compagnie de Saint-Gobain S.A.,True,/cours/1rPSGO/,/sgo-saint-gobain,FR0000125007,SAINT GOBAIN,True,,Industrie
+SAMS,Samse SA,True,/cours/1rPSAMS/,/sams-samse,FR0000060071,SAMSE,True,,Industrie
+SAN,Sanofi,True,/cours/1rPSAN/,/san-sanofi,FR0000120578,SANOFI,True,,Santé
+DIM,Sartorius Stedim Biotech S.A.,True,/cours/1rPDIM/,/dim-sartorius-sted-bio,FR0013154002,SARTORIUS STED BIO,True,,Santé
+SAVE,Savencia SA,True,/cours/1rPSAVE/,/save-savencia,FR0000120107,SAVENCIA S.A.,True,,Consommation de base
+CBSM,Société Centrale des Bois et des Scieries de la Manche S.A.,True,/cours/1rPCBSM/,/cbsm-scbsm,FR0006239109,SCBSM,True,,Immobilier
+SU,Schneider Electric S.E.,True,/cours/1rPSU/,/su-schneider-electric-se,FR0000121972,SCHNEIDER ELECTRIC SE,True,,Industrie
+SCR,SCOR SE,True,/cours/1rPSCR/,/scr-scor,FR0010411983,SCOR SE,True,,Finance
+SCHP,Séché Environnement SA,True,/cours/1rPSCHP/,/schp-seche-environnem,FR0000039109,SECHE ENVIRONNEM.,True,True,Industrie
+SELER,Selectirente,True,/cours/1rPSELER/,/seler-selectirente,FR0004175842,SELECTIRENTE,True,,Immobilier
+SEFER,SergeFerrari Group SA,True,/cours/1rPSEFER/,/sefer-sergeferrari-group,FR0011950682,SERGEFERRARI GROUP,True,True,Industrie
+SESG,SES S.A.,True,/cours/1rPSESG/,/sesg-ses-sa-fdr-class-a,LU0088087324,SES,True,,Communication
+SII,SII S.A.,True,/cours/1rPSII/,/sii-sii,FR0000074122,SII,True,True,Technologies
+GLE,Société Générale Société anonyme,True,/cours/1rPGLE/,/gle-societe-generale,FR0000130809,SOCIETE GENERALE,True,,Finance
+SW,Sodexo S.A.,True,/cours/1rPSW/,/sw-sodexo,FR0000121220,SODEXO,True,,Industrie
+SOP,Sopra Steria Group SA,True,/cours/1rPSOP/,/sop-sopra-steria-group,FR0000050809,SOPRA STERIA GROUP,True,,Technologies
+SPIE,SPIE SA,True,/cours/1rPSPIE/,/spie-spie,FR0012757854,SPIE,True,,Industrie
+STF,STEF SA,True,/cours/1rPSTF/,/stf-stef,FR0000064271,STEF,True,,Industrie
+STLAP,Stellantis N.V.,True,/cours/1rPSTLAP/,/stla-stellantis,NL00150001Q9,STELLANTIS NV,True,,Consommation discrétionnaire
+STMPA,STMicroelectronics N.V.,True,/cours/1rPSTMPA/,/stm-stmicroelectronics,NL0000226223,STMICROELECTRONICS,True,,Technologies
+ALSAS,Stradim Espace Finances SA,True,/cours/1rEPALSAS/,/alsas-stradim-espac-fin,FR0000074775,STRADIM,True,True,Immobilier
+SWP,Sword Group S.E.,True,/cours/1rPSWP/,/swp-sword-group,FR0004180578,SWORD GROUP,True,True,Technologies
+SDG,Synergie SE,True,/cours/1rPSDG/,/sdg-synergie,FR0000032658,SYNERGIE,True,,Industrie
+TEP,Teleperformance SE,True,/cours/1rPTEP/,/tep-teleperformance-se,FR0000051807,TELEPERFORMANCE,True,,Industrie
+TFI,TF1 SA,True,/cours/1rPTFI/,/tfi-tf1,FR0000054900,TF1,True,,Communication
+TFF,TFF Group,True,/cours/1rPTFF/,/tff-tff-group,FR0013295789,TFF GROUP,True,True,Consommation discrétionnaire
+HO,Thales S.A.,True,/cours/1rPHO/,/ho-thales-sa,FR0000121329,THALES,True,,Industrie
+THEP,Thermador Groupe SA,True,/cours/1rPTHEP/,/thep-thermador-holding-sa,FR0013333432,THERMADOR GROUPE,True,True,Industrie
+TKO,Tikehau Capital,True,/cours/1rPTKO/,/tko-tikehau-capital,FR0013230612,TIKEHAU CAPITAL,True,,Finance
+TIPI,Tipiak Société Anonyme,True,/cours/1rPTIPI/,/tipi-tipiak,FR0000066482,TIPIAK,True,True,Consommation de base
+TTE,TotalEnergies SE,True,/cours/1rPTTE/,/fp-total,FR0000120271,TOTALENERGIES,True,,Energie
+TOUP,Touax SCA,True,/cours/1rPTOUP/,/toup-touax,FR0000033003,TOUAX,True,True,Industrie
+EIFF,Société de la Tour Eiffel,True,/cours/1rPEIFF/,/eiff-tour-eiffel,FR0000036816,TOUR EIFFEL,True,,Immobilier
+ALTTI,Travel Technology Interactive,True,/cours/1rPMLTTI-OTC/,/altti-tti,FR0010383877,TRAVEL TECHNOLOGY,True,,Technologies
+TRI,Trigano S.A.,True,/cours/1rPTRI/,/tri-trigano,FR0005691656,TRIGANO,True,True,Consommation discrétionnaire
+ALTXC,TXCOM Société Anonyme,True,/cours/1rPALTXC-OTC/,/altxc-txcom,FR0010654087,TXCOM,True,,Technologies
+UNBL,Unibel S.A.,True,/cours/1rPUNBL/,/unbl-unibel,FR0000054215,UNIBEL,True,,Consommation de base
+FR,Valeo SE,True,/cours/1rPFR/,/fr-valeo,FR0013176526,VALEO,True,,Consommation discrétionnaire
+VIE,Veolia Environnement SA,True,/cours/1rPVIE/,/vie-veolia-environnement,FR0000124141,VEOLIA ENVIRON.,True,,Services aux collectivités
+VRLA,Verallia Société Anonyme,True,,/vrla-verallia,,VERALLIA,True,,Consommation discrétionnaire
+VETO,Vetoquinol SA,True,/cours/1rPVETO/,/veto-vetoquinol,FR0004186856,VETOQUINOL,True,True,Santé
+VCT,Vicat S.A.,True,/cours/1rPVCT/,/vct-vicat,FR0000031775,VICAT,True,,Matériaux
+VIL,"VIEL & Cie, société anonyme",True,/cours/1rPVIL/,/vil-viel-et-compagnie,FR0000050049,VIEL ET COMPAGNIE,True,,Finance
+DG,Vinci SA,True,/cours/1rPDG/,/dg-vinci,FR0000125486,VINCI,True,,Industrie
+ALVIV,Visiativ SA,True,/cours/1rPALVIV/,/alviv-visiativ,FR0004029478,VISIATIV,True,True,Technologies
+VIV,Vivendi SE,True,/cours/1rPVIV/,/viv-vivendi,FR0000127771,VIVENDI SE,True,,Communication
+ALVDM,Voyageurs du Monde SA,True,/cours/1rEPALVDM/,/alvdm-voyageurs-du-monde,FR0004045847,VOYAGEURS DU MONDE,True,True,Consommation discrétionnaire
+VRAP,Vranken-Pommery Monopole Société Anonyme,True,/cours/1rPVRAP/,/vrap-vranken-pommery,FR0000062796,VRANKEN-POMMERY,True,True,Consommation de base
+WAVE,Wavestone SA,True,/cours/1rPWAVE/,/wave-wavestone,FR0013357621,WAVESTONE,True,True,Technologies
+ALWEC,We.Connect SA,True,/cours/1rPALWEC/,/alwec-we-connect,FR0013079092,WE.CONNECT,True,True,Technologies
+ALWED,Wedia SA,True,/cours/1rEPALWED/,/alwed-wedia,FR0010688440,WEDIA,True,,Technologies
+MF,Wendel,True,/cours/1rPMF/,/mf-wendel,FR0000121204,WENDEL,True,,Finance
+ADOC,Adocia SA,,/cours/1rPADOC/,/adoc-adocia,FR0011184241,ADOCIA,True,True,Santé
+AF,Air France-KLM SA,,,/af-air-france-klm-sa,FR0000031122,AIR FRANCE -KLM,True,,Industrie
+ATO,Atos SE,,/cours/1rPATO/,/ato-atos,FR0000051732,ATOS,True,,Technologies
+CGG,CGG,,/cours/1rPCGG/,/cgg-cgg,FR0013181864,CGG,True,,Energie
+CLARI,Clariane SE,,,/clari-clariane-se,,CLARIANE SE,,,Santé
+DSY,Dassault Systèmes SE,,,/dsy-dassault-systemes-sa,FR0000130650,DASSAULT SYSTEMES,True,,Technologies
+ELIOR,Elior Group SA,,/cours/1rPELIOR/,/elior-elior-group,FR0011950732,ELIOR GROUP,True,,Consommation discrétionnaire
+EAPI,Euroapi S.A.,,/cours/1rPEAPI/,/eapi-euroapi-sa,FR0014008VX5,EUROAPI SA,,,Santé
+FRVIA,Forvia SE,,,/frvia-forvia,,FORVIA,,,Consommation discrétionnaire
+IDL,ID Logistics Group SA,,/cours/1rPIDL/,/idl-id-logistics-group,FR0010929125,ID LOGISTICS GROUP,True,,Industrie
+DEC,JCDecaux SE,,/cours/1rPDEC/,/dec-jc-decaux-sa,FR0000077919,JCDECAUX SE,True,,Communication
+ALLDL,Groupe LDLC société anonyme,,/cours/1rPALLDL/,/alldl-groupe-ldlc,FR0000075442,GROUPE LDLC,,,Consommation discrétionnaire
+ALMRB,Mr.Bricolage S.A.,,,/almrb-mr-bricolage,,MR BRICOLAGE,,,Consommation discrétionnaire
+NEOEN,Neoen S.A.,,/cours/1rPNEOEN/,/neoen-neoen-s-a,FR0011675362,NEOEN,True,,Services aux collectivités
+ORP,Orpea SA,,/cours/1rPORP/,/orp-orpea,FR0000184798,ORPEA,True,,Santé
+OVH,OVH Groupe S.A.,,,/ovh-ovh-group-sas,,OVH,,,Technologies
+ALPAR,Groupe Parot SA,,/cours/1rPALPAR/,/alpar-gpe-parot-auto,FR0013204070,GROUPE PAROT,,,Consommation discrétionnaire
+VAC,Pierre et Vacances SA,,/cours/1rPVAC/,/vac-pierre-vacances,FR0000073041,PIERRE VACANCES,True,,Consommation discrétionnaire
+PVL,Plastiques du Val de Loire,,/cours/1rPPVL/,/pvl-plast-val-loire,FR0013252186,PLAST.VAL LOIRE,True,True,Consommation discrétionnaire
+SESL,SES-imagotag Société Anonyme,,/cours/1rPSESL/,/sesl-ses-imagotag,FR0010282822,SES IMAGOTAG,True,True,Technologies
+SRP,SRP Groupe S.A.,,/cours/1rPSRP/,/srp-showroomprive,FR0013006558,SHOWROOMPRIVE,True,True,Consommation discrétionnaire
+SOI,Soitec SA,,/cours/1rPSOI/,/soi-soitec,FR0013227113,SOITEC,True,True,Technologies
+S30,Solutions 30 SE,,/cours/1rPS30/,/s30-solutions-30-se,FR0013379484,SOLUTIONS 30 SE,,,Technologies
+SOLB,Solvay SA,,/cours/1rPSOLB/,/solb-solvay-sa,BE0003470755,SOLVAY,,,Matériaux
+UBI,Ubisoft Entertainment SA,,/cours/1rPUBI/,/ubi-ubisoft-entertain,FR0000054470,UBISOFT ENTERTAIN,True,,Communication
+VK,Vallourec S.A.,,/cours/1rPVK/,/vk-vallourec-sa,FR0013506730,VALLOUREC,True,,Matériaux
+VLA,Valneva SE,,/cours/1rPVLA/,/vla-valneva,FR0004056851,VALNEVA SE,True,True,Santé
+VIRP,Virbac SA,,/cours/1rPVIRP/,/virp-virbac,FR0000031577,VIRBAC,True,True,Santé
+ALVGO,Vogo SA,,/cours/1rPALVGO/,/alvgo-vogo,FR0011532225,VOGO,,,Technologies
+VLTSA,Voltalia SA,,/cours/1rPVLTSA/,/vltsa-voltalia,FR0011995588,VOLTALIA,True,,Services aux collectivités
+WLN,Worldline SA,,/cours/1rPWLN/,/wln-worldline-sa,FR0011981968,WORLDLINE,True,,Technologies
+XFAB,X-FAB Silicon Foundries SE,,/cours/1rPXFAB/,/xfab-x-fab,BE0974310428,X-FAB SILICON FOUNDRIES SE,True,,Technologies

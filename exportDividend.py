@@ -55,7 +55,7 @@ class ExportDividend:
 				if line.get("DATE") not in [date.get("DATE") for date in ticker_datas]:
 					ticker_datas.append(line)
 		# Sauvegarde le fichier
-		self.fileDividend.save(sort_keys=True)
+		self.fileDividend.save()
 
 	def exportCSV(self, path="export_dividend.csv"):
 		data = self.fileDividend.data()
@@ -70,5 +70,5 @@ class ExportDividend:
 
 if __name__ == '__main__':
 	exp = ExportDividend()
-	# exp.updateNewAllEnterprise()
+	exp.updateNewAllEnterprise()
 	exp.exportCSV()

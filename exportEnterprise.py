@@ -31,10 +31,7 @@ class BousoBankSite:
 class RendementBourseSite:
 	def __init__(self):
 		self.fileEnterprise = EasyFileJson("bdd_entreprise.json")
-		try:
-			self.fileEnterprise.load()
-		except FileNotFoundError:
-			pass
+		self.fileEnterprise.load()
 
 	def values(self) -> list[dict]:
 		return self.fileEnterprise.data().values()
@@ -70,7 +67,7 @@ class RendementBourseSite:
 		if self.fileEnterprise.data()[ticker].get("HREF_BOURSORAMA") is None and ISIN:
 			self.fileEnterprise.data()[ticker]["HREF_BOURSORAMA"] = BousoBankSite.searchHREF(ISIN)
 		# Sauvegarde le fichier
-		self.fileEnterprise.save(sort_keys=True)
+		self.fileEnterprise.save()
 
 	@classmethod
 	def getDataSite(cls, url: str) -> dict:
@@ -116,16 +113,16 @@ class RendementBourseSite:
 	@staticmethod
 	def getDefaultDict():
 		return {
-			"ISIN": None,
+			"TICKER": None,
 			"DESIGNATION": None,
 			"DIVIDENDE": None,
 			"HREF_BOURSORAMA": None,
 			"HREF_RENDEMENTBOURSE": None,
+			"ISIN": None,
 			"NAME": None,
 			"PEA": None,
 			"PEA-PME": None,
-			"SECTEUR": None,
-			"TICKER": None
+			"SECTEUR": None
 			}
 
 	def updateByTableSite(self) -> dict:
