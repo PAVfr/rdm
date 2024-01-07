@@ -114,15 +114,15 @@ class RendementBourseSite:
 	def getDefaultDict():
 		return {
 			"TICKER": None,
+			"NAME": None,
 			"DESIGNATION": None,
-			"DIVIDENDE": None,
+			"SECTEUR": None,
 			"HREF_BOURSORAMA": None,
 			"HREF_RENDEMENTBOURSE": None,
-			"ISIN": None,
-			"NAME": None,
 			"PEA": None,
 			"PEA-PME": None,
-			"SECTEUR": None
+			"ISIN": None,
+			"DIVIDENDE": None
 			}
 
 	def updateByTableSite(self) -> dict:
