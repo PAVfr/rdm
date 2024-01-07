@@ -755,6 +755,18 @@
         "SECTEUR": "Consommation discrétionnaire",
         "TICKER": "BEN"
     },
+    "BERR": {
+        "DESIGNATION": "Financiere et Immobiliere de l'Etang de Berre et de la Mediterranee Société anonyme",
+        "DIVIDENDE": true,
+        "HREF_BOURSORAMA": "/cours/1rPBERR/",
+        "HREF_RENDEMENTBOURSE": "/berr-fin-etang-berre",
+        "ISIN": "FR0000062341",
+        "NAME": "FIN.IMMOB.ETANG BERRE MEDIT.",
+        "PEA": true,
+        "PEA-PME": null,
+        "SECTEUR": "Immobilier",
+        "TICKER": "BERR"
+    },
     "BIM": {
         "DESIGNATION": "bioMérieux S.A.",
         "DIVIDENDE": true,

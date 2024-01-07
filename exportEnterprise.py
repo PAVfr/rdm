@@ -30,11 +30,14 @@ class BousoBankSite:
 
 class RendementBourseSite:
 	def __init__(self):
-		self.fileJson = EasyFileJson("bdd_entreprise.json")
-		self.fileJson.load()
+		self.fileEnterprise = EasyFileJson("bdd_entreprise.json")
+		try:
+			self.fileEnterprise.load()
+		except FileNotFoundError:
+			pass
 
 	def values(self) -> list[dict]:
-		return self.fileJson.data().values()
+		return self.fileEnterprise.data().values()
 
 	def updateAllEnterprise(self):
 		# Check la liste à partir du site
@@ -53,21 +56,21 @@ class RendementBourseSite:
 		resp = self.getDataSite(url=url)
 		ticker = resp.get("TICKER")
 		# Vérifie que le ticker existe, sinon commence avec le dict par défaut
-		if self.fileJson.data().get(ticker) is None:
-			self.fileJson.data()[ticker] = self.getDefaultDict()
+		if self.fileEnterprise.data().get(ticker) is None:
+			self.fileEnterprise.data()[ticker] = self.getDefaultDict()
 		else:
 			for k, v in self.getDefaultDict().items():
-				if k not in list(self.fileJson.data()[ticker].keys()):
-					self.fileJson.data()[ticker][k] = v
+				if k not in list(self.fileEnterprise.data()[ticker].keys()):
+					self.fileEnterprise.data()[ticker][k] = v
 		# Remplace les anciennes données par les nouvelles
 		for k, v in resp.items():
-			self.fileJson.data()[ticker][k] = v
+			self.fileEnterprise.data()[ticker][k] = v
 		# Vérifie le HREF de boursorama
-		ISIN = self.fileJson.data()[ticker].get("ISIN")
-		if self.fileJson.data()[ticker].get("HREF_BOURSORAMA") is None and ISIN:
-			self.fileJson.data()[ticker]["HREF_BOURSORAMA"] = BousoBankSite.searchHREF(ISIN)
+		ISIN = self.fileEnterprise.data()[ticker].get("ISIN")
+		if self.fileEnterprise.data()[ticker].get("HREF_BOURSORAMA") is None and ISIN:
+			self.fileEnterprise.data()[ticker]["HREF_BOURSORAMA"] = BousoBankSite.searchHREF(ISIN)
 		# Sauvegarde le fichier
-		self.fileJson.save(sort_keys=True)
+		self.fileEnterprise.save(sort_keys=True)
 
 	@classmethod
 	def getDataSite(cls, url: str) -> dict:
@@ -100,7 +103,7 @@ class RendementBourseSite:
 	def getAllNoneISIN(self, show=True):
 		"""Retourne la liste des Ticker qui n'ont pas de n° ISIN"""
 
-		r = [k for k, v in self.fileJson.data().items() if v.get("ISIN") is None]
+		r = [k for k, v in self.fileEnterprise.data().items() if v.get("ISIN") is None]
 		if show:
 			print("""
 				------------------------------------------------------
@@ -145,17 +148,17 @@ class RendementBourseSite:
 					ignored += 1
 					continue
 
-				if self.fileJson.data().get(_ticker) is None:
-					self.fileJson.data()[_ticker] = self.getDefaultDict()
+				if self.fileEnterprise.data().get(_ticker) is None:
+					self.fileEnterprise.data()[_ticker] = self.getDefaultDict()
 
-				self.fileJson.data()[_ticker]["TICKER"] = _ticker
-				self.fileJson.data()[_ticker]["NAME"] = BeautifulSoup(line[1], features="html.parser").find("a").text
-				self.fileJson.data()[_ticker]["HREF_RENDEMENTBOURSE"] = BeautifulSoup(line[1], features="html.parser").find("a").get("href")
-				self.fileJson.data()[_ticker]["SECTEUR"] = BeautifulSoup(line[1], features="html.parser").find("small").text
-				self.fileJson.data()[_ticker]["DIVIDENDE"] = True
+				self.fileEnterprise.data()[_ticker]["TICKER"] = _ticker
+				self.fileEnterprise.data()[_ticker]["NAME"] = BeautifulSoup(line[1], features="html.parser").find("a").text
+				self.fileEnterprise.data()[_ticker]["HREF_RENDEMENTBOURSE"] = BeautifulSoup(line[1], features="html.parser").find("a").get("href")
+				self.fileEnterprise.data()[_ticker]["SECTEUR"] = BeautifulSoup(line[1], features="html.parser").find("small").text
+				self.fileEnterprise.data()[_ticker]["DIVIDENDE"] = True
 
 			a += len(rjson.get('data'))
-		self.fileJson.save(sort_keys=True)
+		self.fileEnterprise.save(sort_keys=True)
 
 	def addEnterpriseCMD(self):
 		while True:
@@ -190,6 +193,3 @@ if __name__ == '__main__':
 	rdm = RendementBourseSite()
 	rdm.updateAllEnterprise()
 	rdm.exportCSV()
-
-	# bourso = BousoBankSite.searchHREF("FR0010340141")
-	# print(bourso)
