@@ -38,7 +38,7 @@ class ExportDividend:
 					"YEAR": line[0],
 					"DATE": line[1],
 					"AMOUNT": line[2],
-					"TYPE": line[3] if line[3] != "" else None
+					"TYPE": line[3] if line[3] != "" else "-"
 					})
 			# Inverse le sens du tableau du plus ancien vers le plus récent
 			lines.reverse()

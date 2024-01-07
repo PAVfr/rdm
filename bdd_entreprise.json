@@ -10,7 +10,7 @@
         "PEA-PME": true,
         "ISIN": "FR0010285965",
         "DIVIDENDE": true
-        },
+    },
     "ABCA": {
         "TICKER": "ABCA",
         "NAME": "ABC ARBITRAGE",
@@ -22,7 +22,7 @@
         "PEA-PME": true,
         "ISIN": "FR0004040608",
         "DIVIDENDE": true
-        },
+    },
     "ABEO": {
         "TICKER": "ABEO",
         "NAME": "ABEO",
@@ -34,7 +34,7 @@
         "PEA-PME": true,
         "ISIN": "FR0013185857",
         "DIVIDENDE": true
-        },
+    },
     "ACAN": {
         "TICKER": "ACAN",
         "NAME": "ACANTHE DEV.",
@@ -46,7 +46,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000064602",
         "DIVIDENDE": true
-        },
+    },
     "AC": {
         "TICKER": "AC",
         "NAME": "ACCOR",
@@ -58,7 +58,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000120404",
         "DIVIDENDE": true
-        },
+    },
     "ADP": {
         "TICKER": "ADP",
         "NAME": "ADP",
@@ -70,7 +70,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010340141",
         "DIVIDENDE": true
-        },
+    },
     "AI": {
         "TICKER": "AI",
         "NAME": "AIR LIQUIDE",
@@ -82,7 +82,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000120073",
         "DIVIDENDE": true
-        },
+    },
     "AIR": {
         "TICKER": "AIR",
         "NAME": "AIRBUS SE",
@@ -94,7 +94,7 @@
         "PEA-PME": null,
         "ISIN": "NL0000235190",
         "DIVIDENDE": true
-        },
+    },
     "AKW": {
         "TICKER": "AKW",
         "NAME": "AKWEL",
@@ -106,7 +106,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000053027",
         "DIVIDENDE": true
-        },
+    },
     "ALD": {
         "TICKER": "ALD",
         "NAME": "ALD",
@@ -118,7 +118,7 @@
         "PEA-PME": null,
         "ISIN": "FR0013258662",
         "DIVIDENDE": true
-        },
+    },
     "CDA": {
         "TICKER": "CDA",
         "NAME": "ALPES (COMPAGNIE)",
@@ -130,7 +130,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000053324",
         "DIVIDENDE": true
-        },
+    },
     "ALO": {
         "TICKER": "ALO",
         "NAME": "ALSTOM",
@@ -142,7 +142,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010220475",
         "DIVIDENDE": true
-        },
+    },
     "LTA": {
         "TICKER": "LTA",
         "NAME": "ALTAMIR",
@@ -154,7 +154,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000053837",
         "DIVIDENDE": true
-        },
+    },
     "ALTA": {
         "TICKER": "ALTA",
         "NAME": "ALTAREA",
@@ -166,7 +166,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000033219",
         "DIVIDENDE": true
-        },
+    },
     "ATE": {
         "TICKER": "ATE",
         "NAME": "ALTEN",
@@ -178,7 +178,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000071946",
         "DIVIDENDE": true
-        },
+    },
     "ALTUR": {
         "TICKER": "ALTUR",
         "NAME": "ALTUR INVESTISSEMENT",
@@ -190,7 +190,7 @@
         "PEA-PME": true,
         "ISIN": "FR0010395681",
         "DIVIDENDE": true
-        },
+    },
     "AMUN": {
         "TICKER": "AMUN",
         "NAME": "AMUNDI",
@@ -202,7 +202,7 @@
         "PEA-PME": null,
         "ISIN": "FR0004125920",
         "DIVIDENDE": true
-        },
+    },
     "ALAQU": {
         "TICKER": "ALAQU",
         "NAME": "AQUILA",
@@ -214,7 +214,7 @@
         "PEA-PME": true,
         "ISIN": "FR0010340711",
         "DIVIDENDE": true
-        },
+    },
     "ARG": {
         "TICKER": "ARG",
         "NAME": "ARGAN",
@@ -226,7 +226,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010481960",
         "DIVIDENDE": true
-        },
+    },
     "AKE": {
         "TICKER": "AKE",
         "NAME": "ARKEMA",
@@ -238,7 +238,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010313833",
         "DIVIDENDE": true
-        },
+    },
     "ARTE": {
         "TICKER": "ARTE",
         "NAME": "ARTEA",
@@ -250,7 +250,7 @@
         "PEA-PME": true,
         "ISIN": "FR0012185536",
         "DIVIDENDE": true
-        },
+    },
     "ARTO": {
         "TICKER": "ARTO",
         "NAME": "ARTOIS NOM.",
@@ -262,7 +262,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000076952",
         "DIVIDENDE": true
-        },
+    },
     "ASY": {
         "TICKER": "ASY",
         "NAME": "ASSYSTEM",
@@ -274,7 +274,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000074148",
         "DIVIDENDE": true
-        },
+    },
     "AUB": {
         "TICKER": "AUB",
         "NAME": "AUBAY",
@@ -286,7 +286,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000063737",
         "DIVIDENDE": true
-        },
+    },
     "CS": {
         "TICKER": "CS",
         "NAME": "AXA",
@@ -298,7 +298,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000120628",
         "DIVIDENDE": true
-        },
+    },
     "AXW": {
         "TICKER": "AXW",
         "NAME": "AXWAY SOFTWARE",
@@ -310,7 +310,7 @@
         "PEA-PME": null,
         "ISIN": "FR0011040500",
         "DIVIDENDE": true
-        },
+    },
     "BAIN": {
         "TICKER": "BAIN",
         "NAME": "BAINS MER MONACO",
@@ -322,7 +322,7 @@
         "PEA-PME": null,
         "ISIN": "MC0000031187",
         "DIVIDENDE": true
-        },
+    },
     "BASS": {
         "TICKER": "BASS",
         "NAME": "BASSAC",
@@ -334,7 +334,7 @@
         "PEA-PME": true,
         "ISIN": "FR0004023208",
         "DIVIDENDE": true
-        },
+    },
     "BEN": {
         "TICKER": "BEN",
         "NAME": "BENETEAU",
@@ -346,7 +346,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000035164",
         "DIVIDENDE": true
-        },
+    },
     "BB": {
         "TICKER": "BB",
         "NAME": "BIC",
@@ -358,7 +358,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000120966",
         "DIVIDENDE": true
-        },
+    },
     "BIM": {
         "TICKER": "BIM",
         "NAME": "BIOMERIEUX",
@@ -370,7 +370,7 @@
         "PEA-PME": null,
         "ISIN": "FR0013280286",
         "DIVIDENDE": true
-        },
+    },
     "BNP": {
         "TICKER": "BNP",
         "NAME": "BNP PARIBAS ACT.A",
@@ -382,7 +382,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000131104",
         "DIVIDENDE": true
-        },
+    },
     "BOI": {
         "TICKER": "BOI",
         "NAME": "BOIRON",
@@ -394,7 +394,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000061129",
         "DIVIDENDE": true
-        },
+    },
     "BOL": {
         "TICKER": "BOL",
         "NAME": "BOLLORE SE",
@@ -406,7 +406,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000039299",
         "DIVIDENDE": true
-        },
+    },
     "BON": {
         "TICKER": "BON",
         "NAME": "BONDUELLE",
@@ -418,7 +418,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000063935",
         "DIVIDENDE": true
-        },
+    },
     "BSD": {
         "TICKER": "BSD",
         "NAME": "BOURSE DIRECT",
@@ -430,7 +430,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000074254",
         "DIVIDENDE": true
-        },
+    },
     "EN": {
         "TICKER": "EN",
         "NAME": "BOUYGUES",
@@ -442,7 +442,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000120503",
         "DIVIDENDE": true
-        },
+    },
     "BVI": {
         "TICKER": "BVI",
         "NAME": "BUREAU VERITAS",
@@ -454,7 +454,7 @@
         "PEA-PME": null,
         "ISIN": "FR0006174348",
         "DIVIDENDE": true
-        },
+    },
     "BUR": {
         "TICKER": "BUR",
         "NAME": "BURELLE",
@@ -466,7 +466,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000061137",
         "DIVIDENDE": true
-        },
+    },
     "CAT31": {
         "TICKER": "CAT31",
         "NAME": "CA TOULOUSE 31 CCI",
@@ -478,7 +478,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000045544",
         "DIVIDENDE": true
-        },
+    },
     "CBDG": {
         "TICKER": "CBDG",
         "NAME": "CAMBODGE NOM.",
@@ -490,7 +490,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000079659",
         "DIVIDENDE": true
-        },
+    },
     "CAP": {
         "TICKER": "CAP",
         "NAME": "CAPGEMINI",
@@ -502,7 +502,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000125338",
         "DIVIDENDE": true
-        },
+    },
     "CARM": {
         "TICKER": "CARM",
         "NAME": "CARMILA",
@@ -514,7 +514,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010828137",
         "DIVIDENDE": true
-        },
+    },
     "CA": {
         "TICKER": "CA",
         "NAME": "CARREFOUR",
@@ -526,7 +526,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000120172",
         "DIVIDENDE": true
-        },
+    },
     "CATG": {
         "TICKER": "CATG",
         "NAME": "CATANA GROUP",
@@ -538,7 +538,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010193052",
         "DIVIDENDE": true
-        },
+    },
     "CBOT": {
         "TICKER": "CBOT",
         "NAME": "CBO TERRITORIA",
@@ -550,7 +550,7 @@
         "PEA-PME": true,
         "ISIN": "FR0010193979",
         "DIVIDENDE": true
-        },
+    },
     "CRI": {
         "TICKER": "CRI",
         "NAME": "CHARGEURS",
@@ -562,7 +562,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000130692",
         "DIVIDENDE": true
-        },
+    },
     "CDI": {
         "TICKER": "CDI",
         "NAME": "CHRISTIAN DIOR",
@@ -574,7 +574,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000130403",
         "DIVIDENDE": true
-        },
+    },
     "ALCLA": {
         "TICKER": "ALCLA",
         "NAME": "CLASQUIN",
@@ -586,7 +586,7 @@
         "PEA-PME": true,
         "ISIN": "FR0004152882",
         "DIVIDENDE": true
-        },
+    },
     "COFA": {
         "TICKER": "COFA",
         "NAME": "COFACE",
@@ -598,7 +598,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010667147",
         "DIVIDENDE": true
-        },
+    },
     "ALCOF": {
         "TICKER": "ALCOF",
         "NAME": "COFIDUR S.A.",
@@ -610,7 +610,7 @@
         "PEA-PME": true,
         "ISIN": "FR0013257409",
         "DIVIDENDE": true
-        },
+    },
     "RE": {
         "TICKER": "RE",
         "NAME": "COLAS",
@@ -622,7 +622,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000121634",
         "DIVIDENDE": true
-        },
+    },
     "COUR": {
         "TICKER": "COUR",
         "NAME": "COURTOIS",
@@ -634,7 +634,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000065393",
         "DIVIDENDE": true
-        },
+    },
     "CRAP": {
         "TICKER": "CRAP",
         "NAME": "CRCAM ALP.PROV.CCI",
@@ -646,7 +646,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000044323",
         "DIVIDENDE": true
-        },
+    },
     "CRAV": {
         "TICKER": "CRAV",
         "NAME": "CRCAM ATL.VEND.CCI",
@@ -658,7 +658,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000185506",
         "DIVIDENDE": true
-        },
+    },
     "CRBP2": {
         "TICKER": "CRBP2",
         "NAME": "CRCAM BRIE PIC2CCI",
@@ -670,7 +670,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010483768",
         "DIVIDENDE": true
-        },
+    },
     "CIV": {
         "TICKER": "CIV",
         "NAME": "CRCAM ILLE-VIL.CCI",
@@ -682,7 +682,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000045213",
         "DIVIDENDE": true
-        },
+    },
     "CRLA": {
         "TICKER": "CRLA",
         "NAME": "CRCAM LANGUED CCI",
@@ -694,7 +694,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010461053",
         "DIVIDENDE": true
-        },
+    },
     "CMO": {
         "TICKER": "CMO",
         "NAME": "CRCAM MORBIHAN CCI",
@@ -706,7 +706,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000045551",
         "DIVIDENDE": true
-        },
+    },
     "CCN": {
         "TICKER": "CCN",
         "NAME": "CRCAM NORM.SEINE",
@@ -718,7 +718,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000044364",
         "DIVIDENDE": true
-        },
+    },
     "ACA": {
         "TICKER": "ACA",
         "NAME": "CREDIT AGRICOLE",
@@ -730,7 +730,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000045072",
         "DIVIDENDE": true
-        },
+    },
     "CROS": {
         "TICKER": "CROS",
         "NAME": "CROSSWOOD",
@@ -742,7 +742,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000050395",
         "DIVIDENDE": true
-        },
+    },
     "ALDLS": {
         "TICKER": "ALDLS",
         "NAME": "D.L.S.I.",
@@ -754,7 +754,7 @@
         "PEA-PME": true,
         "ISIN": "FR0010404368",
         "DIVIDENDE": true
-        },
+    },
     "BN": {
         "TICKER": "BN",
         "NAME": "DANONE",
@@ -766,7 +766,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000120644",
         "DIVIDENDE": true
-        },
+    },
     "AM": {
         "TICKER": "AM",
         "NAME": "DASSAULT AVIATION",
@@ -778,7 +778,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000121725",
         "DIVIDENDE": true
-        },
+    },
     "DKUPL": {
         "TICKER": "DKUPL",
         "NAME": "DEKUPLE",
@@ -790,7 +790,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000062978",
         "DIVIDENDE": true
-        },
+    },
     "ALDEL": {
         "TICKER": "ALDEL",
         "NAME": "DELFINGEN INDUSTRY",
@@ -802,7 +802,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000054132",
         "DIVIDENDE": true
-        },
+    },
     "DBG": {
         "TICKER": "DBG",
         "NAME": "DERICHEBOURG",
@@ -814,7 +814,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000053381",
         "DIVIDENDE": true
-        },
+    },
     "DPAM": {
         "TICKER": "DPAM",
         "NAME": "DOCK.PETR.AMBES AM",
@@ -826,7 +826,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000065260",
         "DIVIDENDE": true
-        },
+    },
     "EDEN": {
         "TICKER": "EDEN",
         "NAME": "EDENRED",
@@ -838,7 +838,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010908533",
         "DIVIDENDE": true
-        },
+    },
     "FGR": {
         "TICKER": "FGR",
         "NAME": "EIFFAGE",
@@ -850,7 +850,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000130452",
         "DIVIDENDE": true
-        },
+    },
     "ELEC": {
         "TICKER": "ELEC",
         "NAME": "ELEC.STRASBOURG",
@@ -862,7 +862,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000031023",
         "DIVIDENDE": true
-        },
+    },
     "ELIS": {
         "TICKER": "ELIS",
         "NAME": "ELIS",
@@ -874,7 +874,7 @@
         "PEA-PME": null,
         "ISIN": "FR0012435121",
         "DIVIDENDE": true
-        },
+    },
     "ENGI": {
         "TICKER": "ENGI",
         "NAME": "ENGIE",
@@ -886,7 +886,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010208488",
         "DIVIDENDE": true
-        },
+    },
     "ERA": {
         "TICKER": "ERA",
         "NAME": "ERAMET",
@@ -898,7 +898,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000131757",
         "DIVIDENDE": true
-        },
+    },
     "ALESK": {
         "TICKER": "ALESK",
         "NAME": "ESKER",
@@ -910,7 +910,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000035818",
         "DIVIDENDE": true
-        },
+    },
     "EL": {
         "TICKER": "EL",
         "NAME": "ESSILORLUXOTTICA",
@@ -922,7 +922,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000121667",
         "DIVIDENDE": true
-        },
+    },
     "ES": {
         "TICKER": "ES",
         "NAME": "ESSO",
@@ -934,7 +934,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000120669",
         "DIVIDENDE": true
-        },
+    },
     "RF": {
         "TICKER": "RF",
         "NAME": "EURAZEO SE",
@@ -946,7 +946,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000121121",
         "DIVIDENDE": true
-        },
+    },
     "EUR": {
         "TICKER": "EUR",
         "NAME": "EURO RESSOURCES",
@@ -958,7 +958,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000054678",
         "DIVIDENDE": true
-        },
+    },
     "ERF": {
         "TICKER": "ERF",
         "NAME": "EUROFINS SCIENT.",
@@ -970,7 +970,7 @@
         "PEA-PME": null,
         "ISIN": "FR0014000MR3",
         "DIVIDENDE": true
-        },
+    },
     "ENX": {
         "TICKER": "ENX",
         "NAME": "EURONEXT",
@@ -982,7 +982,7 @@
         "PEA-PME": null,
         "ISIN": "NL0006294274",
         "DIVIDENDE": true
-        },
+    },
     "ETL": {
         "TICKER": "ETL",
         "NAME": "EUTELSAT COMMUNIC.",
@@ -994,7 +994,7 @@
         "PEA-PME": true,
         "ISIN": "FR0010221234",
         "DIVIDENDE": true
-        },
+    },
     "EXE": {
         "TICKER": "EXE",
         "NAME": "EXEL INDUSTRIES",
@@ -1006,7 +1006,7 @@
         "PEA-PME": true,
         "ISIN": "FR0004527638",
         "DIVIDENDE": true
-        },
+    },
     "FDJ": {
         "TICKER": "FDJ",
         "NAME": "FDJ",
@@ -1018,7 +1018,7 @@
         "PEA-PME": null,
         "ISIN": "FR0013451333",
         "DIVIDENDE": true
-        },
+    },
     "FCMC": {
         "TICKER": "FCMC",
         "NAME": "FERM.CASINO MUNICIPAL CANNES",
@@ -1030,7 +1030,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000062101",
         "DIVIDENDE": true
-        },
+    },
     "SACI": {
         "TICKER": "SACI",
         "NAME": "FIDUCIAL OFF.SOL.",
@@ -1042,7 +1042,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000061418",
         "DIVIDENDE": true
-        },
+    },
     "ORIA": {
         "TICKER": "ORIA",
         "NAME": "FIDUCIAL REAL EST.",
@@ -1054,7 +1054,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000060535",
         "DIVIDENDE": true
-        },
+    },
     "BERR": {
         "TICKER": "BERR",
         "NAME": "FIN.IMMOB.ETANG BERRE MEDIT.",
@@ -1066,7 +1066,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000062341",
         "DIVIDENDE": true
-        },
+    },
     "FNAC": {
         "TICKER": "FNAC",
         "NAME": "FNAC DARTY",
@@ -1078,7 +1078,7 @@
         "PEA-PME": null,
         "ISIN": "FR0011476928",
         "DIVIDENDE": true
-        },
+    },
     "ALFPC": {
         "TICKER": "ALFPC",
         "NAME": "FOUNTAINE PAJOT",
@@ -1090,7 +1090,7 @@
         "PEA-PME": true,
         "ISIN": "FR0010485268",
         "DIVIDENDE": true
-        },
+    },
     "FREY": {
         "TICKER": "FREY",
         "NAME": "FREY",
@@ -1102,7 +1102,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010588079",
         "DIVIDENDE": true
-        },
+    },
     "GALIM": {
         "TICKER": "GALIM",
         "NAME": "GALIMMO",
@@ -1114,7 +1114,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000030611",
         "DIVIDENDE": true
-        },
+    },
     "GTT": {
         "TICKER": "GTT",
         "NAME": "GAZTRANSPORT & TECHNIGAZ",
@@ -1126,7 +1126,7 @@
         "PEA-PME": null,
         "ISIN": "FR0011726835",
         "DIVIDENDE": true
-        },
+    },
     "GEA": {
         "TICKER": "GEA",
         "NAME": "GEA GRENOBL.ELECT.",
@@ -1138,7 +1138,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000053035",
         "DIVIDENDE": true
-        },
+    },
     "GET": {
         "TICKER": "GET",
         "NAME": "GETLINK SE",
@@ -1150,7 +1150,7 @@
         "PEA-PME": true,
         "ISIN": "FR0010533075",
         "DIVIDENDE": true
-        },
+    },
     "ALGEV": {
         "TICKER": "ALGEV",
         "NAME": "GEVELOT",
@@ -1162,7 +1162,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000033888",
         "DIVIDENDE": true
-        },
+    },
     "GLO": {
         "TICKER": "GLO",
         "NAME": "GL EVENTS",
@@ -1174,7 +1174,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000066672",
         "DIVIDENDE": true
-        },
+    },
     "ALGLD": {
         "TICKER": "ALGLD",
         "NAME": "GOLD BY GOLD",
@@ -1186,7 +1186,7 @@
         "PEA-PME": null,
         "ISIN": "FR0011208693",
         "DIVIDENDE": true
-        },
+    },
     "GPE": {
         "TICKER": "GPE",
         "NAME": "GPE GROUP PIZZORNO",
@@ -1198,7 +1198,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010214064",
         "DIVIDENDE": true
-        },
+    },
     "CEN": {
         "TICKER": "CEN",
         "NAME": "GROUPE CRIT",
@@ -1210,7 +1210,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000036675",
         "DIVIDENDE": true
-        },
+    },
     "ALGIL": {
         "TICKER": "ALGIL",
         "NAME": "GROUPE GUILLIN",
@@ -1222,7 +1222,7 @@
         "PEA-PME": true,
         "ISIN": "FR0012819381",
         "DIVIDENDE": true
-        },
+    },
     "PARP": {
         "TICKER": "PARP",
         "NAME": "GROUPE PARTOUCHE",
@@ -1234,7 +1234,7 @@
         "PEA-PME": true,
         "ISIN": "FR0010263202",
         "DIVIDENDE": true
-        },
+    },
     "SFPI": {
         "TICKER": "SFPI",
         "NAME": "GROUPE SFPI",
@@ -1246,7 +1246,7 @@
         "PEA-PME": true,
         "ISIN": "FR0004155000",
         "DIVIDENDE": true
-        },
+    },
     "GBT": {
         "TICKER": "GBT",
         "NAME": "GUERBET",
@@ -1258,7 +1258,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000032526",
         "DIVIDENDE": true
-        },
+    },
     "GUI": {
         "TICKER": "GUI",
         "NAME": "GUILLEMOT",
@@ -1270,7 +1270,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000066722",
         "DIVIDENDE": true
-        },
+    },
     "RMS": {
         "TICKER": "RMS",
         "NAME": "HERMES INTL",
@@ -1282,7 +1282,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000052292",
         "DIVIDENDE": true
-        },
+    },
     "HCO": {
         "TICKER": "HCO",
         "NAME": "HIGH CO",
@@ -1294,7 +1294,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000054231",
         "DIVIDENDE": true
-        },
+    },
     "ALHIT": {
         "TICKER": "ALHIT",
         "NAME": "HITECHPROS",
@@ -1306,7 +1306,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010396309",
         "DIVIDENDE": true
-        },
+    },
     "ALI2S": {
         "TICKER": "ALI2S",
         "NAME": "I2S",
@@ -1318,7 +1318,7 @@
         "PEA-PME": null,
         "ISIN": "FR0005854700",
         "DIVIDENDE": true
-        },
+    },
     "IDIP": {
         "TICKER": "IDIP",
         "NAME": "IDI",
@@ -1330,7 +1330,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000051393",
         "DIVIDENDE": true
-        },
+    },
     "NK": {
         "TICKER": "NK",
         "NAME": "IMERYS",
@@ -1342,7 +1342,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000120859",
         "DIVIDENDE": true
-        },
+    },
     "IMDA": {
         "TICKER": "IMDA",
         "NAME": "IMMOB.DASSAULT",
@@ -1354,7 +1354,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000033243",
         "DIVIDENDE": true
-        },
+    },
     "INFE": {
         "TICKER": "INFE",
         "NAME": "INDLE FIN.ENTREPRISES",
@@ -1366,7 +1366,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000066219",
         "DIVIDENDE": true
-        },
+    },
     "INF": {
         "TICKER": "INF",
         "NAME": "INFOTEL",
@@ -1378,7 +1378,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000071797",
         "DIVIDENDE": true
-        },
+    },
     "ITP": {
         "TICKER": "ITP",
         "NAME": "INTERPARFUMS",
@@ -1390,7 +1390,7 @@
         "PEA-PME": null,
         "ISIN": "FR0004024222",
         "DIVIDENDE": true
-        },
+    },
     "IPN": {
         "TICKER": "IPN",
         "NAME": "IPSEN",
@@ -1402,7 +1402,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010259150",
         "DIVIDENDE": true
-        },
+    },
     "IPS": {
         "TICKER": "IPS",
         "NAME": "IPSOS",
@@ -1414,7 +1414,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000073298",
         "DIVIDENDE": true
-        },
+    },
     "JBOG": {
         "TICKER": "JBOG",
         "NAME": "JACQUES BOGART",
@@ -1426,7 +1426,7 @@
         "PEA-PME": true,
         "ISIN": "FR0012872141",
         "DIVIDENDE": true
-        },
+    },
     "JCQ": {
         "TICKER": "JCQ",
         "NAME": "JACQUET METALS",
@@ -1438,7 +1438,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000033904",
         "DIVIDENDE": true
-        },
+    },
     "KOF": {
         "TICKER": "KOF",
         "NAME": "KAUFMAN ET BROAD",
@@ -1450,7 +1450,7 @@
         "PEA-PME": true,
         "ISIN": "FR0004007813",
         "DIVIDENDE": true
-        },
+    },
     "KER": {
         "TICKER": "KER",
         "NAME": "KERING",
@@ -1462,7 +1462,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000121485",
         "DIVIDENDE": true
-        },
+    },
     "LOUP": {
         "TICKER": "LOUP",
         "NAME": "L.D.C.",
@@ -1474,7 +1474,7 @@
         "PEA-PME": null,
         "ISIN": "FR0013204336",
         "DIVIDENDE": true
-        },
+    },
     "OR": {
         "TICKER": "OR",
         "NAME": "L'OREAL",
@@ -1486,7 +1486,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000120321",
         "DIVIDENDE": true
-        },
+    },
     "LACR": {
         "TICKER": "LACR",
         "NAME": "LACROIX GROUP",
@@ -1498,7 +1498,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000066607",
         "DIVIDENDE": true
-        },
+    },
     "MMB": {
         "TICKER": "MMB",
         "NAME": "LAGARDERE SA",
@@ -1510,7 +1510,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000130213",
         "DIVIDENDE": true
-        },
+    },
     "LPE": {
         "TICKER": "LPE",
         "NAME": "LAURENT-PERRIER",
@@ -1522,7 +1522,7 @@
         "PEA-PME": true,
         "ISIN": "FR0006864484",
         "DIVIDENDE": true
-        },
+    },
     "LSS": {
         "TICKER": "LSS",
         "NAME": "LECTRA",
@@ -1534,7 +1534,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000065484",
         "DIVIDENDE": true
-        },
+    },
     "LR": {
         "TICKER": "LR",
         "NAME": "LEGRAND",
@@ -1546,7 +1546,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010307819",
         "DIVIDENDE": true
-        },
+    },
     "ALLHB": {
         "TICKER": "ALLHB",
         "NAME": "LES HOTELS BAVEREZ",
@@ -1558,7 +1558,7 @@
         "PEA-PME": true,
         "ISIN": "FR0007080254",
         "DIVIDENDE": true
-        },
+    },
     "LIN": {
         "TICKER": "LIN",
         "NAME": "LINEDATA SERVICES",
@@ -1570,7 +1570,7 @@
         "PEA-PME": true,
         "ISIN": "FR0004156297",
         "DIVIDENDE": true
-        },
+    },
     "FII": {
         "TICKER": "FII",
         "NAME": "LISI",
@@ -1582,7 +1582,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000050353",
         "DIVIDENDE": true
-        },
+    },
     "LNA": {
         "TICKER": "LNA",
         "NAME": "LNA SANTE",
@@ -1594,7 +1594,7 @@
         "PEA-PME": true,
         "ISIN": "FR0004170017",
         "DIVIDENDE": true
-        },
+    },
     "MC": {
         "TICKER": "MC",
         "NAME": "LVMH",
@@ -1606,7 +1606,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000121014",
         "DIVIDENDE": true
-        },
+    },
     "MRM": {
         "TICKER": "MRM",
         "NAME": "M.R.M",
@@ -1618,7 +1618,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000060196",
         "DIVIDENDE": true
-        },
+    },
     "MDM": {
         "TICKER": "MDM",
         "NAME": "MAISONS DU MONDE",
@@ -1630,7 +1630,7 @@
         "PEA-PME": null,
         "ISIN": "FR0013153541",
         "DIVIDENDE": true
-        },
+    },
     "MTU": {
         "TICKER": "MTU",
         "NAME": "MANITOU BF",
@@ -1642,7 +1642,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000032302",
         "DIVIDENDE": true
-        },
+    },
     "MAU": {
         "TICKER": "MAU",
         "NAME": "MAUREL ET PROM",
@@ -1654,7 +1654,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000051070",
         "DIVIDENDE": true
-        },
+    },
     "MRN": {
         "TICKER": "MRN",
         "NAME": "MERSEN",
@@ -1666,7 +1666,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000039620",
         "DIVIDENDE": true
-        },
+    },
     "ALMET": {
         "TICKER": "ALMET",
         "NAME": "METHANOR",
@@ -1678,7 +1678,7 @@
         "PEA-PME": true,
         "ISIN": "FR0011217710",
         "DIVIDENDE": true
-        },
+    },
     "MMT": {
         "TICKER": "MMT",
         "NAME": "METROPOLE TV",
@@ -1690,7 +1690,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000053225",
         "DIVIDENDE": true
-        },
+    },
     "ALMGI": {
         "TICKER": "ALMGI",
         "NAME": "MG INTERNATIONAL",
@@ -1702,7 +1702,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010204453",
         "DIVIDENDE": true
-        },
+    },
     "ML": {
         "TICKER": "ML",
         "NAME": "MICHELIN",
@@ -1714,7 +1714,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000121261",
         "DIVIDENDE": true
-        },
+    },
     "ALMOU": {
         "TICKER": "ALMOU",
         "NAME": "MOULINVEST",
@@ -1726,7 +1726,7 @@
         "PEA-PME": true,
         "ISIN": "FR0011033083",
         "DIVIDENDE": true
-        },
+    },
     "NRO": {
         "TICKER": "NRO",
         "NAME": "NEURONES",
@@ -1738,7 +1738,7 @@
         "PEA-PME": null,
         "ISIN": "FR0004050250",
         "DIVIDENDE": true
-        },
+    },
     "NEX": {
         "TICKER": "NEX",
         "NAME": "NEXANS",
@@ -1750,7 +1750,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000044448",
         "DIVIDENDE": true
-        },
+    },
     "NXI": {
         "TICKER": "NXI",
         "NAME": "NEXITY",
@@ -1762,7 +1762,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010112524",
         "DIVIDENDE": true
-        },
+    },
     "NOKIA": {
         "TICKER": "NOKIA",
         "NAME": "NOKIA",
@@ -1774,7 +1774,7 @@
         "PEA-PME": null,
         "ISIN": "FI0009000681",
         "DIVIDENDE": true
-        },
+    },
     "NRG": {
         "TICKER": "NRG",
         "NAME": "NRJ GROUP",
@@ -1786,7 +1786,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000121691",
         "DIVIDENDE": true
-        },
+    },
     "ALNSE": {
         "TICKER": "ALNSE",
         "NAME": "NSE",
@@ -1798,7 +1798,7 @@
         "PEA-PME": null,
         "ISIN": "FR0004065639",
         "DIVIDENDE": true
-        },
+    },
     "ALOBR": {
         "TICKER": "ALOBR",
         "NAME": "OBER",
@@ -1810,7 +1810,7 @@
         "PEA-PME": true,
         "ISIN": "FR0010330613",
         "DIVIDENDE": true
-        },
+    },
     "SBT": {
         "TICKER": "SBT",
         "NAME": "OENEO",
@@ -1822,7 +1822,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000052680",
         "DIVIDENDE": true
-        },
+    },
     "ORA": {
         "TICKER": "ORA",
         "NAME": "ORANGE",
@@ -1834,7 +1834,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000133308",
         "DIVIDENDE": true
-        },
+    },
     "PAR": {
         "TICKER": "PAR",
         "NAME": "PAREF",
@@ -1846,7 +1846,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010263202",
         "DIVIDENDE": true
-        },
+    },
     "RI": {
         "TICKER": "RI",
         "NAME": "PERNOD RICARD",
@@ -1858,7 +1858,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000120693",
         "DIVIDENDE": true
-        },
+    },
     "PERR": {
         "TICKER": "PERR",
         "NAME": "PERRIER (GERARD)",
@@ -1870,7 +1870,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000061459",
         "DIVIDENDE": true
-        },
+    },
     "ALPDX": {
         "TICKER": "ALPDX",
         "NAME": "PISCINES DESJOYAUX",
@@ -1882,7 +1882,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000061608",
         "DIVIDENDE": true
-        },
+    },
     "POM": {
         "TICKER": "POM",
         "NAME": "PLASTIC OMNIUM",
@@ -1894,7 +1894,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000124570",
         "DIVIDENDE": true
-        },
+    },
     "ALPJT": {
         "TICKER": "ALPJT",
         "NAME": "POUJOULAT",
@@ -1906,7 +1906,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000066441",
         "DIVIDENDE": true
-        },
+    },
     "PUB": {
         "TICKER": "PUB",
         "NAME": "PUBLICIS GROUPE SA",
@@ -1918,7 +1918,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000130577",
         "DIVIDENDE": true
-        },
+    },
     "QDT": {
         "TICKER": "QDT",
         "NAME": "QUADIENT S.A.",
@@ -1930,7 +1930,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000120560",
         "DIVIDENDE": true
-        },
+    },
     "ALREA": {
         "TICKER": "ALREA",
         "NAME": "REALITES",
@@ -1942,7 +1942,7 @@
         "PEA-PME": true,
         "ISIN": "FR0011858190",
         "DIVIDENDE": true
-        },
+    },
     "RCO": {
         "TICKER": "RCO",
         "NAME": "REMY COINTREAU",
@@ -1954,7 +1954,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000130395",
         "DIVIDENDE": true
-        },
+    },
     "RNO": {
         "TICKER": "RNO",
         "NAME": "RENAULT",
@@ -1966,7 +1966,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000131906",
         "DIVIDENDE": true
-        },
+    },
     "RXL": {
         "TICKER": "RXL",
         "NAME": "REXEL",
@@ -1978,7 +1978,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010451203",
         "DIVIDENDE": true
-        },
+    },
     "RBT": {
         "TICKER": "RBT",
         "NAME": "ROBERTET",
@@ -1990,7 +1990,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000039091",
         "DIVIDENDE": true
-        },
+    },
     "RBO": {
         "TICKER": "RBO",
         "NAME": "ROCHE BOBOIS",
@@ -2002,7 +2002,7 @@
         "PEA-PME": true,
         "ISIN": "FR0013344173",
         "DIVIDENDE": true
-        },
+    },
     "RUI": {
         "TICKER": "RUI",
         "NAME": "RUBIS",
@@ -2014,7 +2014,7 @@
         "PEA-PME": null,
         "ISIN": "FR0013269123",
         "DIVIDENDE": true
-        },
+    },
     "SK": {
         "TICKER": "SK",
         "NAME": "S.E.B.",
@@ -2026,7 +2026,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000121709",
         "DIVIDENDE": true
-        },
+    },
     "SAF": {
         "TICKER": "SAF",
         "NAME": "SAFRAN",
@@ -2038,7 +2038,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000073272",
         "DIVIDENDE": true
-        },
+    },
     "SGO": {
         "TICKER": "SGO",
         "NAME": "SAINT GOBAIN",
@@ -2050,7 +2050,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000125007",
         "DIVIDENDE": true
-        },
+    },
     "SAMS": {
         "TICKER": "SAMS",
         "NAME": "SAMSE",
@@ -2062,7 +2062,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000060071",
         "DIVIDENDE": true
-        },
+    },
     "SAN": {
         "TICKER": "SAN",
         "NAME": "SANOFI",
@@ -2074,7 +2074,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000120578",
         "DIVIDENDE": true
-        },
+    },
     "DIM": {
         "TICKER": "DIM",
         "NAME": "SARTORIUS STED BIO",
@@ -2086,7 +2086,7 @@
         "PEA-PME": null,
         "ISIN": "FR0013154002",
         "DIVIDENDE": true
-        },
+    },
     "SAVE": {
         "TICKER": "SAVE",
         "NAME": "SAVENCIA S.A.",
@@ -2098,7 +2098,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000120107",
         "DIVIDENDE": true
-        },
+    },
     "CBSM": {
         "TICKER": "CBSM",
         "NAME": "SCBSM",
@@ -2110,7 +2110,7 @@
         "PEA-PME": null,
         "ISIN": "FR0006239109",
         "DIVIDENDE": true
-        },
+    },
     "SU": {
         "TICKER": "SU",
         "NAME": "SCHNEIDER ELECTRIC SE",
@@ -2122,7 +2122,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000121972",
         "DIVIDENDE": true
-        },
+    },
     "SCR": {
         "TICKER": "SCR",
         "NAME": "SCOR SE",
@@ -2134,7 +2134,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010411983",
         "DIVIDENDE": true
-        },
+    },
     "SCHP": {
         "TICKER": "SCHP",
         "NAME": "SECHE ENVIRONNEM.",
@@ -2146,7 +2146,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000039109",
         "DIVIDENDE": true
-        },
+    },
     "SELER": {
         "TICKER": "SELER",
         "NAME": "SELECTIRENTE",
@@ -2158,7 +2158,7 @@
         "PEA-PME": null,
         "ISIN": "FR0004175842",
         "DIVIDENDE": true
-        },
+    },
     "SEFER": {
         "TICKER": "SEFER",
         "NAME": "SERGEFERRARI GROUP",
@@ -2170,7 +2170,7 @@
         "PEA-PME": true,
         "ISIN": "FR0011950682",
         "DIVIDENDE": true
-        },
+    },
     "SESG": {
         "TICKER": "SESG",
         "NAME": "SES",
@@ -2182,7 +2182,7 @@
         "PEA-PME": null,
         "ISIN": "LU0088087324",
         "DIVIDENDE": true
-        },
+    },
     "SII": {
         "TICKER": "SII",
         "NAME": "SII",
@@ -2194,7 +2194,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000074122",
         "DIVIDENDE": true
-        },
+    },
     "GLE": {
         "TICKER": "GLE",
         "NAME": "SOCIETE GENERALE",
@@ -2206,7 +2206,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000130809",
         "DIVIDENDE": true
-        },
+    },
     "SW": {
         "TICKER": "SW",
         "NAME": "SODEXO",
@@ -2218,7 +2218,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000121220",
         "DIVIDENDE": true
-        },
+    },
     "SOP": {
         "TICKER": "SOP",
         "NAME": "SOPRA STERIA GROUP",
@@ -2230,7 +2230,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000050809",
         "DIVIDENDE": true
-        },
+    },
     "SPIE": {
         "TICKER": "SPIE",
         "NAME": "SPIE",
@@ -2242,7 +2242,7 @@
         "PEA-PME": null,
         "ISIN": "FR0012757854",
         "DIVIDENDE": true
-        },
+    },
     "STF": {
         "TICKER": "STF",
         "NAME": "STEF",
@@ -2254,7 +2254,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000064271",
         "DIVIDENDE": true
-        },
+    },
     "STLAP": {
         "TICKER": "STLAP",
         "NAME": "STELLANTIS NV",
@@ -2266,7 +2266,7 @@
         "PEA-PME": null,
         "ISIN": "NL00150001Q9",
         "DIVIDENDE": true
-        },
+    },
     "STMPA": {
         "TICKER": "STMPA",
         "NAME": "STMICROELECTRONICS",
@@ -2278,7 +2278,7 @@
         "PEA-PME": null,
         "ISIN": "NL0000226223",
         "DIVIDENDE": true
-        },
+    },
     "ALSAS": {
         "TICKER": "ALSAS",
         "NAME": "STRADIM",
@@ -2290,7 +2290,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000074775",
         "DIVIDENDE": true
-        },
+    },
     "SWP": {
         "TICKER": "SWP",
         "NAME": "SWORD GROUP",
@@ -2302,7 +2302,7 @@
         "PEA-PME": true,
         "ISIN": "FR0004180578",
         "DIVIDENDE": true
-        },
+    },
     "SDG": {
         "TICKER": "SDG",
         "NAME": "SYNERGIE",
@@ -2314,7 +2314,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000032658",
         "DIVIDENDE": true
-        },
+    },
     "TEP": {
         "TICKER": "TEP",
         "NAME": "TELEPERFORMANCE",
@@ -2326,7 +2326,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000051807",
         "DIVIDENDE": true
-        },
+    },
     "TFI": {
         "TICKER": "TFI",
         "NAME": "TF1",
@@ -2338,7 +2338,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000054900",
         "DIVIDENDE": true
-        },
+    },
     "TFF": {
         "TICKER": "TFF",
         "NAME": "TFF GROUP",
@@ -2350,7 +2350,7 @@
         "PEA-PME": true,
         "ISIN": "FR0013295789",
         "DIVIDENDE": true
-        },
+    },
     "HO": {
         "TICKER": "HO",
         "NAME": "THALES",
@@ -2362,7 +2362,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000121329",
         "DIVIDENDE": true
-        },
+    },
     "THEP": {
         "TICKER": "THEP",
         "NAME": "THERMADOR GROUPE",
@@ -2374,7 +2374,7 @@
         "PEA-PME": true,
         "ISIN": "FR0013333432",
         "DIVIDENDE": true
-        },
+    },
     "TKO": {
         "TICKER": "TKO",
         "NAME": "TIKEHAU CAPITAL",
@@ -2386,7 +2386,7 @@
         "PEA-PME": null,
         "ISIN": "FR0013230612",
         "DIVIDENDE": true
-        },
+    },
     "TIPI": {
         "TICKER": "TIPI",
         "NAME": "TIPIAK",
@@ -2398,7 +2398,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000066482",
         "DIVIDENDE": true
-        },
+    },
     "TTE": {
         "TICKER": "TTE",
         "NAME": "TOTALENERGIES",
@@ -2410,7 +2410,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000120271",
         "DIVIDENDE": true
-        },
+    },
     "TOUP": {
         "TICKER": "TOUP",
         "NAME": "TOUAX",
@@ -2422,7 +2422,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000033003",
         "DIVIDENDE": true
-        },
+    },
     "EIFF": {
         "TICKER": "EIFF",
         "NAME": "TOUR EIFFEL",
@@ -2434,7 +2434,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000036816",
         "DIVIDENDE": true
-        },
+    },
     "ALTTI": {
         "TICKER": "ALTTI",
         "NAME": "TRAVEL TECHNOLOGY",
@@ -2446,7 +2446,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010383877",
         "DIVIDENDE": true
-        },
+    },
     "TRI": {
         "TICKER": "TRI",
         "NAME": "TRIGANO",
@@ -2458,7 +2458,7 @@
         "PEA-PME": true,
         "ISIN": "FR0005691656",
         "DIVIDENDE": true
-        },
+    },
     "ALTXC": {
         "TICKER": "ALTXC",
         "NAME": "TXCOM",
@@ -2470,7 +2470,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010654087",
         "DIVIDENDE": true
-        },
+    },
     "UNBL": {
         "TICKER": "UNBL",
         "NAME": "UNIBEL",
@@ -2482,7 +2482,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000054215",
         "DIVIDENDE": true
-        },
+    },
     "FR": {
         "TICKER": "FR",
         "NAME": "VALEO",
@@ -2494,7 +2494,7 @@
         "PEA-PME": null,
         "ISIN": "FR0013176526",
         "DIVIDENDE": true
-        },
+    },
     "VIE": {
         "TICKER": "VIE",
         "NAME": "VEOLIA ENVIRON.",
@@ -2506,19 +2506,19 @@
         "PEA-PME": null,
         "ISIN": "FR0000124141",
         "DIVIDENDE": true
-        },
+    },
     "VRLA": {
         "TICKER": "VRLA",
         "NAME": "VERALLIA",
         "DESIGNATION": "Verallia Société Anonyme",
         "SECTEUR": "Consommation discrétionnaire",
-        "HREF_BOURSORAMA": null,
+        "HREF_BOURSORAMA": "/cours/1rPVRLA/",
         "HREF_RENDEMENTBOURSE": "/vrla-verallia",
         "PEA": true,
         "PEA-PME": null,
         "ISIN": "FR0013447729",
         "DIVIDENDE": true
-        },
+    },
     "VETO": {
         "TICKER": "VETO",
         "NAME": "VETOQUINOL",
@@ -2530,7 +2530,7 @@
         "PEA-PME": true,
         "ISIN": "FR0004186856",
         "DIVIDENDE": true
-        },
+    },
     "VCT": {
         "TICKER": "VCT",
         "NAME": "VICAT",
@@ -2542,7 +2542,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000031775",
         "DIVIDENDE": true
-        },
+    },
     "VIL": {
         "TICKER": "VIL",
         "NAME": "VIEL ET COMPAGNIE",
@@ -2554,7 +2554,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000050049",
         "DIVIDENDE": true
-        },
+    },
     "DG": {
         "TICKER": "DG",
         "NAME": "VINCI",
@@ -2566,7 +2566,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000125486",
         "DIVIDENDE": true
-        },
+    },
     "ALVIV": {
         "TICKER": "ALVIV",
         "NAME": "VISIATIV",
@@ -2578,7 +2578,7 @@
         "PEA-PME": true,
         "ISIN": "FR0004029478",
         "DIVIDENDE": true
-        },
+    },
     "VIV": {
         "TICKER": "VIV",
         "NAME": "VIVENDI SE",
@@ -2590,7 +2590,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000127771",
         "DIVIDENDE": true
-        },
+    },
     "ALVDM": {
         "TICKER": "ALVDM",
         "NAME": "VOYAGEURS DU MONDE",
@@ -2602,7 +2602,7 @@
         "PEA-PME": true,
         "ISIN": "FR0004045847",
         "DIVIDENDE": true
-        },
+    },
     "VRAP": {
         "TICKER": "VRAP",
         "NAME": "VRANKEN-POMMERY",
@@ -2614,7 +2614,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000062796",
         "DIVIDENDE": true
-        },
+    },
     "WAVE": {
         "TICKER": "WAVE",
         "NAME": "WAVESTONE",
@@ -2626,7 +2626,7 @@
         "PEA-PME": true,
         "ISIN": "FR0013357621",
         "DIVIDENDE": true
-        },
+    },
     "ALWEC": {
         "TICKER": "ALWEC",
         "NAME": "WE.CONNECT",
@@ -2638,7 +2638,7 @@
         "PEA-PME": true,
         "ISIN": "FR0013079092",
         "DIVIDENDE": true
-        },
+    },
     "ALWED": {
         "TICKER": "ALWED",
         "NAME": "WEDIA",
@@ -2650,7 +2650,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010688440",
         "DIVIDENDE": true
-        },
+    },
     "MF": {
         "TICKER": "MF",
         "NAME": "WENDEL",
@@ -2662,7 +2662,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000121204",
         "DIVIDENDE": true
-        },
+    },
     "ADOC": {
         "TICKER": "ADOC",
         "NAME": "ADOCIA",
@@ -2674,7 +2674,7 @@
         "PEA-PME": true,
         "ISIN": "FR0011184241",
         "DIVIDENDE": null
-        },
+    },
     "AF": {
         "TICKER": "AF",
         "NAME": "AIR FRANCE -KLM",
@@ -2686,7 +2686,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000031122",
         "DIVIDENDE": null
-        },
+    },
     "ATO": {
         "TICKER": "ATO",
         "NAME": "ATOS",
@@ -2698,7 +2698,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000051732",
         "DIVIDENDE": null
-        },
+    },
     "CGG": {
         "TICKER": "CGG",
         "NAME": "CGG",
@@ -2710,19 +2710,19 @@
         "PEA-PME": null,
         "ISIN": "FR0013181864",
         "DIVIDENDE": null
-        },
+    },
     "CLARI": {
         "TICKER": "CLARI",
         "NAME": "CLARIANE SE",
         "DESIGNATION": "Clariane SE",
         "SECTEUR": "Santé",
-        "HREF_BOURSORAMA": null,
+        "HREF_BOURSORAMA": "/cours/1rPCLARI/",
         "HREF_RENDEMENTBOURSE": "/clari-clariane-se",
         "PEA": null,
         "PEA-PME": null,
         "ISIN": "FR0010386334",
         "DIVIDENDE": null
-        },
+    },
     "DSY": {
         "TICKER": "DSY",
         "NAME": "DASSAULT SYSTEMES",
@@ -2734,7 +2734,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000130650",
         "DIVIDENDE": null
-        },
+    },
     "ELIOR": {
         "TICKER": "ELIOR",
         "NAME": "ELIOR GROUP",
@@ -2746,7 +2746,7 @@
         "PEA-PME": null,
         "ISIN": "FR0011950732",
         "DIVIDENDE": null
-        },
+    },
     "EAPI": {
         "TICKER": "EAPI",
         "NAME": "EUROAPI SA",
@@ -2758,19 +2758,19 @@
         "PEA-PME": null,
         "ISIN": "FR0014008VX5",
         "DIVIDENDE": null
-        },
+    },
     "FRVIA": {
         "TICKER": "FRVIA",
         "NAME": "FORVIA",
         "DESIGNATION": "Forvia SE",
         "SECTEUR": "Consommation discrétionnaire",
-        "HREF_BOURSORAMA": null,
+        "HREF_BOURSORAMA": "/cours/1rPFRVIA/",
         "HREF_RENDEMENTBOURSE": "/frvia-forvia",
         "PEA": null,
         "PEA-PME": null,
         "ISIN": "FR0000121147",
         "DIVIDENDE": null
-        },
+    },
     "IDL": {
         "TICKER": "IDL",
         "NAME": "ID LOGISTICS GROUP",
@@ -2782,7 +2782,7 @@
         "PEA-PME": null,
         "ISIN": "FR0010929125",
         "DIVIDENDE": null
-        },
+    },
     "DEC": {
         "TICKER": "DEC",
         "NAME": "JCDECAUX SE",
@@ -2794,7 +2794,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000077919",
         "DIVIDENDE": null
-        },
+    },
     "ALLDL": {
         "TICKER": "ALLDL",
         "NAME": "GROUPE LDLC",
@@ -2806,19 +2806,19 @@
         "PEA-PME": null,
         "ISIN": "FR0000075442",
         "DIVIDENDE": null
-        },
+    },
     "ALMRB": {
         "TICKER": "ALMRB",
         "NAME": "MR BRICOLAGE",
         "DESIGNATION": "Mr.Bricolage S.A.",
         "SECTEUR": "Consommation discrétionnaire",
-        "HREF_BOURSORAMA": null,
+        "HREF_BOURSORAMA": "/cours/1rPALMRB/",
         "HREF_RENDEMENTBOURSE": "/almrb-mr-bricolage",
         "PEA": null,
         "PEA-PME": null,
         "ISIN": "FR0004034320",
         "DIVIDENDE": null
-        },
+    },
     "NEOEN": {
         "TICKER": "NEOEN",
         "NAME": "NEOEN",
@@ -2830,7 +2830,7 @@
         "PEA-PME": null,
         "ISIN": "FR0011675362",
         "DIVIDENDE": null
-        },
+    },
     "ORP": {
         "TICKER": "ORP",
         "NAME": "ORPEA",
@@ -2842,19 +2842,19 @@
         "PEA-PME": null,
         "ISIN": "FR0000184798",
         "DIVIDENDE": null
-        },
+    },
     "OVH": {
         "TICKER": "OVH",
         "NAME": "OVH",
         "DESIGNATION": "OVH Groupe S.A.",
         "SECTEUR": "Technologies",
-        "HREF_BOURSORAMA": null,
+        "HREF_BOURSORAMA": "/cours/1rPOVH/",
         "HREF_RENDEMENTBOURSE": "/ovh-ovh-group-sas",
         "PEA": null,
         "PEA-PME": null,
         "ISIN": "FR0014005HJ9",
         "DIVIDENDE": null
-        },
+    },
     "ALPAR": {
         "TICKER": "ALPAR",
         "NAME": "GROUPE PAROT",
@@ -2866,7 +2866,7 @@
         "PEA-PME": null,
         "ISIN": "FR0013204070",
         "DIVIDENDE": null
-        },
+    },
     "VAC": {
         "TICKER": "VAC",
         "NAME": "PIERRE VACANCES",
@@ -2878,7 +2878,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000073041",
         "DIVIDENDE": null
-        },
+    },
     "PVL": {
         "TICKER": "PVL",
         "NAME": "PLAST.VAL LOIRE",
@@ -2890,7 +2890,7 @@
         "PEA-PME": true,
         "ISIN": "FR0013252186",
         "DIVIDENDE": null
-        },
+    },
     "SESL": {
         "TICKER": "SESL",
         "NAME": "SES IMAGOTAG",
@@ -2902,7 +2902,7 @@
         "PEA-PME": true,
         "ISIN": "FR0010282822",
         "DIVIDENDE": null
-        },
+    },
     "SRP": {
         "TICKER": "SRP",
         "NAME": "SHOWROOMPRIVE",
@@ -2914,7 +2914,7 @@
         "PEA-PME": true,
         "ISIN": "FR0013006558",
         "DIVIDENDE": null
-        },
+    },
     "SOI": {
         "TICKER": "SOI",
         "NAME": "SOITEC",
@@ -2926,7 +2926,7 @@
         "PEA-PME": true,
         "ISIN": "FR0013227113",
         "DIVIDENDE": null
-        },
+    },
     "S30": {
         "TICKER": "S30",
         "NAME": "SOLUTIONS 30 SE",
@@ -2938,7 +2938,7 @@
         "PEA-PME": null,
         "ISIN": "FR0013379484",
         "DIVIDENDE": null
-        },
+    },
     "SOLB": {
         "TICKER": "SOLB",
         "NAME": "SOLVAY",
@@ -2950,7 +2950,7 @@
         "PEA-PME": null,
         "ISIN": "BE0003470755",
         "DIVIDENDE": null
-        },
+    },
     "UBI": {
         "TICKER": "UBI",
         "NAME": "UBISOFT ENTERTAIN",
@@ -2962,7 +2962,7 @@
         "PEA-PME": null,
         "ISIN": "FR0000054470",
         "DIVIDENDE": null
-        },
+    },
     "VK": {
         "TICKER": "VK",
         "NAME": "VALLOUREC",
@@ -2974,7 +2974,7 @@
         "PEA-PME": null,
         "ISIN": "FR0013506730",
         "DIVIDENDE": null
-        },
+    },
     "VLA": {
         "TICKER": "VLA",
         "NAME": "VALNEVA SE",
@@ -2986,7 +2986,7 @@
         "PEA-PME": true,
         "ISIN": "FR0004056851",
         "DIVIDENDE": null
-        },
+    },
     "VIRP": {
         "TICKER": "VIRP",
         "NAME": "VIRBAC",
@@ -2998,7 +2998,7 @@
         "PEA-PME": true,
         "ISIN": "FR0000031577",
         "DIVIDENDE": null
-        },
+    },
     "ALVGO": {
         "TICKER": "ALVGO",
         "NAME": "VOGO",
@@ -3010,7 +3010,7 @@
         "PEA-PME": null,
         "ISIN": "FR0011532225",
         "DIVIDENDE": null
-        },
+    },
     "VLTSA": {
         "TICKER": "VLTSA",
         "NAME": "VOLTALIA",
@@ -3022,7 +3022,7 @@
         "PEA-PME": null,
         "ISIN": "FR0011995588",
         "DIVIDENDE": null
-        },
+    },
     "WLN": {
         "TICKER": "WLN",
         "NAME": "WORLDLINE",
@@ -3034,7 +3034,7 @@
         "PEA-PME": null,
         "ISIN": "FR0011981968",
         "DIVIDENDE": null
-        },
+    },
     "XFAB": {
         "TICKER": "XFAB",
         "NAME": "X-FAB SILICON FOUNDRIES SE",
@@ -3046,5 +3046,5 @@
         "PEA-PME": null,
         "ISIN": "BE0974310428",
         "DIVIDENDE": null
-        }
+    }
 }

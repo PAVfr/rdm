@@ -208,7 +208,7 @@ ALTXC,TXCOM,TXCOM Société Anonyme,Technologies,/cours/1rPALTXC-OTC/,/altxc-txc
 UNBL,UNIBEL,Unibel S.A.,Consommation de base,/cours/1rPUNBL/,/unbl-unibel,True,,FR0000054215,True
 FR,VALEO,Valeo SE,Consommation discrétionnaire,/cours/1rPFR/,/fr-valeo,True,,FR0013176526,True
 VIE,VEOLIA ENVIRON.,Veolia Environnement SA,Services aux collectivités,/cours/1rPVIE/,/vie-veolia-environnement,True,,FR0000124141,True
-VRLA,VERALLIA,Verallia Société Anonyme,Consommation discrétionnaire,,/vrla-verallia,True,,FR0013447729,True
+VRLA,VERALLIA,Verallia Société Anonyme,Consommation discrétionnaire,/cours/1rPVRLA/,/vrla-verallia,True,,FR0013447729,True
 VETO,VETOQUINOL,Vetoquinol SA,Santé,/cours/1rPVETO/,/veto-vetoquinol,True,True,FR0004186856,True
 VCT,VICAT,Vicat S.A.,Matériaux,/cours/1rPVCT/,/vct-vicat,True,,FR0000031775,True
 VIL,VIEL ET COMPAGNIE,"VIEL & Cie, société anonyme",Finance,/cours/1rPVIL/,/vil-viel-et-compagnie,True,,FR0000050049,True
@@ -225,18 +225,18 @@ ADOC,ADOCIA,Adocia SA,Santé,/cours/1rPADOC/,/adoc-adocia,True,True,FR0011184241
 AF,AIR FRANCE -KLM,Air France-KLM SA,Industrie,,/af-air-france-klm-sa,True,,FR0000031122,
 ATO,ATOS,Atos SE,Technologies,/cours/1rPATO/,/ato-atos,True,,FR0000051732,
 CGG,CGG,CGG,Energie,/cours/1rPCGG/,/cgg-cgg,True,,FR0013181864,
-CLARI,CLARIANE SE,Clariane SE,Santé,,/clari-clariane-se,,,FR0010386334,
+CLARI,CLARIANE SE,Clariane SE,Santé,/cours/1rPCLARI/,/clari-clariane-se,,,FR0010386334,
 DSY,DASSAULT SYSTEMES,Dassault Systèmes SE,Technologies,,/dsy-dassault-systemes-sa,True,,FR0000130650,
 ELIOR,ELIOR GROUP,Elior Group SA,Consommation discrétionnaire,/cours/1rPELIOR/,/elior-elior-group,True,,FR0011950732,
 EAPI,EUROAPI SA,Euroapi S.A.,Santé,/cours/1rPEAPI/,/eapi-euroapi-sa,,,FR0014008VX5,
-FRVIA,FORVIA,Forvia SE,Consommation discrétionnaire,,/frvia-forvia,,,FR0000121147,
+FRVIA,FORVIA,Forvia SE,Consommation discrétionnaire,/cours/1rPFRVIA/,/frvia-forvia,,,FR0000121147,
 IDL,ID LOGISTICS GROUP,ID Logistics Group SA,Industrie,/cours/1rPIDL/,/idl-id-logistics-group,True,,FR0010929125,
 DEC,JCDECAUX SE,JCDecaux SE,Communication,/cours/1rPDEC/,/dec-jc-decaux-sa,True,,FR0000077919,
 ALLDL,GROUPE LDLC,Groupe LDLC société anonyme,Consommation discrétionnaire,/cours/1rPALLDL/,/alldl-groupe-ldlc,,,FR0000075442,
-ALMRB,MR BRICOLAGE,Mr.Bricolage S.A.,Consommation discrétionnaire,,/almrb-mr-bricolage,,,FR0004034320,
+ALMRB,MR BRICOLAGE,Mr.Bricolage S.A.,Consommation discrétionnaire,/cours/1rPALMRB/,/almrb-mr-bricolage,,,FR0004034320,
 NEOEN,NEOEN,Neoen S.A.,Services aux collectivités,/cours/1rPNEOEN/,/neoen-neoen-s-a,True,,FR0011675362,
 ORP,ORPEA,Orpea SA,Santé,/cours/1rPORP/,/orp-orpea,True,,FR0000184798,
-OVH,OVH,OVH Groupe S.A.,Technologies,,/ovh-ovh-group-sas,,,FR0014005HJ9,
+OVH,OVH,OVH Groupe S.A.,Technologies,/cours/1rPOVH/,/ovh-ovh-group-sas,,,FR0014005HJ9,
 ALPAR,GROUPE PAROT,Groupe Parot SA,Consommation discrétionnaire,/cours/1rPALPAR/,/alpar-gpe-parot-auto,,,FR0013204070,
 VAC,PIERRE VACANCES,Pierre et Vacances SA,Consommation discrétionnaire,/cours/1rPVAC/,/vac-pierre-vacances,True,,FR0000073041,
 PVL,PLAST.VAL LOIRE,Plastiques du Val de Loire,Consommation discrétionnaire,/cours/1rPPVL/,/pvl-plast-val-loire,True,True,FR0013252186,
