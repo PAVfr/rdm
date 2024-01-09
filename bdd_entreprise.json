@@ -155,18 +155,6 @@
         "ISIN": "FR0000053837",
         "DIVIDENDE": true
     },
-    "ALTA": {
-        "TICKER": "ALTA",
-        "NAME": "ALTAREA",
-        "DESIGNATION": "Altarea SCA",
-        "SECTEUR": "Immobilier",
-        "HREF_BOURSORAMA": "/cours/1rPALTA/",
-        "HREF_RENDEMENTBOURSE": "/alta-altarea",
-        "PEA": true,
-        "PEA-PME": null,
-        "ISIN": "FR0000033219",
-        "DIVIDENDE": true
-    },
     "ATE": {
         "TICKER": "ATE",
         "NAME": "ALTEN",
@@ -609,18 +597,6 @@
         "PEA": true,
         "PEA-PME": true,
         "ISIN": "FR0013257409",
-        "DIVIDENDE": true
-    },
-    "RE": {
-        "TICKER": "RE",
-        "NAME": "COLAS",
-        "DESIGNATION": "Colas SA",
-        "SECTEUR": "Industrie",
-        "HREF_BOURSORAMA": "/cours/1rPRE/",
-        "HREF_RENDEMENTBOURSE": "/re-colas",
-        "PEA": true,
-        "PEA-PME": null,
-        "ISIN": "FR0000121634",
         "DIVIDENDE": true
     },
     "COUR": {
@@ -3045,6 +3021,18 @@
         "PEA": true,
         "PEA-PME": null,
         "ISIN": "BE0974310428",
+        "DIVIDENDE": null
+    },
+    "ALDBT": {
+        "TICKER": "ALDBT",
+        "NAME": "DBT",
+        "DESIGNATION": "DBT SA",
+        "SECTEUR": "Industrie",
+        "HREF_BOURSORAMA": null,
+        "HREF_RENDEMENTBOURSE": "/aldbt-dbt",
+        "PEA": true,
+        "PEA-PME": true,
+        "ISIN": "FR0013066750",
         "DIVIDENDE": null
     }
 }

@@ -12,7 +12,6 @@ ALD,ALD,ALD S.A.,Industrie,/cours/1rPALD/,/ald-ald,True,,FR0013258662,True
 CDA,ALPES (COMPAGNIE),Compagnie des Alpes SA,Consommation discrétionnaire,/cours/1rPCDA/,/cda-alpes-compagnie,True,,FR0000053324,True
 ALO,ALSTOM,Alstom SA,Industrie,/cours/1rPALO/,/alo-alstom,True,,FR0010220475,True
 LTA,ALTAMIR,Altamir Ord,Finance,/cours/1rPLTA/,/lta-altamir,True,,FR0000053837,True
-ALTA,ALTAREA,Altarea SCA,Immobilier,/cours/1rPALTA/,/alta-altarea,True,,FR0000033219,True
 ATE,ALTEN,Alten S.A.,Technologies,/cours/1rPATE/,/ate-alten,True,,FR0000071946,True
 ALTUR,ALTUR INVESTISSEMENT,"Altur Investissement SCA, SCR",Finance,/cours/1rPALTUR/,/altur-altur-invest,True,True,FR0010395681,True
 AMUN,AMUNDI,Amundi S.A.,Finance,/cours/1rPAMUN/,/amun-amundi,True,,FR0004125920,True
@@ -50,7 +49,6 @@ CDI,CHRISTIAN DIOR,Christian Dior SE,Consommation discrétionnaire,/cours/1rPCDI
 ALCLA,CLASQUIN,Clasquin SA,Industrie,/cours/1rEPALCLA/,/alcla-clasquin,True,True,FR0004152882,True
 COFA,COFACE,COFACE SA,Finance,/cours/1rPCOFA/,/cofa-coface,True,,FR0010667147,True
 ALCOF,COFIDUR S.A.,Cofidur S.A.,Technologies,/cours/1rPALCOF/,/alcof-cofidur,True,True,FR0013257409,True
-RE,COLAS,Colas SA,Industrie,/cours/1rPRE/,/re-colas,True,,FR0000121634,True
 COUR,COURTOIS,Courtois S.A.,Immobilier,/cours/1rPCOUR/,/cour-courtois,True,True,FR0000065393,True
 CRAP,CRCAM ALP.PROV.CCI,Caisse Régionale de Crédit Agricole Mutuel Alpes Provence Société coopérative,Finance,/cours/1rPCRAP/,/crap-crcam-alp-prov-cci,True,,FR0000044323,True
 CRAV,CRCAM ATL.VEND.CCI,Caisse régionale de Crédit Agricole Mutuel Atlantique Vendée,Finance,/cours/1rPCRAV/,/crav-crcam-atl-vend-cci,True,,FR0000185506,True
@@ -253,3 +251,4 @@ ALVGO,VOGO,Vogo SA,Technologies,/cours/1rPALVGO/,/alvgo-vogo,,,FR0011532225,
 VLTSA,VOLTALIA,Voltalia SA,Services aux collectivités,/cours/1rPVLTSA/,/vltsa-voltalia,True,,FR0011995588,
 WLN,WORLDLINE,Worldline SA,Technologies,/cours/1rPWLN/,/wln-worldline-sa,True,,FR0011981968,
 XFAB,X-FAB SILICON FOUNDRIES SE,X-FAB Silicon Foundries SE,Technologies,/cours/1rPXFAB/,/xfab-x-fab,True,,BE0974310428,
+ALDBT,DBT,DBT SA,Industrie,,/aldbt-dbt,True,True,FR0013066750,
