@@ -1,0 +1,1014 @@
+{
+    "ALMIL": {
+        "HREF_BOURSORAMA": "/cours/1rEPALMIL/",
+        "HREF_RENDEMENTBOURSE": "/almil-1000mercis"
+        },
+    "ABCA": {
+        "HREF_BOURSORAMA": "/cours/1rPABCA/",
+        "HREF_RENDEMENTBOURSE": "/abca-abc-arbitrage-sa"
+        },
+    "ABEO": {
+        "HREF_BOURSORAMA": "/cours/1rPABEO/",
+        "HREF_RENDEMENTBOURSE": "/abeo-abeo"
+        },
+    "ACAN": {
+        "HREF_BOURSORAMA": "/cours/1rPACAN/",
+        "HREF_RENDEMENTBOURSE": "/acan-acanthe-dev"
+        },
+    "AC": {
+        "HREF_BOURSORAMA": "/cours/1rPAC/",
+        "HREF_RENDEMENTBOURSE": "/ac-accor"
+        },
+    "ADP": {
+        "HREF_BOURSORAMA": "/cours/1rPADP/",
+        "HREF_RENDEMENTBOURSE": "/adp-aeroport-de-paris-adp"
+        },
+    "AI": {
+        "HREF_BOURSORAMA": "/cours/1rPAI/",
+        "HREF_RENDEMENTBOURSE": "/ai-air-liquide"
+        },
+    "AIR": {
+        "HREF_BOURSORAMA": "/cours/1rPAIR/",
+        "HREF_RENDEMENTBOURSE": "/air-airbus-se"
+        },
+    "AKW": {
+        "HREF_BOURSORAMA": "/cours/1rPAKW/",
+        "HREF_RENDEMENTBOURSE": "/akw-akwel"
+        },
+    "ALD": {
+        "HREF_BOURSORAMA": "/cours/1rPALD/",
+        "HREF_RENDEMENTBOURSE": "/ald-ald"
+        },
+    "CDA": {
+        "HREF_BOURSORAMA": "/cours/1rPCDA/",
+        "HREF_RENDEMENTBOURSE": "/cda-alpes-compagnie"
+        },
+    "ALO": {
+        "HREF_BOURSORAMA": "/cours/1rPALO/",
+        "HREF_RENDEMENTBOURSE": "/alo-alstom"
+        },
+    "LTA": {
+        "HREF_BOURSORAMA": "/cours/1rPLTA/",
+        "HREF_RENDEMENTBOURSE": "/lta-altamir"
+        },
+    "ATE": {
+        "HREF_BOURSORAMA": "/cours/1rPATE/",
+        "HREF_RENDEMENTBOURSE": "/ate-alten"
+        },
+    "ALTUR": {
+        "HREF_BOURSORAMA": "/cours/1rPALTUR/",
+        "HREF_RENDEMENTBOURSE": "/altur-altur-invest"
+        },
+    "AMUN": {
+        "HREF_BOURSORAMA": "/cours/1rPAMUN/",
+        "HREF_RENDEMENTBOURSE": "/amun-amundi"
+        },
+    "ALAQU": {
+        "HREF_BOURSORAMA": "/cours/1rEPALAQU/",
+        "HREF_RENDEMENTBOURSE": "/alaqu-aquila"
+        },
+    "ARG": {
+        "HREF_BOURSORAMA": "/cours/1rPARG/",
+        "HREF_RENDEMENTBOURSE": "/arg-argan"
+        },
+    "AKE": {
+        "HREF_BOURSORAMA": "/cours/1rPAKE/",
+        "HREF_RENDEMENTBOURSE": "/ake-arkema"
+        },
+    "ARTE": {
+        "HREF_BOURSORAMA": "/cours/1rPARTE/",
+        "HREF_RENDEMENTBOURSE": "/arte-artea"
+        },
+    "ARTO": {
+        "HREF_BOURSORAMA": "/cours/1rPARTO/",
+        "HREF_RENDEMENTBOURSE": "/arto-artois-nom"
+        },
+    "ASY": {
+        "HREF_BOURSORAMA": "/cours/1rPASY/",
+        "HREF_RENDEMENTBOURSE": "/asy-assystem-sa"
+        },
+    "AUB": {
+        "HREF_BOURSORAMA": "/cours/1rPAUB/",
+        "HREF_RENDEMENTBOURSE": "/aub-aubay"
+        },
+    "CS": {
+        "HREF_BOURSORAMA": "/cours/1rPCS/",
+        "HREF_RENDEMENTBOURSE": "/cs-axa"
+        },
+    "AXW": {
+        "HREF_BOURSORAMA": "/cours/1rPAXW/",
+        "HREF_RENDEMENTBOURSE": "/axw-axway-software"
+        },
+    "BAIN": {
+        "HREF_BOURSORAMA": "/cours/1rPBAIN/",
+        "HREF_RENDEMENTBOURSE": "/bain-bains-mer-monaco"
+        },
+    "BASS": {
+        "HREF_BOURSORAMA": "/cours/1rPBASS/",
+        "HREF_RENDEMENTBOURSE": "/lnc-les-nouveaux-constructeurs-sa"
+        },
+    "BEN": {
+        "HREF_BOURSORAMA": "/cours/1rPBEN/",
+        "HREF_RENDEMENTBOURSE": "/ben-beneteau"
+        },
+    "BB": {
+        "HREF_BOURSORAMA": "/cours/1rPBB/",
+        "HREF_RENDEMENTBOURSE": "/bb-bic"
+        },
+    "BIM": {
+        "HREF_BOURSORAMA": "/cours/1rPBIM/",
+        "HREF_RENDEMENTBOURSE": "/bim-biomerieux"
+        },
+    "BNP": {
+        "HREF_BOURSORAMA": "/cours/1rPBNP/",
+        "HREF_RENDEMENTBOURSE": "/bnp-bnp-paribas"
+        },
+    "BOI": {
+        "HREF_BOURSORAMA": "/cours/1rPBOI/",
+        "HREF_RENDEMENTBOURSE": "/boi-boiron"
+        },
+    "BOL": {
+        "HREF_BOURSORAMA": "/cours/1rPBOL/",
+        "HREF_RENDEMENTBOURSE": "/bol-bollore"
+        },
+    "BON": {
+        "HREF_BOURSORAMA": "/cours/1rPBON/",
+        "HREF_RENDEMENTBOURSE": "/bon-bonduelle"
+        },
+    "BSD": {
+        "HREF_BOURSORAMA": "/cours/1rPBSD/",
+        "HREF_RENDEMENTBOURSE": "/bsd-bourse-direct"
+        },
+    "EN": {
+        "HREF_BOURSORAMA": "/cours/1rPEN/",
+        "HREF_RENDEMENTBOURSE": "/en-bouygues"
+        },
+    "BVI": {
+        "HREF_BOURSORAMA": "/cours/1rPBVI/",
+        "HREF_RENDEMENTBOURSE": "/bvi-bureau-veritas-sa"
+        },
+    "BUR": {
+        "HREF_BOURSORAMA": "/cours/1rPBUR/",
+        "HREF_RENDEMENTBOURSE": "/bur-burelle"
+        },
+    "CAT31": {
+        "HREF_BOURSORAMA": "/cours/1rPCAT31/",
+        "HREF_RENDEMENTBOURSE": "/cat31-ca-toulouse-31-cci"
+        },
+    "CBDG": {
+        "HREF_BOURSORAMA": "/cours/1rPCBDG/",
+        "HREF_RENDEMENTBOURSE": "/cbdg-cambodge-nom"
+        },
+    "CAP": {
+        "HREF_BOURSORAMA": "/cours/1rPCAP/",
+        "HREF_RENDEMENTBOURSE": "/cap-capgemini-se"
+        },
+    "CARM": {
+        "HREF_BOURSORAMA": "/cours/1rPCARM/",
+        "HREF_RENDEMENTBOURSE": "/carm-carmila"
+        },
+    "CA": {
+        "HREF_BOURSORAMA": "/cours/1rPCA/",
+        "HREF_RENDEMENTBOURSE": "/ca-carrefour"
+        },
+    "CATG": {
+        "HREF_BOURSORAMA": "/cours/1rPCATG/",
+        "HREF_RENDEMENTBOURSE": "/catg-catana-group"
+        },
+    "CBOT": {
+        "HREF_BOURSORAMA": "/cours/1rEPCBOT/",
+        "HREF_RENDEMENTBOURSE": "/cbot-cbo-territoria-sa"
+        },
+    "CRI": {
+        "HREF_BOURSORAMA": "/cours/1rPCRI/",
+        "HREF_RENDEMENTBOURSE": "/cri-chargeurs-sa"
+        },
+    "CDI": {
+        "HREF_BOURSORAMA": "/cours/1rPCDI/",
+        "HREF_RENDEMENTBOURSE": "/cdi-christian-dior"
+        },
+    "ALCLA": {
+        "HREF_BOURSORAMA": "/cours/1rEPALCLA/",
+        "HREF_RENDEMENTBOURSE": "/alcla-clasquin"
+        },
+    "COFA": {
+        "HREF_BOURSORAMA": "/cours/1rPCOFA/",
+        "HREF_RENDEMENTBOURSE": "/cofa-coface"
+        },
+    "ALCOF": {
+        "HREF_BOURSORAMA": "/cours/1rPALCOF/",
+        "HREF_RENDEMENTBOURSE": "/alcof-cofidur"
+        },
+    "COUR": {
+        "HREF_BOURSORAMA": "/cours/1rPCOUR/",
+        "HREF_RENDEMENTBOURSE": "/cour-courtois"
+        },
+    "CRAP": {
+        "HREF_BOURSORAMA": "/cours/1rPCRAP/",
+        "HREF_RENDEMENTBOURSE": "/crap-crcam-alp-prov-cci"
+        },
+    "CRAV": {
+        "HREF_BOURSORAMA": "/cours/1rPCRAV/",
+        "HREF_RENDEMENTBOURSE": "/crav-crcam-atl-vend-cci"
+        },
+    "CRBP2": {
+        "HREF_BOURSORAMA": "/cours/1rPCRBP2/",
+        "HREF_RENDEMENTBOURSE": "/crbp2-caisse-regionale-de-credit-agricole-mutuel-brie-picardie-cert-coop-d-invest"
+        },
+    "CIV": {
+        "HREF_BOURSORAMA": "/cours/1rPCIV/",
+        "HREF_RENDEMENTBOURSE": "/civ-crcam-ille-vil-cci"
+        },
+    "CRLA": {
+        "HREF_BOURSORAMA": "/cours/1rPCRLA/",
+        "HREF_RENDEMENTBOURSE": "/crla-crcam-langued-cci"
+        },
+    "CMO": {
+        "HREF_BOURSORAMA": "/cours/1rPCMO/",
+        "HREF_RENDEMENTBOURSE": "/cmo-crcam-morbihan-cci"
+        },
+    "CCN": {
+        "HREF_BOURSORAMA": "/cours/1rPCCN/",
+        "HREF_RENDEMENTBOURSE": "/ccn-crcam-norm-seine"
+        },
+    "ACA": {
+        "HREF_BOURSORAMA": "/cours/1rPACA/",
+        "HREF_RENDEMENTBOURSE": "/aca-credit-agricole"
+        },
+    "CROS": {
+        "HREF_BOURSORAMA": "/cours/1rPCROS/",
+        "HREF_RENDEMENTBOURSE": "/cros-crosswood"
+        },
+    "ALDLS": {
+        "HREF_BOURSORAMA": "/cours/1rEPALDLS/",
+        "HREF_RENDEMENTBOURSE": "/aldls-d-l-s-i"
+        },
+    "BN": {
+        "HREF_BOURSORAMA": "/cours/1rPBN/",
+        "HREF_RENDEMENTBOURSE": "/bn-danone"
+        },
+    "AM": {
+        "HREF_BOURSORAMA": null,
+        "HREF_RENDEMENTBOURSE": "/am-dassault-aviation-sa"
+        },
+    "DKUPL": {
+        "HREF_BOURSORAMA": "/cours/1rPDKUPL/",
+        "HREF_RENDEMENTBOURSE": "/alp-adl-partner"
+        },
+    "ALDEL": {
+        "HREF_BOURSORAMA": "/cours/1rPALDEL/",
+        "HREF_RENDEMENTBOURSE": "/aldel-delfingen"
+        },
+    "DBG": {
+        "HREF_BOURSORAMA": "/cours/1rPDBG/",
+        "HREF_RENDEMENTBOURSE": "/dbg-derichebourg-sa"
+        },
+    "DPAM": {
+        "HREF_BOURSORAMA": "/cours/1rPDPAM/",
+        "HREF_RENDEMENTBOURSE": "/dpam-dock-petr-ambes-am"
+        },
+    "EDEN": {
+        "HREF_BOURSORAMA": "/cours/1rPEDEN/",
+        "HREF_RENDEMENTBOURSE": "/eden-edenred"
+        },
+    "FGR": {
+        "HREF_BOURSORAMA": "/cours/1rPFGR/",
+        "HREF_RENDEMENTBOURSE": "/fgr-eiffage"
+        },
+    "ELEC": {
+        "HREF_BOURSORAMA": "/cours/1rPELEC/",
+        "HREF_RENDEMENTBOURSE": "/elec-elec-strasbourg"
+        },
+    "ELIS": {
+        "HREF_BOURSORAMA": "/cours/1rPELIS/",
+        "HREF_RENDEMENTBOURSE": "/elis-elis"
+        },
+    "ENGI": {
+        "HREF_BOURSORAMA": "/cours/1rPENGI/",
+        "HREF_RENDEMENTBOURSE": "/engi-engie"
+        },
+    "ERA": {
+        "HREF_BOURSORAMA": "/cours/1rPERA/",
+        "HREF_RENDEMENTBOURSE": "/era-eramet"
+        },
+    "ALESK": {
+        "HREF_BOURSORAMA": "/cours/1rPALESK/",
+        "HREF_RENDEMENTBOURSE": "/alesk-esker"
+        },
+    "EL": {
+        "HREF_BOURSORAMA": "/cours/1rPEL/",
+        "HREF_RENDEMENTBOURSE": "/el-essilorluxottica-sa"
+        },
+    "ES": {
+        "HREF_BOURSORAMA": "/cours/1rPES/",
+        "HREF_RENDEMENTBOURSE": "/es-esso"
+        },
+    "RF": {
+        "HREF_BOURSORAMA": "/cours/1rPRF/",
+        "HREF_RENDEMENTBOURSE": "/rf-eurazeo"
+        },
+    "EUR": {
+        "HREF_BOURSORAMA": "/cours/1rPEUR/",
+        "HREF_RENDEMENTBOURSE": "/eur-euro-ressources"
+        },
+    "ERF": {
+        "HREF_BOURSORAMA": "/cours/1rPERF/",
+        "HREF_RENDEMENTBOURSE": "/erf-eurofins-scient"
+        },
+    "ENX": {
+        "HREF_BOURSORAMA": "/cours/1rPENX/",
+        "HREF_RENDEMENTBOURSE": "/enx-euronext"
+        },
+    "ETL": {
+        "HREF_BOURSORAMA": "/cours/1rPETL/",
+        "HREF_RENDEMENTBOURSE": "/etl-eutelsat-communication"
+        },
+    "EXE": {
+        "HREF_BOURSORAMA": "/cours/1rPEXE/",
+        "HREF_RENDEMENTBOURSE": "/exe-exel-industries"
+        },
+    "FDJ": {
+        "HREF_BOURSORAMA": "/cours/1rPFDJ/",
+        "HREF_RENDEMENTBOURSE": "/fdj-francaise-des-jeux-fdj"
+        },
+    "FCMC": {
+        "HREF_BOURSORAMA": "/cours/1rPFCMC/",
+        "HREF_RENDEMENTBOURSE": "/fcmc-ferm-cas-mun-canne"
+        },
+    "SACI": {
+        "HREF_BOURSORAMA": "/cours/1rPSACI/",
+        "HREF_RENDEMENTBOURSE": "/saci-fiducial-off-sol"
+        },
+    "ORIA": {
+        "HREF_BOURSORAMA": "/cours/1rPORIA/",
+        "HREF_RENDEMENTBOURSE": "/oria-fiducial-real-est"
+        },
+    "BERR": {
+        "HREF_BOURSORAMA": "/cours/1rPBERR/",
+        "HREF_RENDEMENTBOURSE": "/berr-fin-etang-berre"
+        },
+    "FNAC": {
+        "HREF_BOURSORAMA": "/cours/1rPFNAC/",
+        "HREF_RENDEMENTBOURSE": "/fnac-fnac-darty"
+        },
+    "ALFPC": {
+        "HREF_BOURSORAMA": "/cours/1rPALFPC/",
+        "HREF_RENDEMENTBOURSE": "/alfpc-fountaine-pajot"
+        },
+    "FREY": {
+        "HREF_BOURSORAMA": "/cours/1rPFREY/",
+        "HREF_RENDEMENTBOURSE": "/frey-frey"
+        },
+    "GALIM": {
+        "HREF_BOURSORAMA": "/cours/1rPGALIM/",
+        "HREF_RENDEMENTBOURSE": "/galim-galimmo"
+        },
+    "GTT": {
+        "HREF_BOURSORAMA": "/cours/1rPGTT/",
+        "HREF_RENDEMENTBOURSE": "/gtt-gaztransport-technigaz"
+        },
+    "GEA": {
+        "HREF_BOURSORAMA": "/cours/1rPGEA/",
+        "HREF_RENDEMENTBOURSE": "/gea-gea-grenobl-elect"
+        },
+    "GET": {
+        "HREF_BOURSORAMA": "/cours/1rPGET/",
+        "HREF_RENDEMENTBOURSE": "/get-getlink-se"
+        },
+    "ALGEV": {
+        "HREF_BOURSORAMA": "/cours/1rPALGEV/",
+        "HREF_RENDEMENTBOURSE": "/algev-gevelot"
+        },
+    "GLO": {
+        "HREF_BOURSORAMA": "/cours/1rPGLO/",
+        "HREF_RENDEMENTBOURSE": "/glo-gl-events-sa"
+        },
+    "ALGLD": {
+        "HREF_BOURSORAMA": "/cours/1rPALGLD/",
+        "HREF_RENDEMENTBOURSE": "/algld-gold-by-gold"
+        },
+    "GPE": {
+        "HREF_BOURSORAMA": "/cours/1rPGPE/",
+        "HREF_RENDEMENTBOURSE": "/gpe-gpe-group-pizzorno"
+        },
+    "CEN": {
+        "HREF_BOURSORAMA": "/cours/1rPCEN/",
+        "HREF_RENDEMENTBOURSE": "/cen-groupe-crit"
+        },
+    "ALGIL": {
+        "HREF_BOURSORAMA": "/cours/1rPALGIL/",
+        "HREF_RENDEMENTBOURSE": "/algil-groupe-guillin"
+        },
+    "PARP": {
+        "HREF_BOURSORAMA": "/cours/1rPPAR/",
+        "HREF_RENDEMENTBOURSE": "/parp-groupe-partouche"
+        },
+    "SFPI": {
+        "HREF_BOURSORAMA": "/cours/1rPSFPI/",
+        "HREF_RENDEMENTBOURSE": "/sfpi-groupe-sfpi"
+        },
+    "GBT": {
+        "HREF_BOURSORAMA": "/cours/1rPGBT/",
+        "HREF_RENDEMENTBOURSE": "/gbt-guerbet"
+        },
+    "GUI": {
+        "HREF_BOURSORAMA": "/cours/1rPGUI/",
+        "HREF_RENDEMENTBOURSE": "/gui-guillemot"
+        },
+    "RMS": {
+        "HREF_BOURSORAMA": "/cours/1rPRMS/",
+        "HREF_RENDEMENTBOURSE": "/rms-hermes-international"
+        },
+    "HCO": {
+        "HREF_BOURSORAMA": "/cours/1rPHCO/",
+        "HREF_RENDEMENTBOURSE": "/hco-highco-sa"
+        },
+    "ALHIT": {
+        "HREF_BOURSORAMA": "/cours/1rPALHIT/",
+        "HREF_RENDEMENTBOURSE": "/alhit-hitechpros"
+        },
+    "ALI2S": {
+        "HREF_BOURSORAMA": "/cours/1rEPALI2S/",
+        "HREF_RENDEMENTBOURSE": "/ali2s-i2s"
+        },
+    "IDIP": {
+        "HREF_BOURSORAMA": "/cours/1rPIDIP/",
+        "HREF_RENDEMENTBOURSE": "/idip-idi"
+        },
+    "NK": {
+        "HREF_BOURSORAMA": "/cours/1rPNK/",
+        "HREF_RENDEMENTBOURSE": "/nk-imerys-sa"
+        },
+    "IMDA": {
+        "HREF_BOURSORAMA": "/cours/1rPIMDA/",
+        "HREF_RENDEMENTBOURSE": "/imda-immob-dassault"
+        },
+    "INFE": {
+        "HREF_BOURSORAMA": "/cours/1rPINFE/",
+        "HREF_RENDEMENTBOURSE": "/infe-indle-fin-entrepr"
+        },
+    "INF": {
+        "HREF_BOURSORAMA": "/cours/1rPINF/",
+        "HREF_RENDEMENTBOURSE": "/inf-infotel"
+        },
+    "ITP": {
+        "HREF_BOURSORAMA": "/cours/1rPITP/",
+        "HREF_RENDEMENTBOURSE": "/itp-interparfums"
+        },
+    "IPN": {
+        "HREF_BOURSORAMA": "/cours/1rPIPN/",
+        "HREF_RENDEMENTBOURSE": "/ipn-ipsen"
+        },
+    "IPS": {
+        "HREF_BOURSORAMA": "/cours/1rPIPS/",
+        "HREF_RENDEMENTBOURSE": "/ips-ipsos-sa"
+        },
+    "JBOG": {
+        "HREF_BOURSORAMA": "/cours/1rPJBOG/",
+        "HREF_RENDEMENTBOURSE": "/jbog-jacques-bogart"
+        },
+    "JCQ": {
+        "HREF_BOURSORAMA": "/cours/1rPJCQ/",
+        "HREF_RENDEMENTBOURSE": "/jcq-jacquet-metal-sce"
+        },
+    "KOF": {
+        "HREF_BOURSORAMA": "/cours/1rPKOF/",
+        "HREF_RENDEMENTBOURSE": "/kof-kaufman-et-broad"
+        },
+    "KER": {
+        "HREF_BOURSORAMA": "/cours/1rPKER/",
+        "HREF_RENDEMENTBOURSE": "/ker-kering"
+        },
+    "LOUP": {
+        "HREF_BOURSORAMA": "/cours/1rPLOUP/",
+        "HREF_RENDEMENTBOURSE": "/loup-ldc"
+        },
+    "OR": {
+        "HREF_BOURSORAMA": "/cours/1rPOR/",
+        "HREF_RENDEMENTBOURSE": "/or-l-oreal"
+        },
+    "LACR": {
+        "HREF_BOURSORAMA": "/cours/1rPLACR/",
+        "HREF_RENDEMENTBOURSE": "/lacr-lacroix-sa"
+        },
+    "MMB": {
+        "HREF_BOURSORAMA": "/cours/1rPMMB/",
+        "HREF_RENDEMENTBOURSE": "/mmb-lagardere"
+        },
+    "LPE": {
+        "HREF_BOURSORAMA": "/cours/1rPLPE/",
+        "HREF_RENDEMENTBOURSE": "/lpe-laurent-perrier"
+        },
+    "LSS": {
+        "HREF_BOURSORAMA": "/cours/1rPLSS/",
+        "HREF_RENDEMENTBOURSE": "/lss-lectra"
+        },
+    "LR": {
+        "HREF_BOURSORAMA": "/cours/1rPLR/",
+        "HREF_RENDEMENTBOURSE": "/lr-legrand-sa"
+        },
+    "ALLHB": {
+        "HREF_BOURSORAMA": "/cours/1rPALLHB/",
+        "HREF_RENDEMENTBOURSE": "/allhb-les-hotels-baverez"
+        },
+    "LIN": {
+        "HREF_BOURSORAMA": "/cours/1rPLIN/",
+        "HREF_RENDEMENTBOURSE": "/lin-linedata-services"
+        },
+    "FII": {
+        "HREF_BOURSORAMA": "/cours/1rPFII/",
+        "HREF_RENDEMENTBOURSE": "/fii-lisi"
+        },
+    "LNA": {
+        "HREF_BOURSORAMA": "/cours/1rPLNA/",
+        "HREF_RENDEMENTBOURSE": "/lna-lna-sante"
+        },
+    "MC": {
+        "HREF_BOURSORAMA": "/cours/1rPMC/",
+        "HREF_RENDEMENTBOURSE": "/mc-lvmh"
+        },
+    "MRM": {
+        "HREF_BOURSORAMA": null,
+        "HREF_RENDEMENTBOURSE": "/mrm-m-r-m"
+        },
+    "MDM": {
+        "HREF_BOURSORAMA": "/cours/1rPMDM/",
+        "HREF_RENDEMENTBOURSE": "/mdm-maison-du-monde"
+        },
+    "MTU": {
+        "HREF_BOURSORAMA": null,
+        "HREF_RENDEMENTBOURSE": "/mtu-manitou-bf"
+        },
+    "MAU": {
+        "HREF_BOURSORAMA": "/cours/1rPMAU/",
+        "HREF_RENDEMENTBOURSE": "/mau-maurel-et-prom"
+        },
+    "MRN": {
+        "HREF_BOURSORAMA": "/cours/1rPMRN/",
+        "HREF_RENDEMENTBOURSE": "/mrn-mersen"
+        },
+    "ALMET": {
+        "HREF_BOURSORAMA": "/cours/1rEPALMET/",
+        "HREF_RENDEMENTBOURSE": "/almet-methanor"
+        },
+    "MMT": {
+        "HREF_BOURSORAMA": "/cours/1rPMMT/",
+        "HREF_RENDEMENTBOURSE": "/mmt-metropole-tv"
+        },
+    "ALMGI": {
+        "HREF_BOURSORAMA": "/cours/1rPALMGI/",
+        "HREF_RENDEMENTBOURSE": "/almgi-mg-international"
+        },
+    "ML": {
+        "HREF_BOURSORAMA": null,
+        "HREF_RENDEMENTBOURSE": "/ml-michelin"
+        },
+    "ALMOU": {
+        "HREF_BOURSORAMA": "/cours/1rPALMOU/",
+        "HREF_RENDEMENTBOURSE": "/almou-moulinvest"
+        },
+    "NRO": {
+        "HREF_BOURSORAMA": "/cours/1rPNRO/",
+        "HREF_RENDEMENTBOURSE": "/nro-neurones"
+        },
+    "NEX": {
+        "HREF_BOURSORAMA": "/cours/1rPNEX/",
+        "HREF_RENDEMENTBOURSE": "/nex-nexans"
+        },
+    "NXI": {
+        "HREF_BOURSORAMA": "/cours/1rPNXI/",
+        "HREF_RENDEMENTBOURSE": "/nxi-nexity"
+        },
+    "NOKIA": {
+        "HREF_BOURSORAMA": "/cours/1rPNOKIA/",
+        "HREF_RENDEMENTBOURSE": "/nokia-nokia"
+        },
+    "NRG": {
+        "HREF_BOURSORAMA": "/cours/1rPNRG/",
+        "HREF_RENDEMENTBOURSE": "/nrg-nrj-group"
+        },
+    "ALNSE": {
+        "HREF_BOURSORAMA": "/cours/1rPALNSE/",
+        "HREF_RENDEMENTBOURSE": "/alnse-nse"
+        },
+    "ALOBR": {
+        "HREF_BOURSORAMA": "/cours/1rEPALOBR/",
+        "HREF_RENDEMENTBOURSE": "/alobr-ober"
+        },
+    "SBT": {
+        "HREF_BOURSORAMA": "/cours/1rPSBT/",
+        "HREF_RENDEMENTBOURSE": "/sbt-oeneo"
+        },
+    "ORA": {
+        "HREF_BOURSORAMA": "/cours/1rPORA/",
+        "HREF_RENDEMENTBOURSE": "/ora-orange"
+        },
+    "PAR": {
+        "HREF_BOURSORAMA": "/cours/1rPPAR/",
+        "HREF_RENDEMENTBOURSE": "/par-paref"
+        },
+    "RI": {
+        "HREF_BOURSORAMA": "/cours/1rPRI/",
+        "HREF_RENDEMENTBOURSE": "/ri-pernod-ricard-sa"
+        },
+    "PERR": {
+        "HREF_BOURSORAMA": "/cours/1rPPERR/",
+        "HREF_RENDEMENTBOURSE": "/perr-perrier-gerard"
+        },
+    "ALPDX": {
+        "HREF_BOURSORAMA": "/cours/1rPALPDX/",
+        "HREF_RENDEMENTBOURSE": "/alpdx-piscines-desjoyaux"
+        },
+    "POM": {
+        "HREF_BOURSORAMA": "/cours/1rPPOM/",
+        "HREF_RENDEMENTBOURSE": "/pom-plastic-omnium"
+        },
+    "ALPJT": {
+        "HREF_BOURSORAMA": "/cours/1rPALPJT/",
+        "HREF_RENDEMENTBOURSE": "/alpjt-poujoulat"
+        },
+    "PUB": {
+        "HREF_BOURSORAMA": "/cours/1rPPUB/",
+        "HREF_RENDEMENTBOURSE": "/pub-publicis-groupe-sa"
+        },
+    "QDT": {
+        "HREF_BOURSORAMA": "/cours/1rPQDT/",
+        "HREF_RENDEMENTBOURSE": "/qdt-quadient"
+        },
+    "ALREA": {
+        "HREF_BOURSORAMA": "/cours/1rPALREA/",
+        "HREF_RENDEMENTBOURSE": "/alrea-realites"
+        },
+    "RCO": {
+        "HREF_BOURSORAMA": "/cours/1rPRCO/",
+        "HREF_RENDEMENTBOURSE": "/rco-remy-cointreau"
+        },
+    "RNO": {
+        "HREF_BOURSORAMA": "/cours/1rPRNO/",
+        "HREF_RENDEMENTBOURSE": "/rno-renault"
+        },
+    "RXL": {
+        "HREF_BOURSORAMA": "/cours/1rPRXL/",
+        "HREF_RENDEMENTBOURSE": "/rxl-rexel"
+        },
+    "RBT": {
+        "HREF_BOURSORAMA": "/cours/1rPRBT/",
+        "HREF_RENDEMENTBOURSE": "/rbt-robertet"
+        },
+    "RBO": {
+        "HREF_BOURSORAMA": "/cours/1rPRBO/",
+        "HREF_RENDEMENTBOURSE": "/rbo-roche-bobois"
+        },
+    "RUI": {
+        "HREF_BOURSORAMA": "/cours/1rPRUI/",
+        "HREF_RENDEMENTBOURSE": "/rui-rubis"
+        },
+    "SK": {
+        "HREF_BOURSORAMA": "/cours/1rPSK/",
+        "HREF_RENDEMENTBOURSE": "/sk-seb"
+        },
+    "SAF": {
+        "HREF_BOURSORAMA": "/cours/1rPSAF/",
+        "HREF_RENDEMENTBOURSE": "/saf-safran-s-a"
+        },
+    "SGO": {
+        "HREF_BOURSORAMA": "/cours/1rPSGO/",
+        "HREF_RENDEMENTBOURSE": "/sgo-saint-gobain"
+        },
+    "SAMS": {
+        "HREF_BOURSORAMA": "/cours/1rPSAMS/",
+        "HREF_RENDEMENTBOURSE": "/sams-samse"
+        },
+    "SAN": {
+        "HREF_BOURSORAMA": "/cours/1rPSAN/",
+        "HREF_RENDEMENTBOURSE": "/san-sanofi"
+        },
+    "DIM": {
+        "HREF_BOURSORAMA": "/cours/1rPDIM/",
+        "HREF_RENDEMENTBOURSE": "/dim-sartorius-sted-bio"
+        },
+    "SAVE": {
+        "HREF_BOURSORAMA": "/cours/1rPSAVE/",
+        "HREF_RENDEMENTBOURSE": "/save-savencia"
+        },
+    "CBSM": {
+        "HREF_BOURSORAMA": "/cours/1rPCBSM/",
+        "HREF_RENDEMENTBOURSE": "/cbsm-scbsm"
+        },
+    "SU": {
+        "HREF_BOURSORAMA": "/cours/1rPSU/",
+        "HREF_RENDEMENTBOURSE": "/su-schneider-electric-se"
+        },
+    "SCR": {
+        "HREF_BOURSORAMA": "/cours/1rPSCR/",
+        "HREF_RENDEMENTBOURSE": "/scr-scor"
+        },
+    "SCHP": {
+        "HREF_BOURSORAMA": "/cours/1rPSCHP/",
+        "HREF_RENDEMENTBOURSE": "/schp-seche-environnem"
+        },
+    "SELER": {
+        "HREF_BOURSORAMA": "/cours/1rPSELER/",
+        "HREF_RENDEMENTBOURSE": "/seler-selectirente"
+        },
+    "SEFER": {
+        "HREF_BOURSORAMA": "/cours/1rPSEFER/",
+        "HREF_RENDEMENTBOURSE": "/sefer-sergeferrari-group"
+        },
+    "SESG": {
+        "HREF_BOURSORAMA": "/cours/1rPSESG/",
+        "HREF_RENDEMENTBOURSE": "/sesg-ses-sa-fdr-class-a"
+        },
+    "SII": {
+        "HREF_BOURSORAMA": "/cours/1rPSII/",
+        "HREF_RENDEMENTBOURSE": "/sii-sii"
+        },
+    "GLE": {
+        "HREF_BOURSORAMA": "/cours/1rPGLE/",
+        "HREF_RENDEMENTBOURSE": "/gle-societe-generale"
+        },
+    "SW": {
+        "HREF_BOURSORAMA": "/cours/1rPSW/",
+        "HREF_RENDEMENTBOURSE": "/sw-sodexo"
+        },
+    "SOP": {
+        "HREF_BOURSORAMA": "/cours/1rPSOP/",
+        "HREF_RENDEMENTBOURSE": "/sop-sopra-steria-group"
+        },
+    "SPIE": {
+        "HREF_BOURSORAMA": "/cours/1rPSPIE/",
+        "HREF_RENDEMENTBOURSE": "/spie-spie"
+        },
+    "STF": {
+        "HREF_BOURSORAMA": "/cours/1rPSTF/",
+        "HREF_RENDEMENTBOURSE": "/stf-stef"
+        },
+    "STLAP": {
+        "HREF_BOURSORAMA": "/cours/1rPSTLAP/",
+        "HREF_RENDEMENTBOURSE": "/stla-stellantis"
+        },
+    "STMPA": {
+        "HREF_BOURSORAMA": "/cours/1rPSTMPA/",
+        "HREF_RENDEMENTBOURSE": "/stm-stmicroelectronics"
+        },
+    "ALSAS": {
+        "HREF_BOURSORAMA": "/cours/1rEPALSAS/",
+        "HREF_RENDEMENTBOURSE": "/alsas-stradim-espac-fin"
+        },
+    "SWP": {
+        "HREF_BOURSORAMA": "/cours/1rPSWP/",
+        "HREF_RENDEMENTBOURSE": "/swp-sword-group"
+        },
+    "SDG": {
+        "HREF_BOURSORAMA": "/cours/1rPSDG/",
+        "HREF_RENDEMENTBOURSE": "/sdg-synergie"
+        },
+    "TEP": {
+        "HREF_BOURSORAMA": "/cours/1rPTEP/",
+        "HREF_RENDEMENTBOURSE": "/tep-teleperformance-se"
+        },
+    "TFI": {
+        "HREF_BOURSORAMA": "/cours/1rPTFI/",
+        "HREF_RENDEMENTBOURSE": "/tfi-tf1"
+        },
+    "TFF": {
+        "HREF_BOURSORAMA": "/cours/1rPTFF/",
+        "HREF_RENDEMENTBOURSE": "/tff-tff-group"
+        },
+    "HO": {
+        "HREF_BOURSORAMA": "/cours/1rPHO/",
+        "HREF_RENDEMENTBOURSE": "/ho-thales-sa"
+        },
+    "THEP": {
+        "HREF_BOURSORAMA": "/cours/1rPTHEP/",
+        "HREF_RENDEMENTBOURSE": "/thep-thermador-holding-sa"
+        },
+    "TKO": {
+        "HREF_BOURSORAMA": "/cours/1rPTKO/",
+        "HREF_RENDEMENTBOURSE": "/tko-tikehau-capital"
+        },
+    "TIPI": {
+        "HREF_BOURSORAMA": "/cours/1rPTIPI/",
+        "HREF_RENDEMENTBOURSE": "/tipi-tipiak"
+        },
+    "TTE": {
+        "HREF_BOURSORAMA": "/cours/1rPTTE/",
+        "HREF_RENDEMENTBOURSE": "/fp-total"
+        },
+    "TOUP": {
+        "HREF_BOURSORAMA": "/cours/1rPTOUP/",
+        "HREF_RENDEMENTBOURSE": "/toup-touax"
+        },
+    "EIFF": {
+        "HREF_BOURSORAMA": "/cours/1rPEIFF/",
+        "HREF_RENDEMENTBOURSE": "/eiff-tour-eiffel"
+        },
+    "ALTTI": {
+        "HREF_BOURSORAMA": "/cours/1rPMLTTI-OTC/",
+        "HREF_RENDEMENTBOURSE": "/altti-tti"
+        },
+    "TRI": {
+        "HREF_BOURSORAMA": "/cours/1rPTRI/",
+        "HREF_RENDEMENTBOURSE": "/tri-trigano"
+        },
+    "ALTXC": {
+        "HREF_BOURSORAMA": "/cours/1rPALTXC-OTC/",
+        "HREF_RENDEMENTBOURSE": "/altxc-txcom"
+        },
+    "UNBL": {
+        "HREF_BOURSORAMA": "/cours/1rPUNBL/",
+        "HREF_RENDEMENTBOURSE": "/unbl-unibel"
+        },
+    "FR": {
+        "HREF_BOURSORAMA": "/cours/1rPFR/",
+        "HREF_RENDEMENTBOURSE": "/fr-valeo"
+        },
+    "VIE": {
+        "HREF_BOURSORAMA": "/cours/1rPVIE/",
+        "HREF_RENDEMENTBOURSE": "/vie-veolia-environnement"
+        },
+    "VRLA": {
+        "HREF_BOURSORAMA": "/cours/1rPVRLA/",
+        "HREF_RENDEMENTBOURSE": "/vrla-verallia"
+        },
+    "VETO": {
+        "HREF_BOURSORAMA": "/cours/1rPVETO/",
+        "HREF_RENDEMENTBOURSE": "/veto-vetoquinol"
+        },
+    "VCT": {
+        "HREF_BOURSORAMA": "/cours/1rPVCT/",
+        "HREF_RENDEMENTBOURSE": "/vct-vicat"
+        },
+    "VIL": {
+        "HREF_BOURSORAMA": "/cours/1rPVIL/",
+        "HREF_RENDEMENTBOURSE": "/vil-viel-et-compagnie"
+        },
+    "DG": {
+        "HREF_BOURSORAMA": "/cours/1rPDG/",
+        "HREF_RENDEMENTBOURSE": "/dg-vinci"
+        },
+    "ALVIV": {
+        "HREF_BOURSORAMA": "/cours/1rPALVIV/",
+        "HREF_RENDEMENTBOURSE": "/alviv-visiativ"
+        },
+    "VIV": {
+        "HREF_BOURSORAMA": "/cours/1rPVIV/",
+        "HREF_RENDEMENTBOURSE": "/viv-vivendi"
+        },
+    "ALVDM": {
+        "HREF_BOURSORAMA": "/cours/1rEPALVDM/",
+        "HREF_RENDEMENTBOURSE": "/alvdm-voyageurs-du-monde"
+        },
+    "VRAP": {
+        "HREF_BOURSORAMA": "/cours/1rPVRAP/",
+        "HREF_RENDEMENTBOURSE": "/vrap-vranken-pommery"
+        },
+    "WAVE": {
+        "HREF_BOURSORAMA": "/cours/1rPWAVE/",
+        "HREF_RENDEMENTBOURSE": "/wave-wavestone"
+        },
+    "ALWEC": {
+        "HREF_BOURSORAMA": "/cours/1rPALWEC/",
+        "HREF_RENDEMENTBOURSE": "/alwec-we-connect"
+        },
+    "ALWED": {
+        "HREF_BOURSORAMA": "/cours/1rEPALWED/",
+        "HREF_RENDEMENTBOURSE": "/alwed-wedia"
+        },
+    "MF": {
+        "HREF_BOURSORAMA": "/cours/1rPMF/",
+        "HREF_RENDEMENTBOURSE": "/mf-wendel"
+        },
+    "ADOC": {
+        "HREF_BOURSORAMA": "/cours/1rPADOC/",
+        "HREF_RENDEMENTBOURSE": "/adoc-adocia"
+        },
+    "AF": {
+        "HREF_BOURSORAMA": null,
+        "HREF_RENDEMENTBOURSE": "/af-air-france-klm-sa"
+        },
+    "ATO": {
+        "HREF_BOURSORAMA": "/cours/1rPATO/",
+        "HREF_RENDEMENTBOURSE": "/ato-atos"
+        },
+    "CGG": {
+        "HREF_BOURSORAMA": "/cours/1rPCGG/",
+        "HREF_RENDEMENTBOURSE": "/cgg-cgg"
+        },
+    "CLARI": {
+        "HREF_BOURSORAMA": "/cours/1rPCLARI/",
+        "HREF_RENDEMENTBOURSE": "/clari-clariane-se"
+        },
+    "DSY": {
+        "HREF_BOURSORAMA": null,
+        "HREF_RENDEMENTBOURSE": "/dsy-dassault-systemes-sa"
+        },
+    "ELIOR": {
+        "HREF_BOURSORAMA": "/cours/1rPELIOR/",
+        "HREF_RENDEMENTBOURSE": "/elior-elior-group"
+        },
+    "EAPI": {
+        "HREF_BOURSORAMA": "/cours/1rPEAPI/",
+        "HREF_RENDEMENTBOURSE": "/eapi-euroapi-sa"
+        },
+    "FRVIA": {
+        "HREF_BOURSORAMA": "/cours/1rPFRVIA/",
+        "HREF_RENDEMENTBOURSE": "/frvia-forvia"
+        },
+    "IDL": {
+        "HREF_BOURSORAMA": "/cours/1rPIDL/",
+        "HREF_RENDEMENTBOURSE": "/idl-id-logistics-group"
+        },
+    "DEC": {
+        "HREF_BOURSORAMA": "/cours/1rPDEC/",
+        "HREF_RENDEMENTBOURSE": "/dec-jc-decaux-sa"
+        },
+    "ALLDL": {
+        "HREF_BOURSORAMA": "/cours/1rPALLDL/",
+        "HREF_RENDEMENTBOURSE": "/alldl-groupe-ldlc"
+        },
+    "ALMRB": {
+        "HREF_BOURSORAMA": "/cours/1rPALMRB/",
+        "HREF_RENDEMENTBOURSE": "/almrb-mr-bricolage"
+        },
+    "NEOEN": {
+        "HREF_BOURSORAMA": "/cours/1rPNEOEN/",
+        "HREF_RENDEMENTBOURSE": "/neoen-neoen-s-a"
+        },
+    "ORP": {
+        "HREF_BOURSORAMA": "/cours/1rPORP/",
+        "HREF_RENDEMENTBOURSE": "/orp-orpea"
+        },
+    "OVH": {
+        "HREF_BOURSORAMA": "/cours/1rPOVH/",
+        "HREF_RENDEMENTBOURSE": "/ovh-ovh-group-sas"
+        },
+    "ALPAR": {
+        "HREF_BOURSORAMA": "/cours/1rPALPAR/",
+        "HREF_RENDEMENTBOURSE": "/alpar-gpe-parot-auto"
+        },
+    "VAC": {
+        "HREF_BOURSORAMA": "/cours/1rPVAC/",
+        "HREF_RENDEMENTBOURSE": "/vac-pierre-vacances"
+        },
+    "PVL": {
+        "HREF_BOURSORAMA": "/cours/1rPPVL/",
+        "HREF_RENDEMENTBOURSE": "/pvl-plast-val-loire"
+        },
+    "SESL": {
+        "HREF_BOURSORAMA": "/cours/1rPSESL/",
+        "HREF_RENDEMENTBOURSE": "/sesl-ses-imagotag"
+        },
+    "SRP": {
+        "HREF_BOURSORAMA": "/cours/1rPSRP/",
+        "HREF_RENDEMENTBOURSE": "/srp-showroomprive"
+        },
+    "SOI": {
+        "HREF_BOURSORAMA": "/cours/1rPSOI/",
+        "HREF_RENDEMENTBOURSE": "/soi-soitec"
+        },
+    "S30": {
+        "HREF_BOURSORAMA": "/cours/1rPS30/",
+        "HREF_RENDEMENTBOURSE": "/s30-solutions-30-se"
+        },
+    "SOLB": {
+        "HREF_BOURSORAMA": "/cours/1rPSOLB/",
+        "HREF_RENDEMENTBOURSE": "/solb-solvay-sa"
+        },
+    "UBI": {
+        "HREF_BOURSORAMA": "/cours/1rPUBI/",
+        "HREF_RENDEMENTBOURSE": "/ubi-ubisoft-entertain"
+        },
+    "VK": {
+        "HREF_BOURSORAMA": "/cours/1rPVK/",
+        "HREF_RENDEMENTBOURSE": "/vk-vallourec-sa"
+        },
+    "VLA": {
+        "HREF_BOURSORAMA": "/cours/1rPVLA/",
+        "HREF_RENDEMENTBOURSE": "/vla-valneva"
+        },
+    "VIRP": {
+        "HREF_BOURSORAMA": "/cours/1rPVIRP/",
+        "HREF_RENDEMENTBOURSE": "/virp-virbac"
+        },
+    "ALVGO": {
+        "HREF_BOURSORAMA": "/cours/1rPALVGO/",
+        "HREF_RENDEMENTBOURSE": "/alvgo-vogo"
+        },
+    "VLTSA": {
+        "HREF_BOURSORAMA": "/cours/1rPVLTSA/",
+        "HREF_RENDEMENTBOURSE": "/vltsa-voltalia"
+        },
+    "WLN": {
+        "HREF_BOURSORAMA": "/cours/1rPWLN/",
+        "HREF_RENDEMENTBOURSE": "/wln-worldline-sa"
+        },
+    "XFAB": {
+        "HREF_BOURSORAMA": "/cours/1rPXFAB/",
+        "HREF_RENDEMENTBOURSE": "/xfab-x-fab"
+        },
+    "ALDBT": {
+        "HREF_BOURSORAMA": "/cours/1rPALDBT/",
+        "HREF_RENDEMENTBOURSE": "/aldbt-dbt"
+        }
+}

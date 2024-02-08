@@ -6316,6 +6316,13 @@
             "DATE": "2024-01-03",
             "AMOUNT": "0,250",
             "TYPE": "-"
+        },
+        {
+            "TICKER": "BON",
+            "YEAR": "2024",
+            "DATE": "2024-01-02",
+            "AMOUNT": "0,250",
+            "TYPE": "-"
         }
     ],
     "BSD": [
@@ -15235,6 +15242,20 @@
             "DATE": "2024-01-06",
             "AMOUNT": "1,100",
             "TYPE": "-"
+        },
+        {
+            "TICKER": "BERR",
+            "YEAR": "2024",
+            "DATE": "2024-01-05",
+            "AMOUNT": "1,100",
+            "TYPE": "-"
+        },
+        {
+            "TICKER": "BERR",
+            "YEAR": "2024",
+            "DATE": "2024-01-12",
+            "AMOUNT": "1,100",
+            "TYPE": "-"
         }
     ],
     "FNAC": [
@@ -15768,6 +15789,13 @@
             "TICKER": "GTT",
             "YEAR": "2023",
             "DATE": "2023-12-13",
+            "AMOUNT": "1,850",
+            "TYPE": "Interim"
+        },
+        {
+            "TICKER": "GTT",
+            "YEAR": "2023",
+            "DATE": "2023-12-12",
             "AMOUNT": "1,850",
             "TYPE": "Interim"
         }
@@ -21013,6 +21041,13 @@
             "DATE": "2023-05-02",
             "AMOUNT": "9,500",
             "TYPE": "Final"
+        },
+        {
+            "TICKER": "KER",
+            "YEAR": "2024",
+            "DATE": "2024-01-16",
+            "AMOUNT": "4,500",
+            "TYPE": "Interim"
         }
     ],
     "LOUP": [
@@ -25319,6 +25354,13 @@
             "TICKER": "NOKIA",
             "YEAR": "2023",
             "DATE": "2023-10-23",
+            "AMOUNT": "0,030",
+            "TYPE": "-"
+        },
+        {
+            "TICKER": "NOKIA",
+            "YEAR": "2024",
+            "DATE": "2024-01-30",
             "AMOUNT": "0,030",
             "TYPE": "-"
         }
@@ -33116,6 +33158,13 @@
             "DATE": "2023-12-21",
             "AMOUNT": "3,100",
             "TYPE": "Final"
+        },
+        {
+            "TICKER": "SW",
+            "YEAR": "2023",
+            "DATE": "2023-12-20",
+            "AMOUNT": "3,100",
+            "TYPE": "Final"
         }
     ],
     "SOP": [
@@ -34181,6 +34230,13 @@
             "TICKER": "STMPA",
             "YEAR": "2024",
             "DATE": "2024-03-19",
+            "AMOUNT": "0,062",
+            "TYPE": "Trimestriel"
+        },
+        {
+            "TICKER": "STMPA",
+            "YEAR": "2023",
+            "DATE": "2023-12-11",
             "AMOUNT": "0,062",
             "TYPE": "Trimestriel"
         }
@@ -37811,6 +37867,27 @@
             "DATE": "2023-05-23",
             "AMOUNT": "1,750",
             "TYPE": "-"
+        },
+        {
+            "TICKER": "TRI",
+            "YEAR": "2021",
+            "DATE": "2021-09-16",
+            "AMOUNT": "1,600",
+            "TYPE": "-"
+        },
+        {
+            "TICKER": "TRI",
+            "YEAR": "2022",
+            "DATE": "2022-03-17",
+            "AMOUNT": "0,700",
+            "TYPE": "-"
+        },
+        {
+            "TICKER": "TRI",
+            "YEAR": "2024",
+            "DATE": "2024-01-18",
+            "AMOUNT": "1,750",
+            "TYPE": "Final"
         }
     ],
     "ALTXC": [
@@ -43482,5 +43559,6 @@
     "ALVGO": [],
     "VLTSA": [],
     "WLN": [],
-    "XFAB": []
+    "XFAB": [],
+    "ALDBT": []
 }
